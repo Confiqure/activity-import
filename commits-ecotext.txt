@@ -1,1 +1,2 @@
+34dd7c7518e46bd6eee9242c54bf446e9e31fc4f | Implement Project Gutenberg POC | 2020-07-16 19:09:57 -0400  |  2 files changed, 118 insertions(+), 6 deletions(-)
 1d714ee0cc79cf1b58f178e5e96882e51d2fb17c | Add method helpers, enable windows testing | 2020-07-16 19:09:35 -0400  |  2 files changed, 22 insertions(+), 11 deletions(-)
