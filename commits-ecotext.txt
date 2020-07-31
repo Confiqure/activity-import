@@ -1,3 +1,4 @@
+ec279ff26c43d65dee7a7ff3cd643b3a9e28ca93 | Minor tweak with provider ID | 2020-07-31 14:42:13 -0400  |  1 file changed, 1 insertion(+), 5 deletions(-)
 00ae1f9b917823f48da5980b60332bbdd5a32232 | Move ISBN loader into separate function | 2020-07-31 10:04:46 -0400  |  1 file changed, 10 insertions(+), 6 deletions(-)
 ae789831175271ed6f16eafc3aec5ed01675b7be | Add to fetch provider | 2020-07-31 08:58:46 -0400  |  1 file changed, 4 insertions(+), 3 deletions(-)
 1a89dfb0cff360916761ef3d430c1ac266912791 | Small tweaks | 2020-07-31 08:43:22 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
