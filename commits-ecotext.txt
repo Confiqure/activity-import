@@ -1,3 +1,4 @@
+fb70fccfd925c613dc97b92aae8cd5ed211fa701 | Correctly register provider | 2020-08-03 16:38:32 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 ec279ff26c43d65dee7a7ff3cd643b3a9e28ca93 | Minor tweak with provider ID | 2020-07-31 14:42:13 -0400  |  1 file changed, 1 insertion(+), 5 deletions(-)
 00ae1f9b917823f48da5980b60332bbdd5a32232 | Move ISBN loader into separate function | 2020-07-31 10:04:46 -0400  |  1 file changed, 10 insertions(+), 6 deletions(-)
 ae789831175271ed6f16eafc3aec5ed01675b7be | Add to fetch provider | 2020-07-31 08:58:46 -0400  |  1 file changed, 4 insertions(+), 3 deletions(-)
