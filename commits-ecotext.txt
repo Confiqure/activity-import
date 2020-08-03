@@ -1,3 +1,4 @@
+42f4d6ac362ac811c6eb2c5a4539472c287627ef | Merged development into hotfix-orangegrovetexts | 2020-08-03 20:39:37 +0000
 eaf72486fbb7d1941fb7068c0340d5deae284f07 | Merged in orangegrovetexts (pull request #45) | 2020-08-03 17:40:26 +0000
 fb70fccfd925c613dc97b92aae8cd5ed211fa701 | Correctly register provider | 2020-08-03 16:38:32 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 ec279ff26c43d65dee7a7ff3cd643b3a9e28ca93 | Minor tweak with provider ID | 2020-07-31 14:42:13 -0400  |  1 file changed, 1 insertion(+), 5 deletions(-)
