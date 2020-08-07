@@ -1,3 +1,4 @@
+4206d27cb03bc8f57739e82fa3e4b8a9d03c51e3 | Add Open Michigan provider | 2020-08-07 10:08:57 -0400  |  2 files changed, 105 insertions(+), 4 deletions(-)
 541f82ddc05afa9b181a411aedabdd5a6e63cf1b | Customize data cleaning | 2020-08-07 10:08:32 -0400  |  1 file changed, 56 insertions(+), 29 deletions(-)
 909121e178bb47456cc2f58754df5288e7e457eb | More detailed book output | 2020-08-07 10:08:12 -0400  |  1 file changed, 8 insertions(+), 8 deletions(-)
 de60366af63cd2f74a4db9c0565734270541af21 | Merged in simplify-fetch-provider (pull request #50) | 2020-08-07 00:00:57 +0000
