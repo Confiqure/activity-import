@@ -1,3 +1,4 @@
+909121e178bb47456cc2f58754df5288e7e457eb | More detailed book output | 2020-08-07 10:08:12 -0400  |  1 file changed, 8 insertions(+), 8 deletions(-)
 de60366af63cd2f74a4db9c0565734270541af21 | Merged in simplify-fetch-provider (pull request #50) | 2020-08-07 00:00:57 +0000
 25bb5d2a1408e76070d4d3500c84f2d193af988a | Merged development into simplify-fetch-provider | 2020-08-05 18:42:26 +0000
 bd30a023e303d34fe7e41e2a8edb083fae7d3700 | Fix tests | 2020-08-05 14:40:39 -0400  |  2 files changed, 11 insertions(+), 9 deletions(-)
