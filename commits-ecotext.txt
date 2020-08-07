@@ -1,3 +1,4 @@
+91641216b03602433b39c5d9ff32183e31acc695 | Merged in open-michigan (pull request #52) | 2020-08-07 21:52:12 +0000
 72eeb531fc84b666496a0d5cf450585bb51ad91f | Abstract normalization functions | 2020-08-07 14:34:06 -0400  |  3 files changed, 52 insertions(+), 26 deletions(-)
 122ce7f8ccb5f142d8a740d513b33867e2516439 | Merged development into open-michigan | 2020-08-07 14:09:40 +0000
 4206d27cb03bc8f57739e82fa3e4b8a9d03c51e3 | Add Open Michigan provider | 2020-08-07 10:08:57 -0400  |  2 files changed, 105 insertions(+), 4 deletions(-)
