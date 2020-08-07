@@ -1,3 +1,4 @@
+de60366af63cd2f74a4db9c0565734270541af21 | Merged in simplify-fetch-provider (pull request #50) | 2020-08-07 00:00:57 +0000
 25bb5d2a1408e76070d4d3500c84f2d193af988a | Merged development into simplify-fetch-provider | 2020-08-05 18:42:26 +0000
 bd30a023e303d34fe7e41e2a8edb083fae7d3700 | Fix tests | 2020-08-05 14:40:39 -0400  |  2 files changed, 11 insertions(+), 9 deletions(-)
 b8bdf0f5d1cbac3ba36c7879630f047332692307 | Simplify fetch provider logic | 2020-08-05 14:23:03 -0400  |  8 files changed, 51 insertions(+), 63 deletions(-)
