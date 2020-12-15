@@ -1,3 +1,4 @@
+baca24f35572d6ea71b0f73f4c490a532d09df40 | Test HTML, PDF, and ZIP; and run polish | 2020-12-15 09:24:59 -0500  |  9 files changed, 1082 insertions(+), 11 deletions(-)
 68c409655442f81ad6be7b84f98437f0fb10d541 | Small fixes and add comments | 2020-12-15 07:12:59 -0500  |  3 files changed, 17 insertions(+), 14 deletions(-)
 01ec58133901f1e3902e2a0b7c1361b7d20cd9d8 | Small fixes and add comments | 2020-12-15 07:12:59 -0500  |  3 files changed, 17 insertions(+), 14 deletions(-)
 a79ab118e04d5f0ca7387678addc07b18531a07f | Only track active testing files | 2020-12-15 07:07:12 -0500  |  58 files changed, 5 insertions(+), 54286 deletions(-)
