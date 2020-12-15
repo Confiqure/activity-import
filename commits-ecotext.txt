@@ -1,3 +1,4 @@
+6693b470aab436955411fb00fdb30482ef626075 | Add digest and testing framework | 2020-12-14 21:23:54 -0500  |  4 files changed, 50 insertions(+), 27 deletions(-)
 a8b01df1e84a89ab472bdac558b492707e8f3375 | Add ebook convert function and test framework | 2020-12-11 10:16:40 -0500  |  3 files changed, 72 insertions(+), 14 deletions(-)
 b0a3e64934226cd49ea20acdf9b0bf4e1850a6f3 | Add ebook convert function and test framework | 2020-12-11 10:16:40 -0500  |  3 files changed, 72 insertions(+), 14 deletions(-)
 e7647c166202498d5fb91b5d35861f0100968cbc | Add test candidates | 2020-12-10 20:21:43 -0500  |  57 files changed, 54281 insertions(+)
