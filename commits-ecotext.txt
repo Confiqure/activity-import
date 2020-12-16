@@ -1,3 +1,4 @@
+4b7997b820379312cfe538a8fae489d64710d86f | WIP update tests (fix polish arguments issue) | 2020-12-15 20:50:35 -0500  |  4 files changed, 30 insertions(+), 14 deletions(-)
 94e7649b20ddc3535d1db0b53eddb07ea288e540 | Merged in calibre-conversion (pull request #6) | 2020-12-15 16:14:54 +0000
 eee10658c18e965288946a2ff239d23c0a3ceacf | Use object name with proper file extension | 2020-12-15 10:02:36 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 15336745448ae9f6c2f198aee2644041b46a8429 | Use object name with proper file extension | 2020-12-15 10:02:36 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
