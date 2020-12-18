@@ -1,3 +1,4 @@
+471fd5fee95d401191e1ba14c76d698ec0197eea | Merged in development (pull request #2) | 2020-12-18 14:46:12 +0000
 5a3b51769395177f6244252e9641c21f613542da | Merged in calibre-conversion (pull request #1) | 2020-12-18 14:45:00 +0000
 f8beb9a540654c4aa0813b4ff0ac6215967b2a1e | Merge remote-tracking branch development into HEAD | 2020-12-18 07:48:46 -0500
 5784d4fb46bb84536587d1abc58e58778856d1b5 | Hotfix | 2020-12-15 21:15:59 -0500  |  1 file changed, 1 deletion(-)
