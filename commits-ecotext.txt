@@ -1,3 +1,4 @@
+837b11877eb1c3aeb9ffd5cbb59c87b352a04f6e | Replace pricing page with pilot | 2021-07-02 10:39:05 -0400  |  2 files changed, 2 insertions(+), 2 deletions(-)
 d31a40d72b9d261c88d853266f87a3b079ff0a91 | Add custom Kent School signup portal and routing | 2021-06-28 14:49:39 -0400  |  3 files changed, 26 insertions(+), 3 deletions(-)
 d1af2889d404d8cd35eb10f6ccda0a880af4847e | Update feedback link | 2021-06-25 11:57:36 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 419bbdcf703a040256a768f605f85c103118bafc | Move proud partners to bottom of landing page | 2021-06-24 10:11:23 -0400  |  1 file changed, 26 insertions(+), 26 deletions(-)
