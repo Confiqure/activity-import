@@ -1,3 +1,4 @@
+9bfa870399bf1f1699bc1fa60462e90a559f28d4 | Add new pilot section to home page | 2021-07-02 10:48:29 -0400  |  2 files changed, 30 insertions(+)
 3f66b28c4e4ab1b3fbd3a2b8135d61dcc8e992eb | Use secondary green color | 2021-07-02 10:46:18 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 837b11877eb1c3aeb9ffd5cbb59c87b352a04f6e | Replace pricing page with pilot | 2021-07-02 10:39:05 -0400  |  2 files changed, 2 insertions(+), 2 deletions(-)
 d31a40d72b9d261c88d853266f87a3b079ff0a91 | Add custom Kent School signup portal and routing | 2021-06-28 14:49:39 -0400  |  3 files changed, 26 insertions(+), 3 deletions(-)
