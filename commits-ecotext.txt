@@ -1,3 +1,4 @@
+6b0d8f393e7973863ee6883d645e3cd3f9e4d6d5 | Center text and reduce padding | 2021-07-02 12:15:34 -0400  |  1 file changed, 7 insertions(+), 7 deletions(-)
 9bfa870399bf1f1699bc1fa60462e90a559f28d4 | Add new pilot section to home page | 2021-07-02 10:48:29 -0400  |  2 files changed, 30 insertions(+)
 3f66b28c4e4ab1b3fbd3a2b8135d61dcc8e992eb | Use secondary green color | 2021-07-02 10:46:18 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 837b11877eb1c3aeb9ffd5cbb59c87b352a04f6e | Replace pricing page with pilot | 2021-07-02 10:39:05 -0400  |  2 files changed, 2 insertions(+), 2 deletions(-)
