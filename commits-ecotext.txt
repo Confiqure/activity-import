@@ -1,3 +1,4 @@
+fc2aefd98721667895c9bc52c71823a81e12be86 | Update feedback URL to use self-managed link | 2021-07-05 17:31:33 -0400  |  5 files changed, 344 insertions(+), 228 deletions(-)
 6b0d8f393e7973863ee6883d645e3cd3f9e4d6d5 | Center text and reduce padding | 2021-07-02 12:15:34 -0400  |  1 file changed, 7 insertions(+), 7 deletions(-)
 9bfa870399bf1f1699bc1fa60462e90a559f28d4 | Add new pilot section to home page | 2021-07-02 10:48:29 -0400  |  2 files changed, 30 insertions(+)
 3f66b28c4e4ab1b3fbd3a2b8135d61dcc8e992eb | Use secondary green color | 2021-07-02 10:46:18 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
