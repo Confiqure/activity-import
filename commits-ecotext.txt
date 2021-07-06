@@ -1,3 +1,4 @@
+d32316ace5e29ab3c1dab4c979ecfcd12feeb707 | Change pilot container background to white | 2021-07-06 14:00:59 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 cac57b7cf3b300a112e4b9c56867d18223bf6ae9 | Update footer to include new links | 2021-07-06 13:56:04 -0400  |  1 file changed, 95 insertions(+), 73 deletions(-)
 3209951400f55b4d2d9c1cc02a6f2342bd48c319 | Simplify redirect mappings | 2021-07-06 12:25:08 -0400  |  1 file changed, 6 insertions(+), 23 deletions(-)
 fc2aefd98721667895c9bc52c71823a81e12be86 | Update feedback URL to use self-managed link | 2021-07-05 17:31:33 -0400  |  5 files changed, 344 insertions(+), 228 deletions(-)
