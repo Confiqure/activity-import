@@ -1,3 +1,4 @@
+734c3d6468e7317dbdc3f3efd70bb8304053a11d | Merge remote-tracking branch 'origin/master' into 07-12-2021-push-to-prod | 2021-07-12 13:25:57 -0400
 d32316ace5e29ab3c1dab4c979ecfcd12feeb707 | Change pilot container background to white | 2021-07-06 14:00:59 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 cac57b7cf3b300a112e4b9c56867d18223bf6ae9 | Update footer to include new links | 2021-07-06 13:56:04 -0400  |  1 file changed, 95 insertions(+), 73 deletions(-)
 3209951400f55b4d2d9c1cc02a6f2342bd48c319 | Simplify redirect mappings | 2021-07-06 12:25:08 -0400  |  1 file changed, 6 insertions(+), 23 deletions(-)
