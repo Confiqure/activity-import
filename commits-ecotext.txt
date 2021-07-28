@@ -1,3 +1,4 @@
+cf52434345c300d45dd70d283eeb721bb0503c89 | Merge branch 'dmz' into '453-update-landing-page-to-send-inquiries-to-squarespace' | 2021-07-28 20:18:15 +0000
 547d46273c6248d653aac1c1a1b9c500590161e1 | Use bare bones landing page for now | 2021-07-28 13:27:46 -0400  |  6 files changed, 301 insertions(+), 28 deletions(-)
 d87231a4c2c3a8345d35f8c0bd10ee0cb0403e88 | Update social headline and description | 2021-07-28 12:21:51 -0400  |  4 files changed, 1045 insertions(+), 631 deletions(-)
 74b1875fb04df40d414fda927e4a93725843d569 | Update docs and fix code formatting | 2021-07-26 13:57:46 -0400  |  2 files changed, 1053 insertions(+), 635 deletions(-)
