@@ -1,3 +1,4 @@
+6b9719aa894363b5ebfc1f26a8fa5784a04e3175 | Add more Schema.org data | 2021-07-30 10:40:00 -0400  |  1 file changed, 6 insertions(+), 1 deletion(-)
 2159378e945cf8d4fc97035c58759c6aa590317d | Add ecoText Twitter handle to metadata | 2021-07-30 10:02:18 -0400  |  1 file changed, 1 insertion(+)
 871efcd55987a71e4bea4003ec4fc573ab2219d5 | Add Schema.org social profile data | 2021-07-30 09:24:59 -0400  |  1 file changed, 18 insertions(+)
 dc824ababe07624cfb6808f3e0a47f54d4865507 | Use absolute URL for Open Graph | 2021-07-30 08:46:02 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
