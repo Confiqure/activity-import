@@ -1,3 +1,4 @@
+dc824ababe07624cfb6808f3e0a47f54d4865507 | Use absolute URL for Open Graph | 2021-07-30 08:46:02 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 cf52434345c300d45dd70d283eeb721bb0503c89 | Merge branch 'dmz' into '453-update-landing-page-to-send-inquiries-to-squarespace' | 2021-07-28 20:18:15 +0000
 547d46273c6248d653aac1c1a1b9c500590161e1 | Use bare bones landing page for now | 2021-07-28 13:27:46 -0400  |  6 files changed, 301 insertions(+), 28 deletions(-)
 d87231a4c2c3a8345d35f8c0bd10ee0cb0403e88 | Update social headline and description | 2021-07-28 12:21:51 -0400  |  4 files changed, 1045 insertions(+), 631 deletions(-)
