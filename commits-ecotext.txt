@@ -1,3 +1,4 @@
+2d0e90a6e12fccbba9dec26289c90caf43618d3c | Add more socials | 2021-08-03 10:44:17 -0400  |  1 file changed, 3 insertions(+), 1 deletion(-)
 b187667aa2300d453a62e6cb6fb8c771f173fc75 | Fix typos | 2021-07-30 12:57:24 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 8b1aa819362eee2c10c9dae3f8cf68020506ffa9 | Fix mobile and style bugs on stripped landing page | 2021-07-30 11:09:07 -0400  |  5 files changed, 31 insertions(+), 23 deletions(-)
 6b9719aa894363b5ebfc1f26a8fa5784a04e3175 | Add more Schema.org data | 2021-07-30 10:40:00 -0400  |  1 file changed, 6 insertions(+), 1 deletion(-)
