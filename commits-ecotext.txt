@@ -1,3 +1,4 @@
+a34fb9e59160244c1f4dc36d6f3f1912eb16a3d1 | Merge branch '472-enable-group-analytics-for-all-members' into 'dmz' | 2021-09-20 19:07:27 +0000
 5910880950fbec9f0ae04cb5e2a9f444bf4ddf76 | Enable group analytics for all members | 2021-09-20 14:45:33 -0400  |  1 file changed, 2 insertions(+), 4 deletions(-)
 2a8e00744f4fff328af5b2f26de99052f4e58758 | Merge branch 'dmz' into 'master' | 2021-09-17 14:43:41 +0000
 f2cefda9bbf1aef9196774d24f585e07ef9ac1e1 | Merge branch '471-for-professors-show-normal-dashboard-below-analytics' into 'dmz' | 2021-09-17 13:59:14 +0000
