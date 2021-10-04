@@ -1,3 +1,4 @@
+d1cbb34b274fc19d2b6a870b66aa676b5ddf83b4 | Apply state fix for sections | 2021-10-04 15:08:45 -0400  |  1 file changed, 12 insertions(+), 4 deletions(-)
 4cfd5d787c88bf284fbf34341a6cc2a746f7a363 | Add FETC redirect | 2021-10-04 15:06:07 -0400  |  1 file changed, 1 insertion(+)
 b5fc7434f4af025f5dc3a205281772004f794364 | Add signup portal for NHCSS | 2021-09-30 13:52:14 -0400  |  2 files changed, 2 insertions(+)
 77df6b95f1cd6fe3d7667018ff21e8539c16e676 | Onboarding language tweaks | 2021-09-24 00:08:39 -0400  |  3 files changed, 78 insertions(+), 74 deletions(-)
