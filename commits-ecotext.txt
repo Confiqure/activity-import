@@ -1,3 +1,4 @@
+c345d78b17df673727618e520dee7254e1727eb1 | Update documentation | 2021-10-29 14:42:30 -0400  |  122 files changed, 3488 insertions(+), 3134 deletions(-)
 db4faf9602f979b8a8e8013a2a2827e424dad798 | Remove extra signup steps (complete in profile) | 2021-10-29 12:59:53 -0400  |  15 files changed, 30 insertions(+), 555 deletions(-)
 a79b2573219414a6c8ee6b9568877423d858025a | Simplify profile updating logic | 2021-10-29 09:35:18 -0400  |  6 files changed, 26 insertions(+), 125 deletions(-)
 0b3e7698bd8052de644ae021b111f1150eca92a0 | Combine full name + referral into first step | 2021-10-29 09:09:21 -0400  |  11 files changed, 72 insertions(+), 234 deletions(-)
