@@ -1,3 +1,4 @@
+a79b2573219414a6c8ee6b9568877423d858025a | Simplify profile updating logic | 2021-10-29 09:35:18 -0400  |  6 files changed, 26 insertions(+), 125 deletions(-)
 0b3e7698bd8052de644ae021b111f1150eca92a0 | Combine full name + referral into first step | 2021-10-29 09:09:21 -0400  |  11 files changed, 72 insertions(+), 234 deletions(-)
 963888c2ad26e65ba57d0c72772980f88e827bd7 | Fix typo | 2021-10-20 13:31:31 -0400  |  8 files changed, 33 insertions(+), 33 deletions(-)
 d66ee6a982e530a63b700c101390aa8aab876547 | Merge branch 'change-steps-order-wizard' into 'dmz' | 2021-10-04 19:18:34 +0000
