@@ -1,3 +1,4 @@
+3d39321dbdacaf0168becf6d5ed91428ba2453bf | Fix infinite loader during incorrect verification | 2021-11-05 12:48:01 -0400  |  1 file changed, 4 insertions(+), 2 deletions(-)
 0953decf4c82b9f0cda2e62c96331ed8a85df5a1 | Add educator checkbox to signup | 2021-11-04 22:22:20 -0400  |  5 files changed, 43 insertions(+), 90 deletions(-)
 08fc2933a973e396f305ba3db7a69ed556bd62f8 | Add toggle to disable Stripe plan selection | 2021-11-04 19:10:03 -0400  |  1 file changed, 91 insertions(+), 80 deletions(-)
 40abed2593257aefee88c7d6de10b49be693e1e5 | Show pre-defined searches on public page | 2021-11-02 16:07:37 -0400  |  3 files changed, 79 insertions(+), 7 deletions(-)
