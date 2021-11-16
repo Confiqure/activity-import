@@ -1,3 +1,4 @@
+94350e10745676f903dc38e494b5adf8bb59171a | Optimize GIF resources + fix compilation | 2021-11-15 20:53:37 -0500  |  9 files changed, 2 insertions(+), 4 deletions(-)
 0ba6b606d34649dbce2f4121415900627b403cfa | Add onboarding resources to empty landing page | 2021-11-15 19:51:52 -0500  |  11 files changed, 119 insertions(+), 21 deletions(-)
 10b540c1fe9b5c0fe27573b6e252a5b68209bb83 | More language updates (free trial) | 2021-11-12 16:49:39 -0500  |  3 files changed, 7 insertions(+), 7 deletions(-)
 8227847351de2d9d5d7b51cab92cba1448973545 | Update subscribe language, fix typo | 2021-11-12 15:10:30 -0500  |  3 files changed, 80 insertions(+), 93 deletions(-)
