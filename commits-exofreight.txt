@@ -1,3 +1,4 @@
+54dd9abe1d1b7b7fa392ede0246736ec59e4abc1 | Fix login asset on tiny displays like iPhone SE | 2022-06-10 16:11:46 -0400  |  2 files changed, 4 insertions(+), 15 deletions(-)
 013961a53b9f6858567472eed698e0077d68f9b7 | Update language to match design spec | 2022-06-09 13:47:52 -0400  |  1 file changed, 6 insertions(+), 2 deletions(-)
 2f5b0d1c0c231a05b1656994646f574dd83caed6 | Render cover above form on smaller displays | 2022-06-09 13:47:32 -0400  |  2 files changed, 6 insertions(+), 8 deletions(-)
 fbe78916cde616402b9993a5557ba342c07ff351 | Fix warnings | 2022-06-09 13:46:06 -0400  |  1 file changed, 5 insertions(+), 5 deletions(-)
