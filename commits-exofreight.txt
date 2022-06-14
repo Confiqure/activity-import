@@ -1,3 +1,4 @@
+03a535cc6aca8390d450452acdb26a0a18413fdc | Force state abbreviations to uppercase | 2022-06-14 09:55:13 -0400  |  3 files changed, 3 insertions(+), 3 deletions(-)
 68c985e092d44ccbbc1a67884c8236d76050aa51 | Add masks + validation to phone, email, and bank | 2022-06-13 15:34:24 -0400  |  6 files changed, 40 insertions(+), 12 deletions(-)
 f3c5117daeb048eb5eb5c536554d1804cfe2f2af | Refactor email confirm -> email remit | 2022-06-13 12:19:08 -0400  |  6 files changed, 11 insertions(+), 11 deletions(-)
 0c144929adced68bb8ad4e09e7f2e2bf82c9dcb8 | Reduce cover image size | 2022-06-10 18:09:54 -0400  |  1 file changed, 0 insertions(+), 0 deletions(-)
