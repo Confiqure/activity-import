@@ -1,3 +1,4 @@
+224d72aa59d082f2b0486f082663cd87630c3f28 | Add copy to page | 2022-06-17 16:07:01 -0400  |  1 file changed, 8 insertions(+), 16 deletions(-)
 86e46f7a04576ec396ef8e003deacc79c104e5cd | Hide dashboard until built, fix menu on mobile | 2022-06-17 15:28:11 -0400  |  5 files changed, 15 insertions(+), 30 deletions(-)
 37d6e47dd28dfb37538f87f98d424e39c42a0f4c | Small README tweak | 2022-06-17 12:02:48 -0400  |  2 files changed, 15 insertions(+), 23 deletions(-)
 e883a60060be7ed0d701258f2f3ad94b8239a73c | Merge pull request #21 from exo-freight/feature/sort-props | 2022-06-16 17:03:25 -0400 | 
