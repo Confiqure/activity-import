@@ -1,3 +1,4 @@
+83a856550a0e99a6b1bb7e08c8d096306c98f3c6 | Merge pull request #24 from exo-freight/payment-methods-copy | 2022-06-20 17:09:10 -0400 | 
 d1485cc1d4a41a077a6260e7c4deed9200ecc423 | Fix white screen of death | 2022-06-20 15:27:21 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 224d72aa59d082f2b0486f082663cd87630c3f28 | Add copy to page | 2022-06-17 16:07:01 -0400  |  1 file changed, 8 insertions(+), 16 deletions(-)
 86e46f7a04576ec396ef8e003deacc79c104e5cd | Hide dashboard until built, fix menu on mobile | 2022-06-17 15:28:11 -0400  |  5 files changed, 15 insertions(+), 30 deletions(-)
