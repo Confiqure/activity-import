@@ -1,3 +1,4 @@
+2517fd92e25392542006ec3c44dbd4b0698b1ffc | Make rate optional for preferred lanes | 2022-06-21 16:58:55 -0400  |  2 files changed, 3 insertions(+), 4 deletions(-)
 c424b5ccf0ed78675ccdecff6bcf8b66c3d39ddf | Signal that we made new contacts an account | 2022-06-20 17:30:59 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 7898fd3e86c89b5d26087f9a4a2847a43329489c | Remove package.lock, as yarn is our preferred package manager | 2022-06-20 17:30:40 -0400  |  1 file changed, 29307 deletions(-)
 83a856550a0e99a6b1bb7e08c8d096306c98f3c6 | Merge pull request #24 from exo-freight/payment-methods-copy | 2022-06-20 17:09:10 -0400 | 
