@@ -1,3 +1,4 @@
+ef146d22cf9147a5d21c24b7e880850d5ed0f87e | Merge branch main into 983-carrier-portal-tweaks | 2022-06-22 10:28:14 -0400 | 
 f6dc8cfe4ed2332f35d015bd1cf014077c7f9cd0 | Refactor LoadCount -> SimilarLoads | 2022-06-22 10:03:18 -0400  |  2 files changed, 5 insertions(+), 5 deletions(-)
 2517fd92e25392542006ec3c44dbd4b0698b1ffc | Make rate optional for preferred lanes | 2022-06-21 16:58:55 -0400  |  2 files changed, 3 insertions(+), 4 deletions(-)
 c424b5ccf0ed78675ccdecff6bcf8b66c3d39ddf | Signal that we made new contacts an account | 2022-06-20 17:30:59 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
