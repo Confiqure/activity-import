@@ -1,3 +1,4 @@
+ca7355a4193f7b82e213274d7fbba773fa59e5aa | Show alert if using the free tier | 2022-06-21 21:56:48 -0400  |  4 files changed, 26 insertions(+), 2 deletions(-)
 f61a116d6160fed782e64394fcaf58747dbd4a29 | Merge branch 'dmz' into 'master' | 2021-12-09 19:46:22 +0000
 a752b26a317cdf625e96be37bd45e7b09b7256c8 | Fix custom date selector bug | 2021-12-07 14:56:52 -0500  |  1 file changed, 20 insertions(+), 20 deletions(-)
 234326e4d048cd3fcb1e0c7e1e0c059487633b6d | Merge branch 'dmz' into 'master' | 2021-12-04 00:24:14 +0000
