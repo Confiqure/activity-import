@@ -1,3 +1,4 @@
+280de7b05a172c8584ac9dbae30b3042ec9eaf58 | Merge branch master into 0607-readme-tweaks | 2022-06-23 14:08:14 -0400 | 
 24a0410ea00439d863b4e60f7bbd8cdc7f6c7418 | Update documentation | 2022-06-23 13:59:40 -0400  |  3 files changed, 67 insertions(+), 42 deletions(-)
 1ea9afd407a3d7b501526bf6491febb4f68781d9 | Simplify collapsed loads UI/UX | 2022-06-22 17:04:55 -0400  |  4 files changed, 5 insertions(+), 38 deletions(-)
 a333952761d39535cd083cf61d44218861efe60b | Fix broken build | 2022-06-22 10:38:05 -0400  |  1 file changed, 3 insertions(+), 3 deletions(-)
