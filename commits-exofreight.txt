@@ -1,3 +1,4 @@
+52cf8b8a5f7f4fd77b313bfcd4cfa2cbf7e475d2 | Add firebase instructions | 2022-06-23 14:52:46 -0400  |  1 file changed, 9 insertions(+), 2 deletions(-)
 c5e3dee987aee534de0d2bd1ddc4d30441f1fe34 | Use new TMS API key env variable | 2022-06-23 14:39:45 -0400  |  2 files changed, 3 insertions(+), 3 deletions(-)
 c1710d7ca75c082066fb099b7c6433aba1218f35 | Merge pull request #37 from exo-freight/feature/fix-secrets | 2022-06-23 14:26:48 -0400 | 
 59d1d7fc698bbe3471448671b686ca3f9ccd959f | Merge pull request #447 from exo-freight/0607-readme-tweaks | 2022-06-23 14:08:55 -0400 | 
