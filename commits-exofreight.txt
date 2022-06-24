@@ -1,3 +1,4 @@
+a2c9b956982935a941659ba0666d327320220f8f | Use one view button to trigger the modal | 2022-06-24 15:41:46 -0400  |  4 files changed, 9 insertions(+), 22 deletions(-)
 095ad70a986289311b11a5195883d0519736488a | Replace "US docket" with "MC number" | 2022-06-24 13:15:45 -0400  |  3 files changed, 4 insertions(+), 4 deletions(-)
 22fecfb6984daa2833e2028f7b549a8394ff52da | Merge pull request #23 from exo-freight/983-carrier-portal-tweaks | 2022-06-24 12:29:11 -0400 | 
 c7de4f00eb4b6c4138b163af602b5c4f5e9c4b8b | Fix modal not opening for collapsed loads | 2022-06-24 12:13:28 -0400  |  1 file changed, 12 insertions(+), 8 deletions(-)
