@@ -1,3 +1,4 @@
+22fecfb6984daa2833e2028f7b549a8394ff52da | Merge pull request #23 from exo-freight/983-carrier-portal-tweaks | 2022-06-24 12:29:11 -0400 | 
 c7de4f00eb4b6c4138b163af602b5c4f5e9c4b8b | Fix modal not opening for collapsed loads | 2022-06-24 12:13:28 -0400  |  1 file changed, 12 insertions(+), 8 deletions(-)
 c01ffbb9b848eb3a9830b27df74d4d5cfcd90821 | Remove unused type | 2022-06-24 12:01:58 -0400  |  1 file changed, 16 deletions(-)
 52cf8b8a5f7f4fd77b313bfcd4cfa2cbf7e475d2 | Add firebase instructions | 2022-06-23 14:52:46 -0400  |  1 file changed, 9 insertions(+), 2 deletions(-)
