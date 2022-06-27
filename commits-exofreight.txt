@@ -1,3 +1,4 @@
+1b3a7142f33a6af90c6a9e781fd6f31b408b3bde | Fix gitignore | 2022-06-27 11:20:03 -0400  |  1 file changed, 2 insertions(+), 13 deletions(-)
 a2c9b956982935a941659ba0666d327320220f8f | Use one view button to trigger the modal | 2022-06-24 15:41:46 -0400  |  4 files changed, 9 insertions(+), 22 deletions(-)
 095ad70a986289311b11a5195883d0519736488a | Replace "US docket" with "MC number" | 2022-06-24 13:15:45 -0400  |  3 files changed, 4 insertions(+), 4 deletions(-)
 22fecfb6984daa2833e2028f7b549a8394ff52da | Merge pull request #23 from exo-freight/983-carrier-portal-tweaks | 2022-06-24 12:29:11 -0400 | 
