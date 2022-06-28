@@ -1,3 +1,4 @@
+7c3dbd2ae4c423031b1ad438b436242f780de65d | Update title | 2022-06-28 09:55:28 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 1a1a74e208bc1169d964735ff3891e6f579ee646 | Language updates | 2022-06-27 13:20:11 -0400  |  2 files changed, 7 insertions(+), 16 deletions(-)
 75ecd770c146973b8273b819811d05061643be3b | Language updates | 2022-06-27 13:20:11 -0400  |  2 files changed, 7 insertions(+), 16 deletions(-)
 bf128eac8a5c1b3d5a70aab890bed5e068cb5d09 | Show alert if using the free tier | 2022-06-21 21:56:48 -0400  |  4 files changed, 26 insertions(+), 2 deletions(-)
