@@ -1,3 +1,4 @@
+da534316c3dbf187f768d8c487340608568d32a9 | Merge pull request #45 from exo-freight/1052-types-refactor | 2022-06-28 11:03:26 -0400 | 
 04eeb46d088d52a4bb2abca66b295bc4cc999432 | Remove unused type | 2022-06-28 10:56:03 -0400  |  1 file changed, 19 deletions(-)
 d877cbfd8b947edb262cc8c744a7151481d9b4c5 | Merge pull request #44 from exo-freight/1054-input-masks | 2022-06-28 10:50:09 -0400 | 
 b33ad76a29da76a50c500f36e5189310aaf17afb | Merge branch main into 1038-carrier-portal-feedback | 2022-06-27 21:21:34 -0400 | 
