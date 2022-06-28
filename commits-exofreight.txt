@@ -1,3 +1,4 @@
+a405dcfa0176c63985b95c73a55b69d62ecaae49 | Remove mile input from preferred lanes | 2022-06-28 19:22:27 -0400  |  4 files changed, 14 insertions(+), 12 deletions(-)
 aea741676d97420bfb333e14e002fe605a1a8afc | Enable placeholder on autocomplete fields | 2022-06-28 18:39:38 -0400  |  2 files changed, 7 insertions(+), 2 deletions(-)
 4628ad9f048edb170700399562885d1b5bbdddbe | Fix typo | 2022-06-28 12:57:31 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 da534316c3dbf187f768d8c487340608568d32a9 | Merge pull request #45 from exo-freight/1052-types-refactor | 2022-06-28 11:03:26 -0400 | 
