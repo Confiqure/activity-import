@@ -1,3 +1,4 @@
+7d255b146da3cedab1d48d036c6d5dfa4578fbf5 | Merge pull request #57 from exo-freight/hotfix/long-mc-numbers | 2022-06-29 15:23:07 -0400 | 
 024b673b984a544daf23a9403de78ac6d9e2aad4 | Fix bug: some MC numbers are longer than 6 digits | 2022-06-29 15:19:52 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 b1103277641b1ccbd249f193fc5910b002b46ac5 | Merge pull request #56 from exo-freight/hotfix/1069-carrier-exists | 2022-06-29 14:07:13 -0400 | 
 baf4b559e05345cfba50bced61aa932ae1f86792 | Fix bug check if registered data incorrect | 2022-06-29 14:00:08 -0400  |  2 files changed, 4 insertions(+), 4 deletions(-)
