@@ -1,3 +1,4 @@
+e061739b9ea45fffb32dfd8a3d274b3fa334d137 | Fix variable names + code cleanup | 2022-07-06 18:31:07 -0400  |  3 files changed, 33 insertions(+), 41 deletions(-)
 74a45db1f546e0c45c516426fa0241b78417bc4d | Add short README note about default credentials | 2022-07-06 18:26:16 -0400  |  1 file changed, 2 insertions(+)
 9ae1daefbe8293ded2da5d0787b8ee3ee94f06a8 | Remove unused component | 2022-07-06 12:28:09 -0400  |  4 files changed, 24 deletions(-)
 14997e2fc5159343879ccf5ce2b6773cbf3467f6 | Merge pull request #40 from exo-freight/1038-carrier-portal-feedback | 2022-07-05 10:48:27 -0400 | 
