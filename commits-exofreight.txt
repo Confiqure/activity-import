@@ -1,3 +1,4 @@
+e3147fb07eb70ab8e1456e87c6af8eaebbbb799c | Fix bug: app does not load (#72) | 2022-07-08 14:23:05 -0400  |  1 file changed, 8 insertions(+), 6 deletions(-)
 fb01f5c9c8a61b5f7e219c3ec0c32aa717bf5747 | Remove git secrets | 2022-07-08 12:01:43 -0400  |  1 file changed, 0 insertions(+), 0 deletions(-)
 39b39060321d2f85cfc3c4b5b8dc7c4938a42ee0 | Move classes declarations, remove old API view | 2022-07-06 18:42:21 -0400  |  4 files changed, 77 insertions(+), 95 deletions(-)
 e061739b9ea45fffb32dfd8a3d274b3fa334d137 | Fix variable names + code cleanup | 2022-07-06 18:31:07 -0400  |  3 files changed, 33 insertions(+), 41 deletions(-)
