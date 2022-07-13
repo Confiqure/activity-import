@@ -1,3 +1,4 @@
+ad9cbec08917a64ee49298da6658bdf855cb3e94 | Use inline exports where possible | 2022-07-13 18:46:18 -0400  |  73 files changed, 82 insertions(+), 252 deletions(-)
 6b38182c2d0d81061173c74f8c04a94abd32bd74 | Use initials util | 2022-07-13 18:01:05 -0400  |  2 files changed, 3 insertions(+), 5 deletions(-)
 a0e42c77f239271046874a43a29ebf5784089ae5 | Refactor location builder util, fix lane deletion message | 2022-07-13 17:09:28 -0400  |  9 files changed, 40 insertions(+), 31 deletions(-)
 bd24860d301581f296d15b0fc90caadec5cf1887 | Fix bug: account number sometimes not validated | 2022-07-13 16:24:50 -0400  |  1 file changed, 3 insertions(+), 4 deletions(-)
