@@ -1,3 +1,4 @@
+257ce89ad1455e55376a7fde5c681819dec2d02b | Update phone mask display | 2022-07-13 16:19:36 -0400  |  5 files changed, 10 insertions(+), 13 deletions(-)
 bb14eabd88e806b715fb23384a804f0d9afde3fb | Merge pull request #78 from exo-freight/1135-implement-backhaul-actions | 2022-07-11 13:00:13 -0400 | 
 87cd88e3830955fe075a763e699ea87622a9d0b6 | Enable quote + book/call actions for backhaul loads | 2022-07-11 12:51:47 -0400  |  1 file changed, 44 insertions(+), 16 deletions(-)
 f7f971caa5a87e76c02efe31d4eaf24b54d136f5 | Merge pull request #1141 from exo-freight/feature/fix-urls | 2022-07-11 12:31:47 -0400 | 
