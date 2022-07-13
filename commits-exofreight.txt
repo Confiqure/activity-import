@@ -1,3 +1,4 @@
+a0e42c77f239271046874a43a29ebf5784089ae5 | Refactor location builder util, fix lane deletion message | 2022-07-13 17:09:28 -0400  |  9 files changed, 40 insertions(+), 31 deletions(-)
 bd24860d301581f296d15b0fc90caadec5cf1887 | Fix bug: account number sometimes not validated | 2022-07-13 16:24:50 -0400  |  1 file changed, 3 insertions(+), 4 deletions(-)
 579d96989405abd02a492b79f9174ca14cdfcb73 | Fix bug: display contact name instead of ID | 2022-07-13 16:23:51 -0400  |  1 file changed, 5 insertions(+), 5 deletions(-)
 257ce89ad1455e55376a7fde5c681819dec2d02b | Update phone mask display | 2022-07-13 16:19:36 -0400  |  5 files changed, 10 insertions(+), 13 deletions(-)
