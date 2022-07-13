@@ -1,3 +1,4 @@
+32f04a40e167de68215231c8c76838ef10cb1f57 | Revert cell logic change | 2022-07-13 19:13:20 -0400  |  1 file changed, 8 insertions(+), 2 deletions(-)
 20641b65f8637c06a924a1cd3f3a69733c6f6e5f | Remove rate from preferred loads screen | 2022-07-13 19:05:26 -0400  |  3 files changed, 2 insertions(+), 14 deletions(-)
 c7f3aa96b5299cc77bd6f47511bbcaaa65f45018 | Merge pull request #79 from exo-freight/payments-tweak | 2022-07-13 18:52:45 -0400 | 
 ad9cbec08917a64ee49298da6658bdf855cb3e94 | Use inline exports where possible | 2022-07-13 18:46:18 -0400  |  73 files changed, 82 insertions(+), 252 deletions(-)
