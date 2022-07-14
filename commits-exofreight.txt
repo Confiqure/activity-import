@@ -1,3 +1,4 @@
+447593b90324904037293714496cfd2f56c7d1fc | Merge pull request #85 from exo-freight/feature/1182-display-contact-phone-number-in-call-button | 2022-07-14 15:22:24 -0400 | 
 3622d8f2334f029db48edbbbe0ccb7c6c6fe74a0 | Merge branch main into feature/1182-display-contact-phone-number-in-call-button | 2022-07-14 15:21:29 -0400 | 
 22b245513d3c03fcb7047cc0fd86561d01b42874 | Merge pull request #84 from exo-freight/inline-exports | 2022-07-14 15:18:34 -0400 | 
 d1b4fe39f8664d0c2bd31411e04f6ab7cbeab076 | Catch DivisionByZero exception | 2022-07-14 15:10:28 +0000  |  1 file changed, 2 insertions(+), 1 deletion(-)
