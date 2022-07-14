@@ -1,3 +1,4 @@
+e87a3785cc406a69711ee9d89a7fbc4772e87e97 | Fix invalid types | 2022-07-14 18:46:42 +0000  |  5 files changed, 11 insertions(+), 11 deletions(-)
 6ed0e068e110a14e69df1824a6b9136ac0256bf7 | Fix bug: Load.SPOT is not equipment type | 2022-07-14 18:32:06 +0000  |  1 file changed, 3 insertions(+), 1 deletion(-)
 9d9fac1c2c5e0bbc61ef38499271fd1bd4797772 | Refactor load equipment enum pt 2 | 2022-07-14 18:21:20 +0000  |  39 files changed, 217 insertions(+), 203 deletions(-)
 4c878c6235209c305ec8cae9b4d7a60c12cd1fab | Refactor load equipment enum | 2022-07-14 17:46:14 +0000  |  55 files changed, 385 insertions(+), 424 deletions(-)
