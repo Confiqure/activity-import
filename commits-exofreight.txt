@@ -1,3 +1,4 @@
+8193a8bdefa2f5993652ce8b93349183f2b49ddf | Merge pull request #82 from exo-freight/hotfix/1181-tweaks | 2022-07-14 15:32:37 -0400 | 
 f9963bdcd3d2c8e1c21abe882737c1388c20612a | Merge branch main into hotfix/1181-tweaks | 2022-07-14 15:25:20 -0400 | 
 447593b90324904037293714496cfd2f56c7d1fc | Merge pull request #85 from exo-freight/feature/1182-display-contact-phone-number-in-call-button | 2022-07-14 15:22:24 -0400 | 
 3622d8f2334f029db48edbbbe0ccb7c6c6fe74a0 | Merge branch main into feature/1182-display-contact-phone-number-in-call-button | 2022-07-14 15:21:29 -0400 | 
