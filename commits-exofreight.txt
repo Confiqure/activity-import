@@ -1,3 +1,4 @@
+c9504d37519aeab5a76e5fc9e2fc55876df546f4 | Use standard serializer validation method | 2022-07-14 16:16:06 +0000  |  8 files changed, 40 insertions(+), 23 deletions(-)
 8a356cb1702da6927b79d4ca84e4971faf78609a | Use unit_type enum | 2022-07-14 15:55:52 +0000  |  1 file changed, 11 insertions(+), 11 deletions(-)
 036bdebd04899ccd9f55ddae40bf9f8c4d3526e5 | Refactor class names | 2022-07-14 15:40:37 +0000  |  4 files changed, 7 insertions(+), 7 deletions(-)
 f83cb9a24db6502054dc9d2b15b1402685408f67 | Refactor modal names (easier to understand) | 2022-07-14 15:36:19 +0000  |  39 files changed, 212 insertions(+), 212 deletions(-)
