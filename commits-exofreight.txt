@@ -1,3 +1,4 @@
+4e7b8ef6d3ec34860701c28ea7f45bd0bb615f34 | Remove unused API view | 2022-07-14 20:24:24 +0000  |  3 files changed, 114 deletions(-)
 1424d720df141da39dc0568c01364a57ea3bbbf9 | Refresh equipment object from db | 2022-07-14 20:20:19 +0000  |  1 file changed, 3 insertions(+), 9 deletions(-)
 1c391a0dc873f58f9363ab6e6d5ee9b6b6bb7f0c | Fix variable names | 2022-07-14 19:41:19 +0000  |  1 file changed, 14 insertions(+), 14 deletions(-)
 7e11ade8493789b008937f51798a64ba71a6d733 | Refactor constants | 2022-07-14 19:21:40 -0400  |  19 files changed, 105 insertions(+), 95 deletions(-)
