@@ -1,3 +1,4 @@
+9d9fac1c2c5e0bbc61ef38499271fd1bd4797772 | Refactor load equipment enum pt 2 | 2022-07-14 18:21:20 +0000  |  39 files changed, 217 insertions(+), 203 deletions(-)
 4c878c6235209c305ec8cae9b4d7a60c12cd1fab | Refactor load equipment enum | 2022-07-14 17:46:14 +0000  |  55 files changed, 385 insertions(+), 424 deletions(-)
 56eccf963d0711aa5d1bbfe59187f5da159b969b | Fix load model | 2022-07-14 16:19:48 +0000  |  1 file changed, 3 insertions(+), 3 deletions(-)
 c9504d37519aeab5a76e5fc9e2fc55876df546f4 | Use standard serializer validation method | 2022-07-14 16:16:06 +0000  |  8 files changed, 40 insertions(+), 23 deletions(-)
