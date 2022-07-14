@@ -1,3 +1,4 @@
+f83cb9a24db6502054dc9d2b15b1402685408f67 | Refactor modal names (easier to understand) | 2022-07-14 15:36:19 +0000  |  39 files changed, 212 insertions(+), 212 deletions(-)
 8193a8bdefa2f5993652ce8b93349183f2b49ddf | Merge pull request #82 from exo-freight/hotfix/1181-tweaks | 2022-07-14 15:32:37 -0400 | 
 f9963bdcd3d2c8e1c21abe882737c1388c20612a | Merge branch main into hotfix/1181-tweaks | 2022-07-14 15:25:20 -0400 | 
 447593b90324904037293714496cfd2f56c7d1fc | Merge pull request #85 from exo-freight/feature/1182-display-contact-phone-number-in-call-button | 2022-07-14 15:22:24 -0400 | 
