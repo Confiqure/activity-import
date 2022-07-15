@@ -1,3 +1,4 @@
+e02e1552076631e73b3af345f11664b96f78829f | Merge pull request #93 from exo-freight/1180-bug-carriers-cannot-send-multiple-quotes-for-a-single-load | 2022-07-15 14:24:38 -0400 | 
 cc00a2b705ef5096f48822fd8c1e35beb3754420 | Merge pull request #92 from exo-freight/1198-error-displayed-when-loading-the-login-page-for-the-first-time | 2022-07-15 13:40:52 -0400 | 
 5d9ca8defd0d91c0d1be63cff21d133d655b2644 | Update README to clarify install instructions | 2022-07-15 12:49:22 -0400  |  1 file changed, 27 insertions(+), 8 deletions(-)
 1be629950605c6d65ff259751d0fec1d7cc356c6 | Update README to clarify install instructions | 2022-07-15 12:17:46 -0400  |  1 file changed, 33 insertions(+), 9 deletions(-)
