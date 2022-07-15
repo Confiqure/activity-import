@@ -1,3 +1,4 @@
+106418e74b71d7973e1500b74c49500015ba4332 | Fix bug: don't show internal equipment types | 2022-07-15 15:57:13 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 37aa67dcfe66158649ea58bf78f346a8f25690a4 | Phone number is required | 2022-07-15 15:55:56 -0400  |  1 file changed, 1 insertion(+)
 a4360c1299f063b90327e39c1d4e815de1e44cd5 | Merge pull request #470 from exo-freight/dylanexo/0715-update-readme | 2022-07-15 15:34:01 -0400 | 
 89c21b2bea63c2beb417255853e5d7c7bc3ddc94 | Merge pull request #90 from exo-freight/dylanexo/0715-update-readme | 2022-07-15 15:32:44 -0400 | 
