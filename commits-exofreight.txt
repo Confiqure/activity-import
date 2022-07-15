@@ -1,3 +1,4 @@
+0c853bdf9861a671d8f1285e18f6dbd7087ab9ad | Display pickup date on payments page (#95) | 2022-07-15 17:17:56 -0400  |  1 file changed, 5 insertions(+)
 4781c29960019d19aa88ea55ba7538edfbd30a92 | Merge pull request #1218 from exo-freight/bhaumik/pickup-date-at-payment-history | 2022-07-15 16:55:38 -0400 | 
 b8ab0ade153b4c27a2b41c781d4ef5e35110de95 | Merge pull request #94 from exo-freight/hotfix/0715-prep-for-launch | 2022-07-15 15:58:54 -0400 | 
 106418e74b71d7973e1500b74c49500015ba4332 | Fix bug: don't show internal equipment types | 2022-07-15 15:57:13 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
