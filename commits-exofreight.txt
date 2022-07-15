@@ -1,3 +1,4 @@
+89c21b2bea63c2beb417255853e5d7c7bc3ddc94 | Merge pull request #90 from exo-freight/dylanexo/0715-update-readme | 2022-07-15 15:32:44 -0400 | 
 b7caa1c661a48bc7812c719b8002727a54509d88 | Merge pull request #91 from exo-freight/feature/1147-add-onboarding-disclaimer-for-carriers-with-factoring-companies | 2022-07-15 15:31:41 -0400 | 
 e02e1552076631e73b3af345f11664b96f78829f | Merge pull request #93 from exo-freight/1180-bug-carriers-cannot-send-multiple-quotes-for-a-single-load | 2022-07-15 14:24:38 -0400 | 
 cc00a2b705ef5096f48822fd8c1e35beb3754420 | Merge pull request #92 from exo-freight/1198-error-displayed-when-loading-the-login-page-for-the-first-time | 2022-07-15 13:40:52 -0400 | 
