@@ -1,3 +1,4 @@
+5d9ca8defd0d91c0d1be63cff21d133d655b2644 | Update README to clarify install instructions | 2022-07-15 12:49:22 -0400  |  1 file changed, 27 insertions(+), 8 deletions(-)
 1be629950605c6d65ff259751d0fec1d7cc356c6 | Update README to clarify install instructions | 2022-07-15 12:17:46 -0400  |  1 file changed, 33 insertions(+), 9 deletions(-)
 4e7b8ef6d3ec34860701c28ea7f45bd0bb615f34 | Remove unused API view | 2022-07-14 20:24:24 +0000  |  3 files changed, 114 deletions(-)
 1424d720df141da39dc0568c01364a57ea3bbbf9 | Refresh equipment object from db | 2022-07-14 20:20:19 +0000  |  1 file changed, 3 insertions(+), 9 deletions(-)
