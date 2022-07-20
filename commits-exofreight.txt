@@ -1,3 +1,4 @@
+98611cc4fafbf018460baf233cd648eecc2d90f6 | Merge branch main into 947-equipment-page | 2022-07-20 14:30:24 -0400 | 
 6f1db7349b36a7bfd942dbaa76d71c5b43ae21da | Merge pull request #1109 from exo-freight/itatarkin/endpoint_to_create_update_delete_multiple_equipments | 2022-07-20 14:00:31 -0400 | 
 84a02f1045d3564c4cb92f652d4e9950fd899e81 | Fix tests | 2022-07-20 13:53:37 -0400  |  3 files changed, 157 insertions(+), 86 deletions(-)
 47c773c9e8f24cce3b4c3c40158b34d9a9ffd649 | Parse getCarrierEquipment data to Equipment type | 2022-07-20 13:27:25 -0400  |  1 file changed, 16 insertions(+), 2 deletions(-)
