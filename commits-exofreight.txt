@@ -1,3 +1,4 @@
+47c773c9e8f24cce3b4c3c40158b34d9a9ffd649 | Parse getCarrierEquipment data to Equipment type | 2022-07-20 13:27:25 -0400  |  1 file changed, 16 insertions(+), 2 deletions(-)
 496d7767b3c397bf5c013aee65848ef510c8ce22 | Use one equipments payload object | 2022-07-20 05:14:54 +0000  |  3 files changed, 67 insertions(+), 90 deletions(-)
 3be06ab608853cd377513891b2e1cac656990efd | Remove unused variables | 2022-07-20 02:27:16 -0400  |  6 files changed, 6 insertions(+), 33 deletions(-)
 5e8976662a5ed8ca586c80295b219ea394210ba7 | Merge branch main into 947-equipment-page | 2022-07-20 02:20:21 -0400 | 
