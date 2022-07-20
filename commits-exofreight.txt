@@ -1,3 +1,4 @@
+259f4a861f7ec7ae04e048aa3c88d9bd11602245 | Finish equipment page and refactor elements | 2022-07-20 01:34:20 -0400  |  15 files changed, 378 insertions(+), 317 deletions(-)
 cafb30fe627f7804fa56b1594b85ab46cce6dacf | Merge branch main into itatarkin/endpoint_to_create_update_delete_multiple_equipments | 2022-07-20 01:21:42 -0400 | 
 a72b047eb6d7113aaa3c687fcb265cbb7119856e | Update README to clarify build instructions | 2022-07-20 01:15:54 -0400  |  1 file changed, 44 insertions(+), 36 deletions(-)
 ffeb5d992579420e4b799bd2358399ca786654b0 | Use correct state styles rather than generic any | 2022-07-19 18:38:03 -0400  |  40 files changed, 190 insertions(+), 98 deletions(-)
