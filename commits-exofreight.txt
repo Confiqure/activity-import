@@ -1,3 +1,4 @@
+3be06ab608853cd377513891b2e1cac656990efd | Remove unused variables | 2022-07-20 02:27:16 -0400  |  6 files changed, 6 insertions(+), 33 deletions(-)
 5e8976662a5ed8ca586c80295b219ea394210ba7 | Merge branch main into 947-equipment-page | 2022-07-20 02:20:21 -0400 | 
 6097985b40abda8629bfb4adc5a2f885cb7a727e | Use LoadEquipment references | 2022-07-20 01:41:04 -0400  |  2 files changed, 73 insertions(+), 46 deletions(-)
 259f4a861f7ec7ae04e048aa3c88d9bd11602245 | Finish equipment page and refactor elements | 2022-07-20 01:34:20 -0400  |  15 files changed, 378 insertions(+), 317 deletions(-)
