@@ -1,3 +1,4 @@
+275eb952ba0ba908d085c133609c616b57cbfe3f | Merge branch main into 947-equipment-page | 2022-07-21 10:40:13 -0400 | 
 98611cc4fafbf018460baf233cd648eecc2d90f6 | Merge branch main into 947-equipment-page | 2022-07-20 14:30:24 -0400 | 
 6f1db7349b36a7bfd942dbaa76d71c5b43ae21da | Merge pull request #1109 from exo-freight/itatarkin/endpoint_to_create_update_delete_multiple_equipments | 2022-07-20 14:00:31 -0400 | 
 84a02f1045d3564c4cb92f652d4e9950fd899e81 | Fix tests | 2022-07-20 13:53:37 -0400  |  3 files changed, 157 insertions(+), 86 deletions(-)
