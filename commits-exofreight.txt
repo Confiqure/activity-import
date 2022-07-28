@@ -1,3 +1,4 @@
+21ebb799f583abc339814980d3351ad8d7f30d2c | Update README to clarify local development instructions (#130) | 2022-07-28 13:30:49 -0400  |  1 file changed, 30 insertions(+), 18 deletions(-)
 3e1d2e9df403bff591a65e609c79d8591233011c | Fix bug: cannot log into staging backend with local frontend (#132) | 2022-07-28 09:31:16 -0400  |  7 files changed, 26 insertions(+), 22 deletions(-)
 50e04026f3617274ac60f77d8aa0629b7d8a5701 | Display FAQ link in login screen and menu bar (#125) | 2022-07-26 18:34:02 -0400  |  6 files changed, 37 insertions(+), 9 deletions(-)
 f09c5fcd2fa37443eb99e0a3e0588c8dfcf87510 | Add placeholders to preferred lanes inputs (#124) | 2022-07-26 18:15:05 -0400  |  1 file changed, 3 insertions(+)
