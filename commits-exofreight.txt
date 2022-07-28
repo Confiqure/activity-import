@@ -1,3 +1,4 @@
+3e1d2e9df403bff591a65e609c79d8591233011c | Fix bug: cannot log into staging backend with local frontend (#132) | 2022-07-28 09:31:16 -0400  |  7 files changed, 26 insertions(+), 22 deletions(-)
 50e04026f3617274ac60f77d8aa0629b7d8a5701 | Display FAQ link in login screen and menu bar (#125) | 2022-07-26 18:34:02 -0400  |  6 files changed, 37 insertions(+), 9 deletions(-)
 f09c5fcd2fa37443eb99e0a3e0588c8dfcf87510 | Add placeholders to preferred lanes inputs (#124) | 2022-07-26 18:15:05 -0400  |  1 file changed, 3 insertions(+)
 81d37aee46887562c9432989c311e47952157af1 | Finish equipment page (#86) | 2022-07-21 21:33:46 -0400  |  67 files changed, 712 insertions(+), 567 deletions(-)
