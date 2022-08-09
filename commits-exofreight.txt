@@ -1,3 +1,4 @@
+1f0f2726892088c6841fd59d0c7485b70502879b | More accurately track view load event (#154) | 2022-08-08 20:25:46 -0400  |  2 files changed, 6 insertions(+), 7 deletions(-)
 1bafbd72aab9a3391130baa0803b98602bdf2dbb | Update README to clarify installation (#484) | 2022-08-08 14:16:58 -0400  |  4 files changed, 26 insertions(+), 25 deletions(-)
 6a442cb29e12878393f859fceef3d949fbbf7009 | Add instructions to reset local database | 2022-08-08 13:54:46 -0400  |  1 file changed, 9 insertions(+)
 103453d0001e1d891c554b797ecae19860e3e605 | Use empty JSX | 2022-08-04 14:01:23 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
