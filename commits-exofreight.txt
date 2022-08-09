@@ -1,3 +1,4 @@
+a919835a75f16017507e52663f067eb9e2fecc42 | Add reset_db to manage commands (#1404) | 2022-08-09 12:53:37 -0400  |  2 files changed, 36 insertions(+), 36 deletions(-)
 1f0f2726892088c6841fd59d0c7485b70502879b | More accurately track view load event (#154) | 2022-08-08 20:25:46 -0400  |  2 files changed, 6 insertions(+), 7 deletions(-)
 1bafbd72aab9a3391130baa0803b98602bdf2dbb | Update README to clarify installation (#484) | 2022-08-08 14:16:58 -0400  |  4 files changed, 26 insertions(+), 25 deletions(-)
 6a442cb29e12878393f859fceef3d949fbbf7009 | Add instructions to reset local database | 2022-08-08 13:54:46 -0400  |  1 file changed, 9 insertions(+)
