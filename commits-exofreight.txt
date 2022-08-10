@@ -1,3 +1,4 @@
+571d5e8e2a8552688b2319397ec3e6a69a4dd2e3 | Merge branch 'main' into jwink/quoting-tool-improvements | 2022-08-10 17:54:42 -0400 | 
 de1ac5476880835d2fad02a1972eb66f52c27afa | Fix sidebar highlighting | 2022-08-10 15:26:38 -0400  |  1 file changed, 3 insertions(+), 8 deletions(-)
 33b50864cc0810565e44d727e2896109b008e79c | Update Sentry DSN (#492) | 2022-08-10 14:46:56 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 99c5d75f3b9882a55e45395d9c66b5a28aefb3d9 | Add missing types | 2022-08-09 20:00:41 -0400  |  2 files changed, 11 insertions(+), 1 deletion(-)
