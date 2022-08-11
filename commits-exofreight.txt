@@ -1,3 +1,4 @@
+eb78f3e728badb51651978e3d82c3f01bc133574 | Fix hide backhaul button | 2022-08-11 13:52:35 -0400  |  1 file changed, 5 insertions(+), 2 deletions(-)
 e3e9c3048545da8eca7524d044fa9c9c0cbd37df | Fix don't show full backhaul load info on mobile | 2022-08-11 13:39:24 -0400  |  2 files changed, 4 insertions(+), 3 deletions(-)
 1209fb5de22417d316032830f2f5cf903891ec2c | Merge branch 'main' into feature/open-modal-if-load-id-in-url | 2022-08-10 23:28:02 -0400 | 
 c0632b0caa6694bf9f64edb64953728d80de89ed | Sync query param with state variable | 2022-08-10 23:20:32 -0400  |  4 files changed, 43 insertions(+), 23 deletions(-)
