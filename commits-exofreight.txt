@@ -1,3 +1,4 @@
+af6297346d01dbb22ecd63186c7063796d9fa670 | Simplify error handling | 2022-08-10 21:18:19 -0400  |  2 files changed, 2 insertions(+), 6 deletions(-)
 665e48c0c7cc5d3c0ce849125e98984da53efa06 | Finish backhaul refactor | 2022-08-10 21:17:36 -0400  |  8 files changed, 38 insertions(+), 49 deletions(-)
 571d5e8e2a8552688b2319397ec3e6a69a4dd2e3 | Merge branch 'main' into jwink/quoting-tool-improvements | 2022-08-10 17:54:42 -0400 | 
 de1ac5476880835d2fad02a1972eb66f52c27afa | Fix sidebar highlighting | 2022-08-10 15:26:38 -0400  |  1 file changed, 3 insertions(+), 8 deletions(-)
