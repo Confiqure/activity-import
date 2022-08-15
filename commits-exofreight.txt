@@ -1,3 +1,4 @@
+5d23a8f2b25d82b06f9f773f998ced5780d5d20f | Make it easier to filter for load view events (#163) | 2022-08-15 14:12:22 -0400  |  3 files changed, 22 insertions(+), 4 deletions(-)
 c6e29657defabcc5a7994711a44cef2b83fc75df | Attempt to show more relevant city/state results (#162) | 2022-08-12 17:00:19 -0400  |  1 file changed, 4 insertions(+), 3 deletions(-)
 0b4248d2f8ffeac59ec042c041383bb8e6fe03a3 | Merge pull request #498 from exo-freight/1440-show-locality-only | 2022-08-12 16:22:16 -0400 | 
 29bc2c373a817f4216fd7f0796c3e5389f716f8a | Update v2/src/redux/locationsSlice.ts | 2022-08-12 16:19:44 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
