@@ -1,3 +1,4 @@
+a358a70dd599c51d071661d603c17f9cd7beb814 | Fix Sentry error for users who are already registered (#1399) | 2022-08-25 14:25:44 -0400  |  3 files changed, 32 insertions(+), 26 deletions(-)
 126b12750ebfa71d68f4a7327e8f9b4612d8c7ae | Catch promise rejection + simplify error status (#509) | 2022-08-25 11:35:10 -0400  |  3 files changed, 30 insertions(+), 25 deletions(-)
 189e449da51e1559b67a8d0b4482119b54b68d75 | Catch promise rejection + simplify error statuses (#167) | 2022-08-25 11:28:22 -0400  |  6 files changed, 147 insertions(+), 144 deletions(-)
 0678925d70ac090c8c3a1fd116e5d80d3b3d1d2f | Add login link to onboarding page (#169) | 2022-08-19 13:54:48 -0400  |  1 file changed, 8 insertions(+)
