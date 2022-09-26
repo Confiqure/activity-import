@@ -1,3 +1,4 @@
+8a52682bfe3a045504a6c7f7b0becfdbc17511e8 | Fix issue with bad PDFs breaking atob (#554) | 2022-09-26 13:56:42 -0400  |  2 files changed, 6 insertions(+), 15 deletions(-)
 3dd4449fe17992db838e8d2fc2976e005b660465 | Fix issue with bad PDFs breaking atob (#187) | 2022-09-26 13:54:30 -0400  |  2 files changed, 8 insertions(+), 20 deletions(-)
 4bf23ccaa7aedbd257beca399ff7d7163e6f2e5f | Fix payment method input masks (#186) | 2022-09-26 13:27:54 -0400  |  2 files changed, 4 deletions(-)
 788f597ea3b874125277cd31a6cef38d2958e340 | Fix payment form conditional validation (#185) | 2022-09-26 13:13:02 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
