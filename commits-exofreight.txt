@@ -1,3 +1,4 @@
+788f597ea3b874125277cd31a6cef38d2958e340 | Fix payment form conditional validation (#185) | 2022-09-26 13:13:02 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 608c12b187aa036c314a5cd9fca4dadb09e62ffd | Fix Sentry issues (#520) | 2022-08-29 15:08:12 -0400  |  9 files changed, 22 insertions(+), 13 deletions(-)
 a358a70dd599c51d071661d603c17f9cd7beb814 | Fix Sentry error for users who are already registered (#1399) | 2022-08-25 14:25:44 -0400  |  3 files changed, 32 insertions(+), 26 deletions(-)
 126b12750ebfa71d68f4a7327e8f9b4612d8c7ae | Catch promise rejection + simplify error status (#509) | 2022-08-25 11:35:10 -0400  |  3 files changed, 30 insertions(+), 25 deletions(-)
