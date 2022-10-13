@@ -1,3 +1,4 @@
+2dd50d8c5982bd09058bf7799be802a86761c0e1 | Add badge indicator for pending factoring requests (#598) | 2022-10-12 22:42:59 -0400  |  5 files changed, 46 insertions(+), 6 deletions(-)
 b8afd2d6b1f20399b3aa45807b365a4a4b750141 | Show status message to user (#201) | 2022-10-12 12:01:11 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 1d6baba8800d267fe627283478ea8e2c0199423f | Code cleanup (#585) | 2022-10-07 13:47:13 -0400  |  15 files changed, 14 insertions(+), 39 deletions(-)
 a6228b1bda427e2e0161d2f827c1308d567b189d | Show errors on failed login (#582) | 2022-10-06 10:51:42 -0400  |  1 file changed, 1 insertion(+), 5 deletions(-)
