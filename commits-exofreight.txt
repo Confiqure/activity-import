@@ -1,3 +1,4 @@
+d5bad8d424ce75d22643146ed3703381c4af6256 | Create local user objects with emails for usernames (#1768) | 2022-10-14 15:23:56 -0400  |  1 file changed, 6 insertions(+), 4 deletions(-)
 75b2a22955da5fed671b32deb388f4b27d81c1df | Specify a mobile phone requirement (#208) | 2022-10-13 16:24:09 -0400  |  2 files changed, 2 insertions(+), 2 deletions(-)
 4466f267e069533738d8ddfb4c1893a1cb333183 | Remove Exo Capital branding (#209) | 2022-10-13 16:23:44 -0400  |  2 files changed, 3 insertions(+), 3 deletions(-)
 5c2b62144c2dcb403dffed016efb8d0e2f31cfea | Add filters to factoring requests (#599) | 2022-10-13 16:22:58 -0400  |  12 files changed, 130 insertions(+), 86 deletions(-)
