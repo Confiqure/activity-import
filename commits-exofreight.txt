@@ -1,3 +1,4 @@
+3863802b3954cb002c53b40544e0ad36e5fc2651 | Render new API objects for load payment recipient (#618) | 2022-10-21 11:23:32 -0400  |  14 files changed, 84 insertions(+), 38 deletions(-)
 e0a84f0c7b562cec81749819e8cb357ba34d9308 | Show error message for blacklisted carriers (#220) | 2022-10-19 15:07:19 -0400  |  1 file changed, 12 insertions(+), 5 deletions(-)
 f54c3bda9d3dc375397d44278f03f895066fed23 | Restrict portal access from blacklisted carriers (#1821) | 2022-10-19 13:56:05 -0400  |  2 files changed, 47 insertions(+), 10 deletions(-)
 7e7dc29aa16a141c2c727839adbabde44ff4c659 | Update front-end payload (#219) | 2022-10-19 13:13:38 -0400  |  1 file changed, 7 insertions(+), 4 deletions(-)
