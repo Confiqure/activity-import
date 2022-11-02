@@ -1,3 +1,4 @@
+894eb391c0fd6e696497cde63a2b34ccc683f19b | Added file object type + support images (#229) | 2022-11-02 13:21:41 -0400  |  20 files changed, 167 insertions(+), 127 deletions(-)
 1ab1ea7de7324b2a60f5c5c254f03cae8dc25ee4 | Revert preferring Notion app link (#647) | 2022-11-01 17:55:41 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 d86d74bddf1fe1084c2cce6e6c9a13df5ecee28d | Update Notion link to prefer app (#638) | 2022-10-31 12:20:31 -0400  |  2 files changed, 6 insertions(+), 2 deletions(-)
 e15428d6a959f8e310aff6bae871657b8fec6594 | Fix Safari regex compatibility (#227) | 2022-10-27 16:02:07 -0400  |  1 file changed, 8 insertions(+), 8 deletions(-)
