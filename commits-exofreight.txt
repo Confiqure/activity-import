@@ -1,3 +1,4 @@
+d8cd5850a82a289dca1289ed775b0df4e43cd19f | Hide button to reject a LFR when approved (#2064) | 2022-11-09 15:46:01 -0500  |  1 file changed, 2 deletions(-)
 5457dbfd8c249a7871fe7bbc7d41700801eca71a | Fix payment methods on onboarding (#242) | 2022-11-09 15:09:14 -0500  |  3 files changed, 17 insertions(+), 15 deletions(-)
 5dc65f56eccf4023f07b9d0b912bc2bec9253c8d | Add Exo Finance support in payment settings (#240) | 2022-11-09 14:01:23 -0500  |  46 files changed, 315 insertions(+), 205 deletions(-)
 24a965342732b00720e5fc728e4a97a03f88417d | Fix broken switch router path (#241) | 2022-11-09 09:34:31 -0500  |  1 file changed, 7 insertions(+), 1 deletion(-)
