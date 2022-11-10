@@ -1,3 +1,4 @@
+0c925a5714236e33dfa73439e3d609093e1addb3 | Minor payments bug fixes (#244) | 2022-11-09 19:11:02 -0500  |  4 files changed, 5 insertions(+), 10 deletions(-)
 5bb5882141615458da6a41185e034f9a0fbe8c05 | Hotfix: update LFR labels (#243) | 2022-11-09 16:35:07 -0500  |  4 files changed, 5 insertions(+), 7 deletions(-)
 d8cd5850a82a289dca1289ed775b0df4e43cd19f | Hide button to reject a LFR when approved (#2064) | 2022-11-09 15:46:01 -0500  |  1 file changed, 2 deletions(-)
 5457dbfd8c249a7871fe7bbc7d41700801eca71a | Fix payment methods on onboarding (#242) | 2022-11-09 15:09:14 -0500  |  3 files changed, 17 insertions(+), 15 deletions(-)
