@@ -1,3 +1,4 @@
+c2b5a6fe6e32212079b5b3ca2a802509c569cadc | Hotfix: reset Mixpanel identity after logout (#255) | 2022-11-23 14:52:15 -0500  |  3 files changed, 6 insertions(+), 5 deletions(-)
 b42bb0f5042cb8494cf2295ed016272a288176c4 | Hotfix: avoid throwing TypeError (#2227) | 2022-11-23 13:28:48 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 db6c4e7557d1018ee00818771a0890ef1341475b | Hotfix: payment methods input form tweaks (#253) | 2022-11-16 17:22:00 -0500  |  4 files changed, 19 insertions(+), 24 deletions(-)
 81c654ee568015959d4d47f277acba32f46fd5f5 | Hotfix: don't force logout (#252) | 2022-11-16 17:17:37 -0500  |  3 files changed, 2 insertions(+), 8 deletions(-)
