@@ -1,3 +1,4 @@
+936361a70bdad56bb531e11c99fc0577be128ab7 | Poll latest factoring requests to automatically update indicator (#2321) | 2022-12-07 10:47:26 -0500  |  6 files changed, 23 insertions(+), 10 deletions(-)
 b07b22c5e4160dd6296f49534de66040ed94027e | Remove unused variable in Docker build (#2330) | 2022-12-06 16:17:30 -0500  |  1 file changed, 3 deletions(-)
 08e4fa2bbd4e8ecb0bdbd08fcb3fc17988285c01 | Hotfix: allow up to 10 digits for MC (#260) | 2022-12-05 13:57:15 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 5647933f7f5fc136ddbdfb1a39babb82bd467c45 | Bugfix: changes to filters should reset results page to 1 (#258) | 2022-12-05 13:15:54 -0500  |  16 files changed, 248 insertions(+), 215 deletions(-)
