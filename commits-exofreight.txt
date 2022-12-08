@@ -1,3 +1,4 @@
+ad7078f5ddc9650d91744664cc7087ad45c5106e | Hotfix: avoid getting stuck after OTP code sent (#262) | 2022-12-08 10:25:43 -0500  |  3 files changed, 13 insertions(+), 3 deletions(-)
 cfb3324a80527416a07777c07cf2154a79a6b9b4 | Hotfix: increase file upload size limit (#266) | 2022-12-08 10:01:00 -0500  |  3 files changed, 4 insertions(+), 4 deletions(-)
 8a867e0e11d4304a34fe87a7d0e6cce0827a38c6 | Fix Sidebar tests (#2340) | 2022-12-07 13:31:39 -0500  |  1 file changed, 15 insertions(+), 5 deletions(-)
 936361a70bdad56bb531e11c99fc0577be128ab7 | Poll latest factoring requests to automatically update indicator (#2321) | 2022-12-07 10:47:26 -0500  |  6 files changed, 23 insertions(+), 10 deletions(-)
