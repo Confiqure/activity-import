@@ -1,3 +1,4 @@
+ac8be9db6d44e251eb1a0ae38d4e226c9182194a | Fix typo (#2374) | 2022-12-09 13:37:55 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 715e9f4c2f7325ac5bc8eed9ce24360a3d4437d7 | Use Error Boundary to contain and remediate bugs (#261) | 2022-12-08 12:31:52 -0500  |  5 files changed, 58 insertions(+), 14 deletions(-)
 ad7078f5ddc9650d91744664cc7087ad45c5106e | Hotfix: avoid getting stuck after OTP code sent (#262) | 2022-12-08 10:25:43 -0500  |  3 files changed, 13 insertions(+), 3 deletions(-)
 cfb3324a80527416a07777c07cf2154a79a6b9b4 | Hotfix: increase file upload size limit (#266) | 2022-12-08 10:01:00 -0500  |  3 files changed, 4 insertions(+), 4 deletions(-)
