@@ -1,3 +1,4 @@
+e38308e398eb3484f4d4d5862a88c2db502192e6 | Use new Saferwatch endpoint (#267) | 2022-12-10 12:22:02 -0500  |  3 files changed, 10 insertions(+), 20 deletions(-)
 b48cff26a34a5c11bbda9095c68e636b5e9f55f1 | Trigger deployment workflows for tms-ui and backend (#2387) | 2022-12-09 21:50:18 -0500  |  2 files changed, 2 insertions(+)
 8b26918bd61fcecd3cc90ecf51ea15e0e7662b09 | Fix Saferwatch API (#2371) | 2022-12-09 20:55:04 -0500  |  2 files changed, 8 insertions(+), 5 deletions(-)
 82d42403a5cc3e647217ca8b26699ad5427ad71e | Show proper warning message if load is unavailable (#269) | 2022-12-09 14:58:13 -0500  |  2 files changed, 2 insertions(+), 2 deletions(-)
