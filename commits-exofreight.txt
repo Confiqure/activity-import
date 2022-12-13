@@ -1,3 +1,4 @@
+d3fba9447baf4687d44f45989ae31085886d82a4 | Tweaks | 2022-12-12 20:33:46 -0500  |  3 files changed, 9 insertions(+), 34 deletions(-)
 d13c3c7c6e649eb9dacbfa5cc8d147c6384982c1 | Don't crash if there is no MC (#2399) | 2022-12-12 13:53:32 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 83e139f50a96102388885588e5d2e457bbd19f55 | Fix TypeError: AttributeError object is not iterable (#2397) | 2022-12-12 11:42:59 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 d6d00e89bba9faafc06986b84c251a479bb8e5e7 | Saferwatch: return JSON object in the backend (#271) | 2022-12-12 11:20:19 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
