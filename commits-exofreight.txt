@@ -1,3 +1,4 @@
+a2c4a65ea1ede1e47c0be81ab350228d9fab04c5 | Fix returning archived loads (#2418) | 2022-12-13 21:59:31 -0500  |  2 files changed, 51 insertions(+), 12 deletions(-)
 0898d30e8152a09f5dcf25ec6afa01fc5317851c | Handle bad carrier cert lookup request (#2413) | 2022-12-13 16:07:13 -0500  |  2 files changed, 11 insertions(+), 5 deletions(-)
 f5d1bb9f7cdec618060515527440ae5fd04cf98c | Cleanup unused code (#272) | 2022-12-13 15:59:46 -0500  |  6 files changed, 2 insertions(+), 57 deletions(-)
 5512f01818755f2d9726705504a1188d5be050af | Tweaked banner to render a more consistently on mobile (#275) | 2022-12-13 14:11:42 -0500  |  1 file changed, 41 insertions(+), 36 deletions(-)
