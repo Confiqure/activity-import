@@ -1,3 +1,4 @@
+688bacbe11e5556c051a7fe2a84804d357d0f307 | Update factoring routing to fix sidebar (#279) | 2022-12-16 08:41:49 -0500  |  3 files changed, 6 insertions(+), 6 deletions(-)
 e33e67fba4e48ca4b08f7d8d9a4062efc1c7f3aa | Finish removing historical load status (#278) | 2022-12-14 11:56:25 -0500  |  9 files changed, 86 deletions(-)
 a2c4a65ea1ede1e47c0be81ab350228d9fab04c5 | Fix returning archived loads (#2418) | 2022-12-13 21:59:31 -0500  |  2 files changed, 51 insertions(+), 12 deletions(-)
 0898d30e8152a09f5dcf25ec6afa01fc5317851c | Handle bad carrier cert lookup request (#2413) | 2022-12-13 16:07:13 -0500  |  2 files changed, 11 insertions(+), 5 deletions(-)
