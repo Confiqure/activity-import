@@ -1,3 +1,4 @@
+f9fe7e9fdca51ef77f5c66ce267f1823899ac2b1 | Send state object with error fallback event (#281) | 2022-12-20 13:56:56 -0500  |  2 files changed, 2 insertions(+), 2 deletions(-)
 0918ee7c24e6be6943b640e24ff4ca06f41a739c | Render factoring buttons in the page instead of footer (#274) | 2022-12-16 08:47:21 -0500  |  12 files changed, 153 insertions(+), 175 deletions(-)
 688bacbe11e5556c051a7fe2a84804d357d0f307 | Update factoring routing to fix sidebar (#279) | 2022-12-16 08:41:49 -0500  |  3 files changed, 6 insertions(+), 6 deletions(-)
 e33e67fba4e48ca4b08f7d8d9a4062efc1c7f3aa | Finish removing historical load status (#278) | 2022-12-14 11:56:25 -0500  |  9 files changed, 86 deletions(-)
