@@ -1,3 +1,4 @@
+33c098aad0b2f4d03c0fb9e1e6ca85238db83b8c | Add notebook to send out carrier year in review (#2564) | 2023-01-03 17:00:06 -0500  |  1 file changed, 181 insertions(+)
 b212067bcf7b40bdfbd733a627611f0b6e691e29 | Handle carrier loads/quotes when Location is None (#2512) | 2022-12-21 14:54:13 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 a2d1870965b17511f69086374e37d2019203e00b | Handle carrier loads/quotes when pickup is None (#2508) | 2022-12-21 13:45:52 -0500  |  1 file changed, 2 insertions(+), 1 deletion(-)
 ba57c215c254107c5c95daf5d6b6936a53b993a1 | Handle carrier loads/quotes when Location is None (#2506) | 2022-12-21 12:52:22 -0500  |  2 files changed, 11 insertions(+), 20 deletions(-)
