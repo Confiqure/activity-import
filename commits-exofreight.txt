@@ -1,3 +1,4 @@
+4ced3c0d85aeece165dc3d65e4b9ed4594cab818 | Correctly handle 0 and "nothing" (#2572) | 2023-01-05 12:43:18 -0500  |  1 file changed, 2 insertions(+), 2 deletions(-)
 33c098aad0b2f4d03c0fb9e1e6ca85238db83b8c | Add notebook to send out carrier year in review (#2564) | 2023-01-03 17:00:06 -0500  |  1 file changed, 181 insertions(+)
 b212067bcf7b40bdfbd733a627611f0b6e691e29 | Handle carrier loads/quotes when Location is None (#2512) | 2022-12-21 14:54:13 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 a2d1870965b17511f69086374e37d2019203e00b | Handle carrier loads/quotes when pickup is None (#2508) | 2022-12-21 13:45:52 -0500  |  1 file changed, 2 insertions(+), 1 deletion(-)
