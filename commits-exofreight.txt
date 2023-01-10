@@ -1,3 +1,4 @@
+0f82131a52b61c0e2b911ece99da6e7cc56f76d3 | Try to fix infinite redirection bug (#282) | 2023-01-09 21:39:43 -0500  |  7 files changed, 44 insertions(+), 24 deletions(-)
 95769544708a3b9e413cbe5aea55a84c3ef3ac45 | Fix visual bug on factoring release modal (#286) | 2023-01-06 17:46:44 -0500  |  2 files changed, 3 insertions(+), 3 deletions(-)
 b0ccebe8522ffb208ca6e4dac2745ae68d6538cc | Don't dismiss banner unless factoring is disabled (#285) | 2023-01-06 16:40:26 -0500  |  2 files changed, 6 insertions(+), 6 deletions(-)
 6f31d77bebbe0d278322e98fdcfac7a8aa78c936 | Add Google Analytics tracking (#283) | 2023-01-05 16:06:57 -0500  |  1 file changed, 14 insertions(+)
