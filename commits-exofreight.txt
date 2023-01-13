@@ -1,3 +1,4 @@
+338bfc7dd8004266b7b5e1d414a4dfa602d41885 | Consolidate gitignore + vs code settings (#2667) | 2023-01-13 12:58:34 -0500  |  11 files changed, 355 insertions(+), 329 deletions(-)
 728cdde94295dfcf376e1e4997c3bf66c30750ce | Misc. hotfixes + dev experience improvements (#2663) | 2023-01-12 19:26:59 -0500  |  8 files changed, 34 insertions(+), 20 deletions(-)
 95b97b49cfd253e1a17067ddb3aa2d5639e3a419 | Use first 8 of SHA (#2655) | 2023-01-12 15:32:52 -0500  |  6 files changed, 6 insertions(+), 6 deletions(-)
 68a941572d37b47e89133ab10f5551dfebb506a0 | Use fixed header to fix mobile (#284) | 2023-01-10 12:40:56 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
