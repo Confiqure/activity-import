@@ -1,3 +1,4 @@
+dc9147ed9de07ea79284ccb3c1ce514bc826daac | Hotfix: contact type only required for non-primary (#2721) | 2023-01-18 12:19:57 -0500  |  2 files changed, 5 insertions(+), 4 deletions(-)
 4239eb33c1561f859d25bf8f3a0ba0357f9f8512 | Primary contact send offers checkbox auto-select (#2705) | 2023-01-17 14:54:19 -0500  |  5 files changed, 100 insertions(+), 84 deletions(-)
 33cb5fe18ee392067dd8c0df8ee6591b2d7b5ff2 | Hotfix: replace a few more endpoints (#2704) | 2023-01-17 11:57:36 -0500  |  2 files changed, 3 insertions(+), 3 deletions(-)
 8996f68c9a76abf2af8977230464ee23e6bdabca | Revert: changes to document + edi endpoints (#2702) | 2023-01-17 11:26:17 -0500  |  2 files changed, 4 insertions(+), 4 deletions(-)
