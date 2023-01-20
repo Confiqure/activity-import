@@ -1,3 +1,4 @@
+719ee56a80a86de71c85c91cef32f62cc73c6ee8 | Revert stage credentials (#2751) | 2023-01-20 10:47:43 -0500  |  1 file changed, 2 insertions(+), 2 deletions(-)
 dc9147ed9de07ea79284ccb3c1ce514bc826daac | Hotfix: contact type only required for non-primary (#2721) | 2023-01-18 12:19:57 -0500  |  2 files changed, 5 insertions(+), 4 deletions(-)
 4239eb33c1561f859d25bf8f3a0ba0357f9f8512 | Primary contact send offers checkbox auto-select (#2705) | 2023-01-17 14:54:19 -0500  |  5 files changed, 100 insertions(+), 84 deletions(-)
 33cb5fe18ee392067dd8c0df8ee6591b2d7b5ff2 | Hotfix: replace a few more endpoints (#2704) | 2023-01-17 11:57:36 -0500  |  2 files changed, 3 insertions(+), 3 deletions(-)
