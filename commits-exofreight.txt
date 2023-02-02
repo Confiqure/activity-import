@@ -1,3 +1,4 @@
+4974abefb1a2e658e4bda51c3f9dc4c5c3e733ee | Capture key insurance type info as notes (#2930) | 2023-02-02 10:08:09 -0500  |  1 file changed, 9 insertions(+), 13 deletions(-)
 c3b209742cebc1d96cdfddda2c8692c6ea5a56eb | Fix factoring banner not closing after approved (#2920) | 2023-02-01 17:17:24 -0500  |  2 files changed, 3 insertions(+), 7 deletions(-)
 11fc799b4c99bc621a2070cd8863c35e23ea239f | Add carrer-ui full stack testing instructions (#2860) | 2023-02-01 16:18:53 -0500  |  1 file changed, 34 insertions(+), 70 deletions(-)
 5061fae99d0885006259453859da78a8aad33779 | Fix insurance during carrier onboarding (#2913) | 2023-02-01 11:27:58 -0500  |  1 file changed, 16 insertions(+), 1 deletion(-)
