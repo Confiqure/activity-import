@@ -1,3 +1,4 @@
+da8fad6250d61826b9ca7f3ce57c7ae67d9b6a3d | Try out Hotjar user experience tracking (#2960) | 2023-02-03 11:51:38 -0500  |  1 file changed, 12 insertions(+)
 4974abefb1a2e658e4bda51c3f9dc4c5c3e733ee | Capture key insurance type info as notes (#2930) | 2023-02-02 10:08:09 -0500  |  1 file changed, 9 insertions(+), 13 deletions(-)
 c3b209742cebc1d96cdfddda2c8692c6ea5a56eb | Fix factoring banner not closing after approved (#2920) | 2023-02-01 17:17:24 -0500  |  2 files changed, 3 insertions(+), 7 deletions(-)
 11fc799b4c99bc621a2070cd8863c35e23ea239f | Add carrer-ui full stack testing instructions (#2860) | 2023-02-01 16:18:53 -0500  |  1 file changed, 34 insertions(+), 70 deletions(-)
