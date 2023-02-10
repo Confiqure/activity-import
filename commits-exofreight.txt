@@ -1,3 +1,4 @@
+8602baf30a0ae0b2c5baa85739b2e2e777ff0a1e | Hotfix: add exo 512x512 image, fix factoring reload bug (#3043) | 2023-02-10 12:21:24 -0500  |  3 files changed, 21 insertions(+), 11 deletions(-)
 6aae05a6f1cc425690d6f155614602769d4d3400 | Gracefully handle app failures in shipper-ui (#3038) | 2023-02-10 11:01:25 -0500  |  4 files changed, 62 insertions(+), 5 deletions(-)
 44d78be899629b65b6180b492857bb4bed5f3980 | Fix quickbooks PDF generation (#2987) | 2023-02-07 10:04:18 -0500  |  1 file changed, 4 insertions(+), 4 deletions(-)
 da8fad6250d61826b9ca7f3ce57c7ae67d9b6a3d | Try out Hotjar user experience tracking (#2960) | 2023-02-03 11:51:38 -0500  |  1 file changed, 12 insertions(+)
