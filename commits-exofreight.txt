@@ -1,3 +1,4 @@
+5d7ad141d6b91220b6f86d0053181b68368b7cb2 | Add missing env variables (#3046) | 2023-02-10 14:04:44 -0500  |  5 files changed, 5 insertions(+)
 215123db565be1b76cb41e8b081bd858c320ec6b | Render current environment in header if not prod (#3023) | 2023-02-10 13:11:25 -0500  |  3 files changed, 18 insertions(+), 1 deletion(-)
 8602baf30a0ae0b2c5baa85739b2e2e777ff0a1e | Hotfix: add exo 512x512 image, fix factoring reload bug (#3043) | 2023-02-10 12:21:24 -0500  |  3 files changed, 21 insertions(+), 11 deletions(-)
 6aae05a6f1cc425690d6f155614602769d4d3400 | Gracefully handle app failures in shipper-ui (#3038) | 2023-02-10 11:01:25 -0500  |  4 files changed, 62 insertions(+), 5 deletions(-)
