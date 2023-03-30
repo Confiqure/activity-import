@@ -1,3 +1,4 @@
+19582a0be741430c5e88e446e280425dee532fac | Hotfix: load weight x2 (#3469) | 2023-03-30 16:48:29 -0400  |  1 file changed, 3 insertions(+), 3 deletions(-)
 80d5b2af27db003d8f10780255fc36e18cee43b9 | Hotfix for ValueError: could not convert string to float (#3461) | 2023-03-29 18:17:05 -0400  |  1 file changed, 3 insertions(+), 1 deletion(-)
 8d2b86a50db2cc61aede41a4ed2f78b3f5496f5d | Upgrade components to use new validation (#2883) | 2023-03-24 16:04:08 -0400  |  8 files changed, 32 insertions(+), 26 deletions(-)
 2ac37190b59020df49b5c2fc942d5d7426282b1a | Hotfix: always show sidebar unless it's explicitly false (#3442) | 2023-03-24 15:38:14 -0400  |  2 files changed, 4 insertions(+), 4 deletions(-)
