@@ -1,3 +1,4 @@
+46d6df4da521298e2e0ba49b462d35c8be6e3645 | Use new card svg hero (#3562) | 2023-04-11 17:21:57 -0400  |  1 file changed, 4 insertions(+), 3 deletions(-)
 c14c95af5b97df0b5fca16fcdc13ffe35c13e7e4 | Hotfix load factoring TypeError (#3552) | 2023-04-11 10:47:08 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 6723b413f92b19bf3a671e1f76307e5ba823e4f2 | Fix carrier approve button bug (#3537) | 2023-04-07 10:58:35 -0400  |  3 files changed, 14 insertions(+), 21 deletions(-)
 3ad64def8dffa1f35df896f668e2cd026c237f42 | Fix build (#3529) | 2023-04-06 11:40:26 -0400  |  3 files changed, 3 insertions(+), 3 deletions(-)
