@@ -1,3 +1,4 @@
+220dcb0c5f5ae8d93a2282368b3a57cc9de9ac6d | Apply migrations in the correct order (#3654) | 2023-04-20 11:23:19 -0400  |  2 files changed, 2 insertions(+), 2 deletions(-)
 883e34e093538579a182c3167448e5c449c1e902 | Trigger backend deploy (#3652) | 2023-04-20 11:07:33 -0400  |  1 file changed, 9 insertions(+), 1 deletion(-)
 2da722cb2f75223b349776ba3c3eb754f39ce0fd | Revert "Fix failure check and notification logic" (#3651) | 2023-04-20 10:59:25 -0400  |  6 files changed, 84 insertions(+), 120 deletions(-)
 1c936d462817fe9a66e672d43bc11609064ff033 | Fix tms-ui (#3650) | 2023-04-20 10:42:11 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
