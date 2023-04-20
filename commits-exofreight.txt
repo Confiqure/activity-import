@@ -1,3 +1,4 @@
+1c936d462817fe9a66e672d43bc11609064ff033 | Fix tms-ui (#3650) | 2023-04-20 10:42:11 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 f1cf84893bd17cdc2a8189c0129fe33588d4c500 | Hotfix: documents page load + reveal card details button (#3619) | 2023-04-18 14:45:25 -0400  |  2 files changed, 8 insertions(+), 13 deletions(-)
 e02ceb948c896e22764d8e3651249fe86e7a3547 | Show Synctera balance in dollars (convert cents) (#3616) | 2023-04-18 11:51:54 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 576649bf9c22dd20ae429e13c7d0c81ac8688e9e | Make roles consistent across CP and TMS (#3602) | 2023-04-18 09:59:19 -0400  |  11 files changed, 60 insertions(+), 89 deletions(-)
