@@ -1,3 +1,4 @@
+321a718bf90e3ef14fb74317f2a4d535afbdb1fb | Consistently use EXO Freight capitalization (#3726) | 2023-04-28 16:53:10 -0400  |  130 files changed, 2990 insertions(+), 1622 deletions(-)
 6b30a96a1a337ad4fd00a297b976dca914831c46 | Handle carrier login Sentry errors (#3635) | 2023-04-21 16:41:50 -0400  |  10 files changed, 196 insertions(+), 217 deletions(-)
 83a4390791072047e352413e2502a8f1dcb1ad85 | Add finalized disclosure HTML (#3674) | 2023-04-21 12:15:20 -0400  |  13 files changed, 4582 insertions(+), 1086 deletions(-)
 6e24533a22d3ad2af1c7122901c6980d0d15dd59 | Fix NameError: name 'alert_error' is not defined (#3682) | 2023-04-21 11:25:31 -0400  |  2 files changed, 1 insertion(+), 1 deletion(-)
