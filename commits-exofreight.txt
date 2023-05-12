@@ -1,3 +1,4 @@
+b98afc74c82a6a3a24ee42aaca4238847ca4da2d | Increase throttling limit for unauthenticated requests (login) (#3912) | 2023-05-12 10:04:44 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 9f4d20b53c7af968da18252fc8d171a32101d0a8 | Turn off throttling for the Pakistan subnet (#3911) | 2023-05-12 09:26:24 -0400  |  1 file changed, 51 insertions(+), 8 deletions(-)
 1031612ad2e5ccd840266e91ef954e4114bbab8f | Use DRF rate limiting (#3887) | 2023-05-11 15:02:59 -0400  |  2 files changed, 19 insertions(+)
 f5932cd3fa6939b5a6e0f59d570e9add5e957366 | Fix LFR retrieval endpoint permissions (#3861) | 2023-05-09 12:24:35 -0400  |  1 file changed, 5 insertions(+), 1 deletion(-)
