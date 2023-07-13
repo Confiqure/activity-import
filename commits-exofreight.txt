@@ -1,3 +1,4 @@
+ea8ec9f452f68970f5e625500d67fd7ad9ab7e80 | Document how safe mode works with nuance (#4397) | 2023-07-13 16:29:52 -0400  |  1 file changed, 41 insertions(+)
 103f238205623b9c25d1377dce92fc55e222272f | Send customer primary email address to quickbooks (#4371) | 2023-07-11 16:16:42 -0400  |  1 file changed, 5 insertions(+), 1 deletion(-)
 955caecb66a42ee6a4da5efc26186897f8ae0805 | Better statement descriptions + formatting, fix buttons (#4332) | 2023-07-06 13:28:24 -0400  |  4 files changed, 24 insertions(+), 27 deletions(-)
 5264c7622ba843fbf52c280e1bb18baa8b14303e | Fix naming inconsistency: fe -> ui (#4333) | 2023-07-06 13:08:12 -0400  |  5 files changed, 50 insertions(+), 50 deletions(-)
