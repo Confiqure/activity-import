@@ -1,3 +1,4 @@
+a3abed1e9decdc3771c381fc630f3b6f5d70488e | Fix remittance address on customer invoice (#4555) | 2023-07-26 13:12:16 -0400  |  1 file changed, 4 insertions(+), 4 deletions(-)
 d9999b2cde41b7d81950b280f3f19d4b447cc03c | Small fixes in carrier login (#4544) | 2023-07-26 12:52:46 -0400  |  2 files changed, 12 insertions(+), 4 deletions(-)
 dcbfac901062883d8dbd066d9cf482c51070ea31 | Fix banking disclosure loading (#4525) | 2023-07-24 17:48:07 -0400  |  1 file changed, 2 insertions(+), 6 deletions(-)
 18800efb8ed0a19427077e682f9f1b6957c4f533 | Fix incorrect banking state detection (#4514) | 2023-07-24 13:08:47 -0400  |  3 files changed, 17 insertions(+), 5 deletions(-)
