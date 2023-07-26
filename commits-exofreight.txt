@@ -1,3 +1,4 @@
+8d80a8addf5a3bfc4620eaec5018ba47f92b7c54 | Hotfix: remove carrier username password link (#4561) | 2023-07-26 17:58:15 -0400  |  1 file changed, 3 insertions(+), 5 deletions(-)
 3b43f60379a3a64c84e7cd486473952012a72f7b | Add fuel integration to seed script (#4542) | 2023-07-26 15:48:36 -0400  |  2 files changed, 19 insertions(+), 5 deletions(-)
 a3abed1e9decdc3771c381fc630f3b6f5d70488e | Fix remittance address on customer invoice (#4555) | 2023-07-26 13:12:16 -0400  |  1 file changed, 4 insertions(+), 4 deletions(-)
 d9999b2cde41b7d81950b280f3f19d4b447cc03c | Small fixes in carrier login (#4544) | 2023-07-26 12:52:46 -0400  |  2 files changed, 12 insertions(+), 4 deletions(-)
