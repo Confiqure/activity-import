@@ -1,3 +1,4 @@
+88de9f0f4304fac7d75c36931444a6344fe1524b | Add new map component throughout fuel reservation (#4604) | 2023-08-01 13:17:35 -0400  |  6 files changed, 136 insertions(+), 63 deletions(-)
 d329a92047ec8eed6ba8a9b7798f3369b3423724 | Hotfix: use apps directory root (#4614) | 2023-08-01 13:06:17 -0400  |  1 file changed, 4 insertions(+), 1 deletion(-)
 470ca0f79099fe6d2658d29cb8047b762bc5fc28 | Attach remittance instructions PDF to LFR invoices (#4595) | 2023-08-01 12:02:57 -0400  |  2 files changed, 16 insertions(+)
 df8941ebf57ea9fbcc0cd502f62b10c11adf3049 | Display avg carrier invoice when making recoveries (#4610) | 2023-08-01 11:52:33 -0400  |  4 files changed, 89 insertions(+), 19 deletions(-)
