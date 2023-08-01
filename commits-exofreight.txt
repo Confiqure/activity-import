@@ -1,3 +1,4 @@
+df8941ebf57ea9fbcc0cd502f62b10c11adf3049 | Display avg carrier invoice when making recoveries (#4610) | 2023-08-01 11:52:33 -0400  |  4 files changed, 89 insertions(+), 19 deletions(-)
 f0c7bfbab1aa82e01aa73a2b6306665f821bc9cd | Update address (#4594) | 2023-07-31 13:19:50 -0400  |  1 file changed, 3 insertions(+), 3 deletions(-)
 163a7c4f09ed7a1342e74ec52ab768d06f04a8df | Revert "Attach remittance instructions PDF to LFR invoices" (#4580) | 2023-07-28 14:39:39 -0400  |  2 files changed, 12 deletions(-)
 a7ef6db52dc9be5d3682e2705b3e99aff2f4f5bd | Attach remittance instructions PDF to LFR invoices (#4575) | 2023-07-28 12:28:00 -0400  |  2 files changed, 12 insertions(+)
