@@ -1,3 +1,4 @@
+6a1584b422f86fd0c4fc2980168809c2d96664ef | Fix bug on carrier login to allow changing of tabs (#4630) | 2023-08-02 18:15:01 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 60b1f4edd5aaeb9f3ab9c8be4bc36381fe5037c9 | Show fuel station details via new callout boxes (#4620) | 2023-08-02 14:44:56 -0400  |  4 files changed, 74 insertions(+), 27 deletions(-)
 e6009abc1e0b9ce04f69f518a13457bd70272910 | Add to README our process for merging new code (#4613) | 2023-08-01 17:28:27 -0400  |  1 file changed, 59 insertions(+), 2 deletions(-)
 88de9f0f4304fac7d75c36931444a6344fe1524b | Add new map component throughout fuel reservation (#4604) | 2023-08-01 13:17:35 -0400  |  6 files changed, 136 insertions(+), 63 deletions(-)
