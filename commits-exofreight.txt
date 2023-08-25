@@ -1,3 +1,4 @@
+14277e751c0979b442ddf3986c20b371ba13cec6 | Fix button loading status (#4835) | 2023-08-25 10:04:32 -0400  |  2 files changed, 12 insertions(+), 10 deletions(-)
 5dbae7e13060f86bcd07b56e58ef4676c243a4bf | Implement new fuel onboard route + screen (#4761) | 2023-08-24 17:12:06 -0400  |  12 files changed, 160 insertions(+), 107 deletions(-)
 88a1aa2056383676ec823e4a5d2386cf051386d2 | Improvements to carrier lookup (#4822) | 2023-08-24 17:10:38 -0400  |  6 files changed, 54 insertions(+), 118 deletions(-)
 a407cf24daceb0a88d4531a44e1b5845bc808619 | Hotfix: check carrier company id (#4805) | 2023-08-24 01:28:36 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
