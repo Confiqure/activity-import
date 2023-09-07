@@ -1,3 +1,4 @@
+6a15c7dfb8642f0c3e8ae2a9da6db17211f0c76b | feat: create new fuel account endpoint (#4923) | 2023-09-07 15:14:17 -0400  |  20 files changed, 406 insertions(+), 108 deletions(-)
 cabea840e09c4f430c51e6526bcbec8d4a206d3e | Hotfix: race condition on auth navigation (#4877) | 2023-08-31 13:29:28 -0400  |  1 file changed, 11 insertions(+), 16 deletions(-)
 c67368b2cd59cf6fd562cbce456dd0a453e41e62 | Feature/4748 new sidebar rendering logic (#4868) | 2023-08-31 12:29:11 -0400  |  13 files changed, 320 insertions(+), 233 deletions(-)
 edba1174b89e41863c3582e8e0bc0a389c46a460 | Hotfix: only pass the changed toggle value (#4871) | 2023-08-30 17:38:34 -0400  |  1 file changed, 20 insertions(+), 31 deletions(-)
