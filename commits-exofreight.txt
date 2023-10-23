@@ -1,3 +1,4 @@
+966a4f3f40c0eb42d6722545706482e8a02838f2 | fix: TMS-7E1 - MC number must contain only digits (#5394) | 2023-10-23 11:38:03 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 4566cbb36d3ae9ba31d2d7daa08eb08455208bfb | feat: new fuel purchase form (#5376) | 2023-10-20 09:41:05 -0400  |  29 files changed, 395 insertions(+), 449 deletions(-)
 5cdfe66b15110bb2534692de0d51bec5c361c7dd | fix: various otp error improvements with TwilioAuthService (#5292) | 2023-10-18 12:12:31 -0400  |  5 files changed, 39 insertions(+), 46 deletions(-)
 b621e9337c1e04a81492d50d0fa25dbb29482c23 | fix: capture and forward load details errors (#5319) | 2023-10-13 12:52:08 -0400  |  4 files changed, 93 insertions(+), 74 deletions(-)
