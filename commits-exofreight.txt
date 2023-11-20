@@ -1,3 +1,4 @@
+47f54ba8160056463397ac41685ca6d0f62bb150 | feat: use typed environment config (#5671) | 2023-11-20 15:13:50 -0500  |  7 files changed, 71 insertions(+), 15 deletions(-)
 5e4467885bc4f55f3906ede7121457ddeb8ff425 | fix: misc load detail fetching errors (#5662) | 2023-11-17 12:38:07 -0500  |  24 files changed, 123 insertions(+), 132 deletions(-)
 894d230a523961bea6e4af777fe0f952d56d8a4e | fix: check card id before request (#5656) | 2023-11-16 15:34:29 -0500  |  1 file changed, 2 insertions(+), 2 deletions(-)
 cf65561420dea8757fad63464221aee59bb8bd5c | fix: improved state management for various card components (#5561) | 2023-11-16 14:44:14 -0500  |  22 files changed, 590 insertions(+), 640 deletions(-)
