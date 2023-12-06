@@ -1,3 +1,4 @@
+5e7dc93ae9dbfc94a91c3c62b5c3ef5579b8c94e | feat: restore banner and fix page layouts (#5758) | 2023-12-06 15:22:05 -0500  |  38 files changed, 534 insertions(+), 612 deletions(-)
 b855373e0a7c52b06347345e815fa45bcc473a2c | feat: more logo loaders in the carrier portal (#5762) | 2023-12-06 07:21:45 -0500  |  7 files changed, 41 insertions(+), 38 deletions(-)
 8456a786e47cee0bb4b05d3022e3ac9a0b50054a | fix: replace ProgressLoader with LoaderSpinner (#5767) | 2023-12-06 07:20:48 -0500  |  10 files changed, 12 insertions(+), 46 deletions(-)
 69649e3253c2c4175b2dd29f916bec6f7f036c8b | fix: highlight factoring sidebar entry when in subroute (#5763) | 2023-12-05 18:55:43 -0500  |  3 files changed, 20 insertions(+), 11 deletions(-)
