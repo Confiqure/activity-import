@@ -1,3 +1,4 @@
+8456a786e47cee0bb4b05d3022e3ac9a0b50054a | fix: replace ProgressLoader with LoaderSpinner (#5767) | 2023-12-06 07:20:48 -0500  |  10 files changed, 12 insertions(+), 46 deletions(-)
 69649e3253c2c4175b2dd29f916bec6f7f036c8b | fix: highlight factoring sidebar entry when in subroute (#5763) | 2023-12-05 18:55:43 -0500  |  3 files changed, 20 insertions(+), 11 deletions(-)
 46a057e7aa8252c5314aebcfe0fafc97d4aa2e8f | fix: reserve release select carrier payment method (#5712) | 2023-11-29 15:13:42 -0500  |  6 files changed, 330 insertions(+), 268 deletions(-)
 ae479e2536e482ebe579c8bb100dc9d452accfa6 | fix: load recommendations sidebar display (#5701) | 2023-11-28 11:23:32 -0500  |  2 files changed, 11 insertions(+), 23 deletions(-)
