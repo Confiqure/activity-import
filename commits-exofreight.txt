@@ -1,3 +1,4 @@
+f39b7aea8179531184a3f712c2badca01336bfe7 | feat: implement sliding scale fuel margin calc (#5844) | 2023-12-19 15:55:23 -0500  |  2 files changed, 112 insertions(+), 37 deletions(-)
 e41c116ec7b97c6bf1d46fce0bfdb451ba3a797f | feat: add filter for payment methods business branch (#5863) | 2023-12-15 13:29:37 -0500  |  4 files changed, 27 insertions(+), 17 deletions(-)
 6771ea978d63cd457926b4d16dd492d8dc4a195b | feat: improve getErrorString util (#5833) | 2023-12-13 09:38:48 -0500  |  55 files changed, 220 insertions(+), 402 deletions(-)
 002a7d49acd2ed3d4956b238fe77c204a2bf92da | chore: cleanup useIsMobile (#5802) | 2023-12-07 14:50:31 -0500  |  6 files changed, 9 insertions(+), 12 deletions(-)
