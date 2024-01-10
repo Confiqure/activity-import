@@ -1,3 +1,4 @@
+c5f953d7390e7381769b4ac52997f8e62f970579 | feat: add load distance in miles to `RouteInfo` (#5961) | 2024-01-10 13:10:17 -0500  |  2 files changed, 18 insertions(+), 4 deletions(-)
 fc195d01711d7050570d24fb89e4f9dbe022a9ec | feat: simplify fuel discounts page (#5771) | 2024-01-09 14:42:29 -0500  |  33 files changed, 301 insertions(+), 485 deletions(-)
 5907d652294cac0b4eee4befbda70e5a7925f153 | feat: add banking to factoring signup flow (#5776) | 2024-01-05 11:16:02 -0500  |  10 files changed, 69 insertions(+), 81 deletions(-)
 9ac7b926a599a0a9e82b5e54f2d7d53cf7aa72ad | fix: x.toFixed is not a function (#5936) | 2024-01-04 13:53:21 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
