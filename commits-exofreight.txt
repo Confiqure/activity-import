@@ -1,3 +1,4 @@
+9055da5573c2ee3616a8ae25b5411ce4a822c48c | feat: send carriers a welcome email when created (#6030) | 2024-01-19 11:03:40 -0500  |  32 files changed, 381 insertions(+), 183 deletions(-)
 7afcb34e97359e825a6448722b0c219afb1465b5 | feat: embed banking otp on fuel checkout for inactive session (#5951) | 2024-01-10 17:38:47 -0500  |  4 files changed, 71 insertions(+), 81 deletions(-)
 c5f953d7390e7381769b4ac52997f8e62f970579 | feat: add load distance in miles to `RouteInfo` (#5961) | 2024-01-10 13:10:17 -0500  |  2 files changed, 18 insertions(+), 4 deletions(-)
 fc195d01711d7050570d24fb89e4f9dbe022a9ec | feat: simplify fuel discounts page (#5771) | 2024-01-09 14:42:29 -0500  |  33 files changed, 301 insertions(+), 485 deletions(-)
