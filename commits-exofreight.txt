@@ -1,3 +1,4 @@
+d3b08a951fad2eb62297b6fd63992911b5ed3682 | chore: migrate `CarrierCompanyDocument` `document_type` to text choices (#6081) | 2024-01-24 14:22:25 -0500  |  23 files changed, 151 insertions(+), 92 deletions(-)
 daf5d083a7de7b58b037c96eb6b0a20185c65244 | feat: replace factoring banner with fuel advertisement (#6078) | 2024-01-23 11:50:30 -0500  |  2 files changed, 22 insertions(+), 43 deletions(-)
 4f547969728f02b45052a60a3c6a84293ebb692b | fix: optimize field migration db query (#6067) | 2024-01-22 15:30:19 -0500  |  2 files changed, 34 insertions(+), 36 deletions(-)
 51da8d48937f02a4097c1ccb2bdcae59b12cfd47 | feat: standardize `CONSTANT_CASE` db storage for text choice attributes (#6063) | 2024-01-22 12:19:31 -0500  |  16 files changed, 594 insertions(+), 68 deletions(-)
