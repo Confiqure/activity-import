@@ -1,3 +1,4 @@
+873571b69fc3352105058abd2adb5cd70dbfa113 | fix: case insensitive carrier login lookup (#6160) | 2024-02-06 11:54:10 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 907dba4b03b12621f4d4353901e199962f3c0d8c | fix: update business address to suite 400 (#6156) | 2024-02-05 16:58:31 -0500  |  6 files changed, 8 insertions(+), 10 deletions(-)
 5506f65773d51f88fdfe4c2f24ba1ea7993f865b | fix: reload carrier details on primary payment method change (#6141) | 2024-02-01 16:48:12 -0500  |  1 file changed, 6 insertions(+), 9 deletions(-)
 d3b08a951fad2eb62297b6fd63992911b5ed3682 | chore: migrate `CarrierCompanyDocument` `document_type` to text choices (#6081) | 2024-01-24 14:22:25 -0500  |  23 files changed, 151 insertions(+), 92 deletions(-)
