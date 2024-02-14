@@ -1,3 +1,4 @@
+efeb68a18c91a409330b4a9e57afb95355e6257d | fix: improved load statement data calculation (#6207) | 2024-02-14 14:36:43 -0500  |  2 files changed, 38 insertions(+), 24 deletions(-)
 dd019168a9ae0afabd3b36de37861c12339b9fc4 | feat: add FF for new portal-based rate confirmations (#6187) | 2024-02-09 16:07:50 -0500  |  2 files changed, 36 insertions(+)
 18601b5f4900f54c0d36ff306cd5aad424b7017d | feat: use green origin and red destination pin colors (#6189) | 2024-02-09 15:45:25 -0500  |  5 files changed, 9 insertions(+), 4 deletions(-)
 56e582f1118d1c9dbc803218285d40203eabceca | feat: Payments Screen improvements (#6173) | 2024-02-08 11:14:52 -0500  |  12 files changed, 136 insertions(+), 315 deletions(-)
