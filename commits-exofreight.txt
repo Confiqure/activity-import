@@ -1,3 +1,4 @@
+1372ba1bcc7b608d001488055ee6ce062553b850 | fix: increase spacing in factoring agreement (#6269) | 2024-02-20 15:37:42 -0500  |  1 file changed, 21 insertions(+), 10 deletions(-)
 bbe2481c8abc0295d3becfa9bce216fb5e8ca8c9 | fix: handle zero cfrs (#6264) | 2024-02-19 17:29:56 -0500  |  1 file changed, 6 insertions(+), 2 deletions(-)
 bf349205b91a09f3b4d251eb622f1ee793dca31c | fix: add missing banking requests to factoring screen (#6262) | 2024-02-19 17:09:05 -0500  |  7 files changed, 49 insertions(+), 40 deletions(-)
 c616d4d3b9878fc77f222bb97aa327f0af9eeb84 | refactor: add LoadDetails type, simplify AvailableLoad endpoints (#6240) | 2024-02-16 14:30:32 -0500  |  12 files changed, 197 insertions(+), 250 deletions(-)
