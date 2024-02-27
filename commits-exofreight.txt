@@ -1,3 +1,4 @@
+cba8af7d4ca27db9d58f434912ae60b7bd8cf42b | feat: add new location preview to active loads page (#6275) | 2024-02-27 13:41:39 -0500  |  12 files changed, 211 insertions(+), 352 deletions(-)
 74a77922597659821673f43ee4b4656ff66ab5ab | fix: company not available until after creation (#6333) | 2024-02-27 10:19:53 -0500  |  1 file changed, 13 insertions(+), 13 deletions(-)
 f0b95b62ccd7e0d5d543d67aff193444b77cfd96 | fix: select company (#6332) | 2024-02-27 09:32:50 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 33202a85a84230792bbe2029fb4766e5a8600863 | feat: trigger onboarding funnel on new carrier company creation (#6313) | 2024-02-27 09:06:38 -0500  |  8 files changed, 61 insertions(+), 47 deletions(-)
