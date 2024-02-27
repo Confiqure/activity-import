@@ -1,3 +1,4 @@
+8c1e840f5eeb5742e3343e70d72142470f06c817 | feat: new style for selected tab (#6345) | 2024-02-27 15:55:52 -0500  |  3 files changed, 4 insertions(+), 5 deletions(-)
 49e64c3d94587cd6a54752f9908f61349ebfd8bf | fix: banking card cancellation modal styling (#6337) | 2024-02-27 15:25:46 -0500  |  1 file changed, 5 insertions(+), 3 deletions(-)
 1a0c430c990c2756df7007d23e39b5d26a934cb9 | feat: new load detail page (#6301) | 2024-02-27 14:49:03 -0500  |  11 files changed, 307 insertions(+), 102 deletions(-)
 cba8af7d4ca27db9d58f434912ae60b7bd8cf42b | feat: add new location preview to active loads page (#6275) | 2024-02-27 13:41:39 -0500  |  12 files changed, 211 insertions(+), 352 deletions(-)
