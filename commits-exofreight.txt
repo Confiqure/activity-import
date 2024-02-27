@@ -1,3 +1,4 @@
+33202a85a84230792bbe2029fb4766e5a8600863 | feat: trigger onboarding funnel on new carrier company creation (#6313) | 2024-02-27 09:06:38 -0500  |  8 files changed, 61 insertions(+), 47 deletions(-)
 c5b286e1037c119c32ac8e65895774cbebf0b584 | fix: hide finance sidebar section when user not eligible (#6293) | 2024-02-21 16:33:58 -0500  |  2 files changed, 37 insertions(+), 35 deletions(-)
 1372ba1bcc7b608d001488055ee6ce062553b850 | fix: increase spacing in factoring agreement (#6269) | 2024-02-20 15:37:42 -0500  |  1 file changed, 21 insertions(+), 10 deletions(-)
 bbe2481c8abc0295d3becfa9bce216fb5e8ca8c9 | fix: handle zero cfrs (#6264) | 2024-02-19 17:29:56 -0500  |  1 file changed, 6 insertions(+), 2 deletions(-)
