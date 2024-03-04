@@ -1,3 +1,4 @@
+561ed6e169b25a491e4bc10c4f799837d627881a | feat: add sign rate confirmation screen behind feature flag (#6366) | 2024-03-04 12:21:17 -0500  |  7 files changed, 253 insertions(+), 24 deletions(-)
 13c2f9ec24568ee5ac7be19f44682961507f3bfd | fix: floating-point precision bug in amount conversion (#6356) | 2024-02-28 12:22:18 -0500  |  1 file changed, 2 insertions(+), 2 deletions(-)
 8c1e840f5eeb5742e3343e70d72142470f06c817 | feat: new style for selected tab (#6345) | 2024-02-27 15:55:52 -0500  |  3 files changed, 4 insertions(+), 5 deletions(-)
 49e64c3d94587cd6a54752f9908f61349ebfd8bf | fix: banking card cancellation modal styling (#6337) | 2024-02-27 15:25:46 -0500  |  1 file changed, 5 insertions(+), 3 deletions(-)
