@@ -1,3 +1,4 @@
+73c609d0f61388f3f17948995eaf015a4f010dff | fix: add missing migration (#6421) | 2024-03-06 12:02:02 -0500  |  1 file changed, 47 insertions(+)
 90431ee56ae49b34d6e6be9422f9a56190944c63 | fix: properly return 404 for loads not found (#6418) | 2024-03-06 11:45:50 -0500  |  2 files changed, 42 insertions(+), 42 deletions(-)
 d2a0c41a265dbeeea948fe5c2221ad6cb867684d | feat: hook up sign rate con to backend (#6406) | 2024-03-05 15:42:56 -0500  |  2 files changed, 61 insertions(+), 6 deletions(-)
 a5331fdc7e1f7824cb47bd8466f7c0fc94dea847 | feat: add load alert component for missing signed rate con (#6403) | 2024-03-05 14:15:33 -0500  |  7 files changed, 96 insertions(+), 11 deletions(-)
