@@ -1,3 +1,4 @@
+a9e156bc4305741fdb04e34d94f6e7eee720415b | fix: postal code must contain digits only (#6412) | 2024-03-11 12:21:46 -0400  |  5 files changed, 20 insertions(+), 4 deletions(-)
 ce19cff8471eb7ab498dec5b5d6bc4dd19fb1744 | feat: polish and release digital rate con feature (#6422) | 2024-03-07 14:46:00 -0500  |  17 files changed, 1115 insertions(+), 2183 deletions(-)
 c44aef6782046fff6e647f0435f68ff3385d1582 | chore: cleanup launched feature flags (#6423) | 2024-03-07 10:42:42 -0500  |  6 files changed, 76 insertions(+), 24 deletions(-)
 ffdc33cf434079901fe37f10d19c95d3bad22c3d | fix: redirect to public loadboard if requested load is not booked by the carrier (#6425) | 2024-03-06 14:59:31 -0500  |  1 file changed, 5 insertions(+)
