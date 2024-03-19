@@ -1,3 +1,4 @@
+39e8b2419743335ce4a1687b9968ebc0b6318fd4 | fix: sign digital rate con ValidationError (#6515) | 2024-03-19 18:12:20 -0400  |  2 files changed, 6 insertions(+), 3 deletions(-)
 f19a83b57edc08bebe124df8f3220b62812dfb60 | feat: support all carrier contacts for digital rate cons (#6487) | 2024-03-19 11:40:31 -0400  |  12 files changed, 244 insertions(+), 121 deletions(-)
 fcab933e9e5e9347c18ab308c6425604c58a419d | fix: use common error handling utility (#6488) | 2024-03-15 16:30:50 -0400  |  62 files changed, 96 insertions(+), 394 deletions(-)
 5be714d90278b150d771cd4ac9bd7865b6452523 | fix: only set load to confirmed when booked (#6482) | 2024-03-15 10:42:24 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
