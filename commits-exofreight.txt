@@ -1,3 +1,4 @@
+8f5f98b8d5d83eb69dd449fc9dcf7b047601e45c | feat: add additional book load mixpanel tracking (#6578) | 2024-03-28 15:40:32 -0400  |  1 file changed, 8 insertions(+), 13 deletions(-)
 265c0f52adf15c0c1b65ec7730b6aca070f6091e | feat: enhanced browser tracking with geolocation's `watchPosition` (#6563) | 2024-03-28 11:56:54 -0400  |  5 files changed, 176 insertions(+), 52 deletions(-)
 4551e117f3a4d45ca61bae355a0c5193e2bea656 | fix: fuel reservation layout (#6568) | 2024-03-28 11:27:25 -0400  |  2 files changed, 3 insertions(+), 2 deletions(-)
 17a5c7c604ac1d1d7d5bd75b51e126be12d18227 | fix: sign rate confirmation sentry issues (#6560) | 2024-03-27 11:39:57 -0400  |  2 files changed, 29 insertions(+), 18 deletions(-)
