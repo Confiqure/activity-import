@@ -1,3 +1,4 @@
+8963c003c399a7e5d35d9204b9fbf4608d849771 | fix: allow base price to equal retail price (#6619) | 2024-04-03 09:55:22 -0400  |  2 files changed, 9 insertions(+), 9 deletions(-)
 b6215d09565df6deaf6fcb5f1c2df47ecb88b366 | feat: add indicator for when digital rate con is pending (#6583) | 2024-03-29 12:45:53 -0400  |  7 files changed, 107 insertions(+), 81 deletions(-)
 8f5f98b8d5d83eb69dd449fc9dcf7b047601e45c | feat: add additional book load mixpanel tracking (#6578) | 2024-03-28 15:40:32 -0400  |  1 file changed, 8 insertions(+), 13 deletions(-)
 265c0f52adf15c0c1b65ec7730b6aca070f6091e | feat: enhanced browser tracking with geolocation's `watchPosition` (#6563) | 2024-03-28 11:56:54 -0400  |  5 files changed, 176 insertions(+), 52 deletions(-)
