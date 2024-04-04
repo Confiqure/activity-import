@@ -1,3 +1,4 @@
+4b17946a2ddf7df119e23b8ae5437ed03643098f | experiment: update carrier quarter/year in review notebook (#6651) | 2024-04-04 12:31:06 -0400  |  1 file changed, 60 insertions(+), 66 deletions(-)
 e0bed0533352b4ad8a47de9044a737955962d1b7 | test: `CanonicalLocation` factories generate locations randomly (#6641) | 2024-04-03 16:02:47 -0400  |  1 file changed, 25 insertions(+), 18 deletions(-)
 8963c003c399a7e5d35d9204b9fbf4608d849771 | fix: allow base price to equal retail price (#6619) | 2024-04-03 09:55:22 -0400  |  2 files changed, 9 insertions(+), 9 deletions(-)
 b6215d09565df6deaf6fcb5f1c2df47ecb88b366 | feat: add indicator for when digital rate con is pending (#6583) | 2024-03-29 12:45:53 -0400  |  7 files changed, 107 insertions(+), 81 deletions(-)
