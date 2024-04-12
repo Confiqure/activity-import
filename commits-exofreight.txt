@@ -1,3 +1,4 @@
+96c287f3ca34960a183dd0c12ed91c672b04cd7e | fix: load details screen routing (#6702) | 2024-04-12 10:10:11 -0400  |  1 file changed, 30 insertions(+), 36 deletions(-)
 6d6d50f1bbc4d6073f8dcf9ee675426bdec18f17 | feat: add tracking ff, pass load status to carrier portal (#6697) | 2024-04-11 13:28:58 -0400  |  8 files changed, 110 insertions(+), 37 deletions(-)
 ec25b93d357ac1edf32204a7f443570a55909a82 | fix: fe validation for load having a carrier sales rep (#6694) | 2024-04-11 12:07:24 -0400  |  3 files changed, 23 insertions(+), 7 deletions(-)
 7eee8cf1a7f4bead5de3e0c7139f4dc722f1b285 | feat: email finance team on banking signup w/ new generic templates (#6667) | 2024-04-10 11:28:05 -0400  |  17 files changed, 221 insertions(+), 188 deletions(-)
