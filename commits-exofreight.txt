@@ -1,3 +1,4 @@
+673a4a9fbbfc24f1d8618faad440307d11052f16 | fix: searching for factoring companies causes infinite search loop (#6739) | 2024-04-17 10:33:46 -0400  |  2 files changed, 2 insertions(+), 7 deletions(-)
 9ef53dd2e8a6177570363bd38e9fee7645950718 | refactor: location types (#6733) | 2024-04-16 14:12:24 -0400  |  21 files changed, 40 insertions(+), 57 deletions(-)
 d9ef9fa431164b6af299da638ecd4662eeb565ff | chore: remove legacy send rate con code (#6706) | 2024-04-15 10:52:11 -0400  |  11 files changed, 155 insertions(+), 232 deletions(-)
 b739c07bab3966b0969ced9a09d3d867320cc43d | docs: remove outdated vscode instructions (#6705) | 2024-04-12 13:58:22 -0400  |  7 files changed, 63 deletions(-)
