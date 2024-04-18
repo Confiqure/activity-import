@@ -1,3 +1,4 @@
+70cd8161fb1d3e256007566a031d9cd0fc006cd9 | fix: quick_pay toggle on payment method screen + onboarding (#6743) | 2024-04-18 14:55:33 -0400  |  10 files changed, 68 insertions(+), 52 deletions(-)
 673a4a9fbbfc24f1d8618faad440307d11052f16 | fix: searching for factoring companies causes infinite search loop (#6739) | 2024-04-17 10:33:46 -0400  |  2 files changed, 2 insertions(+), 7 deletions(-)
 9ef53dd2e8a6177570363bd38e9fee7645950718 | refactor: location types (#6733) | 2024-04-16 14:12:24 -0400  |  21 files changed, 40 insertions(+), 57 deletions(-)
 d9ef9fa431164b6af299da638ecd4662eeb565ff | chore: remove legacy send rate con code (#6706) | 2024-04-15 10:52:11 -0400  |  11 files changed, 155 insertions(+), 232 deletions(-)
