@@ -1,3 +1,4 @@
+9d7d7f45f163ab6b9829186475506d5c2d341f97 | fix: routing bug (#6804) | 2024-04-26 16:45:25 -0400  |  3 files changed, 4 insertions(+), 4 deletions(-)
 c3f72a31d69df47b34e0bd5ac232f8c5ad2f1da8 | fix: carrier+shipper app env settings (#6802) | 2024-04-26 15:59:09 -0400  |  3 files changed, 4 insertions(+), 10 deletions(-)
 3b1a90a37144de5b2cedb1704cb7513386fa757a | fix: use stronger passwords for seed data (#6781) | 2024-04-26 12:31:23 -0400  |  9 files changed, 28 insertions(+), 8 deletions(-)
 191eafe244fe1e635566352901dcf160e9c644b0 | feat: rebrand the shipper portal to Pulse with new brand colors (#6776) | 2024-04-25 09:39:52 -0400  |  120 files changed, 265 insertions(+), 296 deletions(-)
