@@ -1,3 +1,4 @@
+3b1a90a37144de5b2cedb1704cb7513386fa757a | fix: use stronger passwords for seed data (#6781) | 2024-04-26 12:31:23 -0400  |  9 files changed, 28 insertions(+), 8 deletions(-)
 191eafe244fe1e635566352901dcf160e9c644b0 | feat: rebrand the shipper portal to Pulse with new brand colors (#6776) | 2024-04-25 09:39:52 -0400  |  120 files changed, 265 insertions(+), 296 deletions(-)
 80df6ed514aaae6bb4e207262075b02c5647a467 | fix: email cleanup (#6782) | 2024-04-24 13:56:37 -0400  |  17 files changed, 33 insertions(+), 40 deletions(-)
 5346299c493bc8c3b607dfa48bc8ffffd801dff4 | feat: rebrand the carrier portal to Pulse with new brand colors (#6756) | 2024-04-19 17:37:22 -0400  |  124 files changed, 348 insertions(+), 344 deletions(-)
