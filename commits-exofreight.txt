@@ -1,3 +1,4 @@
+5732b0eac9656e4f9a07d5480d9b6dcd39acac3f | feat: improve pulse app login screens (#6800) | 2024-04-30 13:23:15 -0400  |  8 files changed, 202 insertions(+), 37 deletions(-)
 dc833d9d6525719bd39b5ac7be7037544a8189e3 | fix: fuel infinite search bug (#6818) | 2024-04-30 13:18:47 -0400  |  2 files changed, 26 insertions(+), 8 deletions(-)
 a0dd5886c39ea168eb5939b7cdb1b2257be89460 | fix: return can approve details (#6816) | 2024-04-29 16:01:36 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 02a3d95cfe9764bd1b1a59d6609089d29e12b966 | fix: return in detail which factoring conditions fail (#6811) | 2024-04-29 11:43:58 -0400  |  4 files changed, 31 insertions(+), 30 deletions(-)
