@@ -1,3 +1,4 @@
+ba9bd3504cdc511466fbc56ef0d2bb33b480f9bb | fix: add loading feedback to carrier invite (#6862) | 2024-05-06 10:39:34 -0400  |  1 file changed, 7 insertions(+), 2 deletions(-)
 b9447cbd2ae1ed8eeb6aedc98e784fb0c1daffd3 | fix: quote serializer (#6849) | 2024-05-03 14:59:07 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 474317857625226c244025c758fb391516e871dc | fix: send carrier link to specific load (#6848) | 2024-05-03 14:26:20 -0400  |  1 file changed, 2 insertions(+), 5 deletions(-)
 3253eefc498bfad2e8508ba9befd85231940e5e5 | feat: add customer invite carrier resend action (#6829) | 2024-05-01 18:21:14 -0400  |  6 files changed, 253 insertions(+), 95 deletions(-)
