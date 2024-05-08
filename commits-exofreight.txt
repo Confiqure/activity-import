@@ -1,3 +1,4 @@
+817d3e84624a8086e48150a0a6ba8a3e64f555f4 | fix: add company name to carrier portal header dropdown (#6894) | 2024-05-08 13:03:04 -0400  |  1 file changed, 6 insertions(+)
 259714f0b5d69d6667c55f6160bbb68ac24306c8 | feat: add carrier location tracking (#6738) | 2024-05-08 11:44:02 -0400  |  19 files changed, 855 insertions(+), 21 deletions(-)
 3b2aa929fce124268c8a6053933947bea1dab4e6 | fix: only show quote actions when not rejected (#6888) | 2024-05-08 10:55:14 -0400  |  1 file changed, 10 insertions(+), 9 deletions(-)
 495f9a4075a7b1061e3bbe7acf85f5bd52f22293 | chore: remove google maps dependency (#6877) | 2024-05-07 18:30:02 -0400  |  11 files changed, 1 insertion(+), 305 deletions(-)
