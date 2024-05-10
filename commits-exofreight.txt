@@ -1,3 +1,4 @@
+70e619bb10cef565e3096f122a37f2bc9c45e1bf | fix: remove date input from sign rate con flow + location bug (#6919) | 2024-05-10 11:59:44 -0400  |  7 files changed, 20 insertions(+), 58 deletions(-)
 d8b3bc2fc7c14282081ffb706976f4212b288e09 | feat: add field to carrier company indicating which customer invited them (#6899) | 2024-05-09 14:59:22 -0400  |  6 files changed, 191 insertions(+), 102 deletions(-)
 95f2661155eb542522262bc643054109f48489b4 | chore: remove 'shipper impersonation' feature flag (#6910) | 2024-05-09 14:42:43 -0400  |  4 files changed, 40 insertions(+), 18 deletions(-)
 4be9dc97377264ff85fd011c9aa04cadf178e3bb | chore: remove 'od quoting' feature flag (#6900) | 2024-05-08 16:09:57 -0400  |  3 files changed, 50 insertions(+), 10 deletions(-)
