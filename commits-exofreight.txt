@@ -1,3 +1,4 @@
+41bcfe1dc29b6f5f5e2dc3030d02b9a8064cdbe8 | fix: show loader while auth state is loading (#6956) | 2024-05-15 15:00:24 -0400  |  2 files changed, 6 insertions(+), 7 deletions(-)
 b023aabbeb8e5902a03e3dec2430ecd97cd3afb9 | fix: use blue 'view load details' button for quotes (#6923) | 2024-05-10 18:48:27 -0400  |  1 file changed, 10 insertions(+), 8 deletions(-)
 70e619bb10cef565e3096f122a37f2bc9c45e1bf | fix: remove date input from sign rate con flow + location bug (#6919) | 2024-05-10 11:59:44 -0400  |  7 files changed, 20 insertions(+), 58 deletions(-)
 d8b3bc2fc7c14282081ffb706976f4212b288e09 | feat: add field to carrier company indicating which customer invited them (#6899) | 2024-05-09 14:59:22 -0400  |  6 files changed, 191 insertions(+), 102 deletions(-)
