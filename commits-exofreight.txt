@@ -1,3 +1,4 @@
+a6ab5655a6a5430935b1301f46905626173957ed | fix: fetch most recent secrets when app is built (#7000) | 2024-05-22 10:36:45 -0400  |  1 file changed, 1 insertion(+), 2 deletions(-)
 e4b88a40840f753792838bd691e086f43487234e | feat: add carrier location-tracking event markers with map refactor (#6975) | 2024-05-21 18:00:13 -0400  |  52 files changed, 1103 insertions(+), 1046 deletions(-)
 56e1dd34baecc58ccc75905fa03e2017b4bcbe4e | feat: adds new sanity check test to ensure app renders without breaking (#6959) | 2024-05-15 16:22:28 -0400  |  3 files changed, 36 insertions(+)
 41bcfe1dc29b6f5f5e2dc3030d02b9a8064cdbe8 | fix: show loader while auth state is loading (#6956) | 2024-05-15 15:00:24 -0400  |  2 files changed, 6 insertions(+), 7 deletions(-)
