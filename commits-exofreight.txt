@@ -1,3 +1,4 @@
+5162581fddfb3c86467a577d4ea48766e41baa0d | fix: misc tender load bugs from demo (#7017) | 2024-05-23 12:47:50 -0400  |  12 files changed, 74 insertions(+), 84 deletions(-)
 21a1b0feb71850e7be3e6876f21158230d469483 | fix: do not navigate away from password login route (#7009) | 2024-05-22 14:38:39 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 a166d3108e083f0b3618500fa484242d735b733b | fix: driver phone number should be red if not provided (#7008) | 2024-05-22 14:16:10 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 a6ab5655a6a5430935b1301f46905626173957ed | fix: fetch most recent secrets when app is built (#7000) | 2024-05-22 10:36:45 -0400  |  1 file changed, 1 insertion(+), 2 deletions(-)
