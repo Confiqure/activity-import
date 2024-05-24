@@ -1,3 +1,4 @@
+92590d05f1815c649e3e6956c8242abcc94efddc | fix: reduce location update frequency (#7024) | 2024-05-24 10:14:27 -0400  |  1 file changed, 5 insertions(+), 1 deletion(-)
 5162581fddfb3c86467a577d4ea48766e41baa0d | fix: misc tender load bugs from demo (#7017) | 2024-05-23 12:47:50 -0400  |  12 files changed, 74 insertions(+), 84 deletions(-)
 21a1b0feb71850e7be3e6876f21158230d469483 | fix: do not navigate away from password login route (#7009) | 2024-05-22 14:38:39 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 a166d3108e083f0b3618500fa484242d735b733b | fix: driver phone number should be red if not provided (#7008) | 2024-05-22 14:16:10 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
