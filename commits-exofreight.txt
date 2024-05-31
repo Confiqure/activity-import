@@ -1,3 +1,4 @@
+afe990d6015d6d63ab17db25f0111e25d9cb930c | feat: display carrier location events on map in shipper app (#7045) | 2024-05-31 14:26:13 -0400  |  3 files changed, 72 insertions(+), 11 deletions(-)
 a82b70c0b7b8a8741d2850297ee3d5b3802a26aa | fix: frequently poll for updates but only send every minute (#7025) | 2024-05-24 10:38:44 -0400  |  1 file changed, 28 insertions(+), 18 deletions(-)
 92590d05f1815c649e3e6956c8242abcc94efddc | fix: reduce location update frequency (#7024) | 2024-05-24 10:14:27 -0400  |  1 file changed, 5 insertions(+), 1 deletion(-)
 5162581fddfb3c86467a577d4ea48766e41baa0d | fix: misc tender load bugs from demo (#7017) | 2024-05-23 12:47:50 -0400  |  12 files changed, 74 insertions(+), 84 deletions(-)
