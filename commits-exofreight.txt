@@ -1,3 +1,4 @@
+30ddfd950b2fd5cfb5403b328ebc9c68d23c39fc | feat: add natively background tracking (#7044) | 2024-06-03 15:57:01 -0400  |  21 files changed, 463 insertions(+), 189 deletions(-)
 708f2a6dfd12ebe2f31212209dfefe8401d809c7 | fix: add missing migration (#7049) | 2024-06-03 14:27:48 -0400  |  1 file changed, 69 insertions(+)
 afe990d6015d6d63ab17db25f0111e25d9cb930c | feat: display carrier location events on map in shipper app (#7045) | 2024-05-31 14:26:13 -0400  |  3 files changed, 72 insertions(+), 11 deletions(-)
 a82b70c0b7b8a8741d2850297ee3d5b3802a26aa | fix: frequently poll for updates but only send every minute (#7025) | 2024-05-24 10:38:44 -0400  |  1 file changed, 28 insertions(+), 18 deletions(-)
