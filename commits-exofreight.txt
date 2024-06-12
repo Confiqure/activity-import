@@ -1,3 +1,4 @@
+71119c8dd66c6b04c4e8e5e9dc9b5870e9c2282a | fix: display map miles (#7094) | 2024-06-12 09:34:39 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 a40b619055a37e3c97a94dd718ef6bf253a14e4b | feat: add load status update form in carrier app (#7073) | 2024-06-11 13:42:04 -0400  |  16 files changed, 662 insertions(+), 36 deletions(-)
 12cf7030d467deb92969dea01137a1778bb13812 | fix: apply manual tracking update to all tracking-eligible loads (#7091) | 2024-06-11 13:16:08 -0400  |  1 file changed, 16 insertions(+), 13 deletions(-)
 1e7d21ffd436b4ca05747ea25ebd170a7b2c2e7d | feat: add vscode extension recommendations (#7074) | 2024-06-06 14:52:11 -0400  |  1 file changed, 7 insertions(+), 1 deletion(-)
