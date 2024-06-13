@@ -1,3 +1,4 @@
+32dff4c47017e089c376b37a902d46dadcab3fb3 | feat: add otp override for app store reviews (#7105) | 2024-06-13 13:22:48 -0400  |  3 files changed, 13 insertions(+), 8 deletions(-)
 86f460588f32edfe83269a768c0bf87d7d48deff | feat: add load status update dropdown in shipper portal (#7095) | 2024-06-12 16:16:03 -0400  |  28 files changed, 584 insertions(+), 381 deletions(-)
 7442e84d22b443c25a3b883254d2633816c86444 | fix: ValueError - an isnull lookup must be True or False (#7096) | 2024-06-12 13:07:55 -0400  |  2 files changed, 2 insertions(+), 2 deletions(-)
 71119c8dd66c6b04c4e8e5e9dc9b5870e9c2282a | fix: display map miles (#7094) | 2024-06-12 09:34:39 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
