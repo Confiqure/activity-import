@@ -1,3 +1,4 @@
+57581aeac05588b93ac4a30d1bc1e7d43e40d176 | fix: move currencyFormatter to common (#7112) | 2024-06-14 12:24:42 -0400  |  20 files changed, 30 insertions(+), 38 deletions(-)
 b9e454fae9f434c8be73c4eaa1726a678ac8fee0 | feat: add privacy policy link to carrier login screen (#7109) | 2024-06-14 11:11:47 -0400  |  5 files changed, 27 insertions(+), 13 deletions(-)
 32dff4c47017e089c376b37a902d46dadcab3fb3 | feat: add otp override for app store reviews (#7105) | 2024-06-13 13:22:48 -0400  |  3 files changed, 13 insertions(+), 8 deletions(-)
 86f460588f32edfe83269a768c0bf87d7d48deff | feat: add load status update dropdown in shipper portal (#7095) | 2024-06-12 16:16:03 -0400  |  28 files changed, 584 insertions(+), 381 deletions(-)
