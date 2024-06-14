@@ -1,3 +1,4 @@
+105b801620e4c0a07abb2f33eb5f135f5f404909 | fix: show new load status in carrier portal, use correct plan status color (#7117) | 2024-06-14 16:57:21 -0400  |  6 files changed, 9 insertions(+), 9 deletions(-)
 d075f82d5f27feebf246ccb269fb02ff6520b352 | feat: add delivered option to load status dropdown in carrier portal (#7115) | 2024-06-14 13:20:56 -0400  |  3 files changed, 20 insertions(+), 9 deletions(-)
 57581aeac05588b93ac4a30d1bc1e7d43e40d176 | fix: move currencyFormatter to common (#7112) | 2024-06-14 12:24:42 -0400  |  20 files changed, 30 insertions(+), 38 deletions(-)
 b9e454fae9f434c8be73c4eaa1726a678ac8fee0 | feat: add privacy policy link to carrier login screen (#7109) | 2024-06-14 11:11:47 -0400  |  5 files changed, 27 insertions(+), 13 deletions(-)
