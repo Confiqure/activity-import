@@ -1,3 +1,4 @@
+82e68a1113d1c6a3c5138d8b9f3e74ebf30436da | fix: FieldError - Cannot resolve keyword 'customer_profile' into field (#7172) | 2024-06-28 10:05:29 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 cf1c1db1f864b01b8d13b5f3ffe582d2d03c6a1a | fix: fetch waterfall tendered carriers only if the trigger is 'start' to avoid subsequent 422 error (#7171) | 2024-06-27 16:18:06 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 d9133148b3795649b7da89d9f8ee86a256ae01b3 | fix: allow factoring with freight forwarders (#7169) | 2024-06-27 15:24:27 -0400  |  2 files changed, 11 insertions(+), 5 deletions(-)
 ca4e89c254ff8e47fdc53a0d587aeb1345172528 | feat: add load notifications to shipper portal (#7113) | 2024-06-17 12:52:11 -0400  |  9 files changed, 239 insertions(+), 9 deletions(-)
