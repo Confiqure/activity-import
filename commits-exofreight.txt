@@ -1,3 +1,4 @@
+d54c97fba6c542922fa1b63811bf184910f66ff1 | feat: add 'update status' text to status dropdown (#7179) | 2024-07-01 15:56:55 -0400  |  1 file changed, 5 insertions(+), 2 deletions(-)
 82e68a1113d1c6a3c5138d8b9f3e74ebf30436da | fix: FieldError - Cannot resolve keyword 'customer_profile' into field (#7172) | 2024-06-28 10:05:29 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 cf1c1db1f864b01b8d13b5f3ffe582d2d03c6a1a | fix: fetch waterfall tendered carriers only if the trigger is 'start' to avoid subsequent 422 error (#7171) | 2024-06-27 16:18:06 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 d9133148b3795649b7da89d9f8ee86a256ae01b3 | fix: allow factoring with freight forwarders (#7169) | 2024-06-27 15:24:27 -0400  |  2 files changed, 11 insertions(+), 5 deletions(-)
