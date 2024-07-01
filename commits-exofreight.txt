@@ -1,3 +1,4 @@
+66b0fc5903f7a728a4bf3c1ebc8b111635f180d9 | feat: use active loads table design with new statuses (#7180) | 2024-07-01 16:30:54 -0400  |  3 files changed, 98 insertions(+), 68 deletions(-)
 d54c97fba6c542922fa1b63811bf184910f66ff1 | feat: add 'update status' text to status dropdown (#7179) | 2024-07-01 15:56:55 -0400  |  1 file changed, 5 insertions(+), 2 deletions(-)
 82e68a1113d1c6a3c5138d8b9f3e74ebf30436da | fix: FieldError - Cannot resolve keyword 'customer_profile' into field (#7172) | 2024-06-28 10:05:29 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 cf1c1db1f864b01b8d13b5f3ffe582d2d03c6a1a | fix: fetch waterfall tendered carriers only if the trigger is 'start' to avoid subsequent 422 error (#7171) | 2024-06-27 16:18:06 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
