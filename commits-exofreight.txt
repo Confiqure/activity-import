@@ -1,3 +1,4 @@
+73171df6725f99040bfff3d812fee4a62d4ce324 | fix: active quotes list design (#7195) | 2024-07-02 19:04:54 -0400  |  3 files changed, 18 insertions(+), 24 deletions(-)
 85e93d78564e5e218769fe8f8159736550ef1c04 | feat: use tender loads table design with status override (#7190) | 2024-07-02 14:23:22 -0400  |  5 files changed, 134 insertions(+), 49 deletions(-)
 ea8aacf1c7c64b9b5e975eef48a8a0e938b6905b | feat: use quotes table for 'managed trans' view (#7191) | 2024-07-02 14:20:57 -0400  |  3 files changed, 13 insertions(+), 70 deletions(-)
 66b0fc5903f7a728a4bf3c1ebc8b111635f180d9 | feat: use active loads table design with new statuses (#7180) | 2024-07-01 16:30:54 -0400  |  3 files changed, 98 insertions(+), 68 deletions(-)
