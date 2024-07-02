@@ -1,3 +1,4 @@
+ea8aacf1c7c64b9b5e975eef48a8a0e938b6905b | feat: use quotes table for 'managed trans' view (#7191) | 2024-07-02 14:20:57 -0400  |  3 files changed, 13 insertions(+), 70 deletions(-)
 66b0fc5903f7a728a4bf3c1ebc8b111635f180d9 | feat: use active loads table design with new statuses (#7180) | 2024-07-01 16:30:54 -0400  |  3 files changed, 98 insertions(+), 68 deletions(-)
 d54c97fba6c542922fa1b63811bf184910f66ff1 | feat: add 'update status' text to status dropdown (#7179) | 2024-07-01 15:56:55 -0400  |  1 file changed, 5 insertions(+), 2 deletions(-)
 82e68a1113d1c6a3c5138d8b9f3e74ebf30436da | fix: FieldError - Cannot resolve keyword 'customer_profile' into field (#7172) | 2024-06-28 10:05:29 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
