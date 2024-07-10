@@ -1,3 +1,4 @@
+680305bb5a62ad5316484e828fc1e30705666ec7 | fix: misc bugs and warnings (#7225) | 2024-07-10 13:07:21 -0400  |  4 files changed, 6 insertions(+), 8 deletions(-)
 c4a1b9a0f868817e764966e400e646295621de32 | cleanup: remove salesforce and pardot code (#7211) | 2024-07-09 14:55:31 -0400  |  41 files changed, 82 insertions(+), 1560 deletions(-)
 c74a589557f3230bb49bb15ae55dcbbdb411e1a9 | fix: use abbreviated tab names on narrow devices (#7197) | 2024-07-03 14:26:23 -0400  |  2 files changed, 15 insertions(+), 2 deletions(-)
 73171df6725f99040bfff3d812fee4a62d4ce324 | fix: active quotes list design (#7195) | 2024-07-02 19:04:54 -0400  |  3 files changed, 18 insertions(+), 24 deletions(-)
