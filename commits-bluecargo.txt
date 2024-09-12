@@ -1,3 +1,4 @@
+3e1915e347096863f48a51aad4ae07a4170c4638 | fix: create_audit_rule_processor_objects AttributeError (#7878) | 2024-09-12 10:14:31 -0400  |  1 file changed, 5 insertions(+), 1 deletion(-)
 405755cb69df6d505dc1ccda7921bc15ffcd976b | feat: add new task to auto create AuditRuleProcessor objects ZEB-2088 (#7842) | 2024-09-11 13:43:39 -0400  |  58 files changed, 259 insertions(+), 105 deletions(-)
 27a89acb2b6505c0acc30a3b2184d56481fe912f | feat: add demurrage moment calculator, task, and tests ZEB-2081 (#7784) | 2024-09-11 12:53:45 -0400  |  9 files changed, 527 insertions(+), 29 deletions(-)
 0133e5853a1e0202d7f7a155622a8c8c3d971c6d | Handle FSC missing start_location and start_location_datetime ZEB-2240 (#7704) | 2024-09-04 09:52:38 -0400  |  3 files changed, 57 insertions(+), 10 deletions(-)
