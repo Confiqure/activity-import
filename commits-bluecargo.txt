@@ -1,3 +1,4 @@
+7d1d8e800ffc676fa7890d0b65ca2fe56a59fc3a | refactor: clean up email settings vars (#8044) | 2024-09-27 09:08:10 -0700  |  17 files changed, 74 insertions(+), 69 deletions(-)
 812e0696930c589dc874b97479f5c3dbfb43e515 | refactor: simplify perdiem and demurrage moment crons (#8030) | 2024-09-26 11:36:21 -0700  |  8 files changed, 178 insertions(+), 230 deletions(-)
 bcd4f028575854a7089e9d8f36704925930b9dee | feat: add NFS EDI 210 onboarding test and file ZEB-2671 (#7974) | 2024-09-19 15:37:45 -0400  |  2 files changed, 78 insertions(+)
 963511a68f9556bcb7ee63feee3d420c3966e8b1 | docs: add readme config to projenrc (#35) | 2024-09-18 13:22:36 -0400  |  2 files changed, 174 insertions(+), 37 deletions(-)
