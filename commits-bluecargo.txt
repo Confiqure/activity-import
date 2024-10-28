@@ -1,3 +1,4 @@
+55fcfc8e9a8886eb4cd98d81f8cc77a6a16e97c3 | ci: squash migrations to speed up test execution (#8189) | 2024-10-28 17:53:03 -0400  |  40 files changed, 23969 insertions(+)
 dab15cd94a620a6dbf9fa38c2ec504fa1fa46fe5 | feat: add string merging utility using pyspellchecker (#8247) | 2024-10-18 15:14:32 -0400  |  4 files changed, 1119 insertions(+), 961 deletions(-)
 ea69739a3ec5cc26b63c7115eca6e7cf33372d5f | fix: AssertionError that tx_start must be set in yard_storage_empty_calculator (#8169) | 2024-10-10 10:42:52 -0400  |  2 files changed, 3 insertions(+), 4 deletions(-)
 04ad24e12e2ac93ebd45972ea0ddf4d48b5ffef4 | feat: add IMC EDI 210 onboarding test file ZEB-2711 (#8126) | 2024-10-07 13:12:54 -0400  |  2 files changed, 53 insertions(+)
