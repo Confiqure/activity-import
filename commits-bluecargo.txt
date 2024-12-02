@@ -1,3 +1,4 @@
+a972df76cc37991538a669dc2f597a3564738df9 | feat(splice): update unsubscribe logic to handle missing dates (#8644) | 2024-12-02 13:11:48 -0500  |  3 files changed, 3852 insertions(+), 84 deletions(-)
 d53cc57a356ac2f4065e76ae737762aeaf0a1be5 | feat(splice): add automated task to unsubscribe from past schedules (#8641) | 2024-11-27 13:50:41 -0500  |  4 files changed, 199 insertions(+), 10 deletions(-)
 e27459e89ff58c2401c46e552904b9bc8d80888f | feat(splice): new task to improve data fetching liveliness for new subscriptions (#8637) | 2024-11-27 13:36:12 -0500  |  6 files changed, 85 insertions(+), 8 deletions(-)
 22819d0cfc663bc487c470144d599d5cb243a95e | fix(splice): handle duplicate updates gracefully and improve record lookups (#8639) | 2024-11-27 12:56:28 -0500  |  3 files changed, 77 insertions(+), 48 deletions(-)
