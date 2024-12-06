@@ -1,3 +1,4 @@
+41e7183d821db4d254a29b36c430d95f2ac53ce1 | feat: add booking confirmation subtype and form handling (#3699) | 2024-12-05 20:05:14 -0500  |  9 files changed, 350 insertions(+), 23 deletions(-)
 1556b823daec01a5fe0e6d945dbced8febfc2b3d | feat(invoices): add new booking confirmation document type ZEB-2816 (#8628) | 2024-12-05 20:02:52 -0500  |  11 files changed, 469 insertions(+), 62 deletions(-)
 5b8d52e8669d461b33628360aad26c058fee02ec | fix: ensure consistent population of pickup_location_port_name ZEB-2843 (#8671) | 2024-12-03 18:06:08 -0500  |  2 files changed, 4 insertions(+), 2 deletions(-)
 148cb1066d521276734318cc8016a6f686300346 | fix(tests): ensure Pack object exists to resolve flaky test (#8669) | 2024-12-02 18:20:55 -0500  |  1 file changed, 1 insertion(+)
