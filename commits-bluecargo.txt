@@ -1,3 +1,4 @@
+3b16c34483c83e485e1724dd8aba5833e6d1825a | fix: rename FeeType export_perdiem to export_per_diem with migrations ZEB-2890 (#8869) | 2024-12-18 15:35:48 -0500  |  12 files changed, 42 insertions(+), 40 deletions(-)
 ab8a46017b584d8ba632ce3156d85dff771108ed | fix: dynamically set colSpan for breakdown table to use full width (#3744) | 2024-12-17 14:13:02 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 ba8479dc4724aab7135fdd8f1cd79eb748255d54 | feat: dynamically hide Time column based on port timezone data ZEB-2885 (#3743) | 2024-12-17 12:47:15 -0500  |  3 files changed, 41 insertions(+), 4 deletions(-)
 6e4d2997c20a3afb3491b6eb9737caeffb60c62a | hotfix: link supporting documents to invoices by ignoring invoice number leading zeros ZEB-2826 (#8851) | 2024-12-16 11:02:05 -0500  |  2 files changed, 75 insertions(+), 7 deletions(-)
