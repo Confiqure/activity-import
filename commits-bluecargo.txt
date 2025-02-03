@@ -1,3 +1,4 @@
+fa8dda4527948d364ab6bb9932075cc8fea44cc7 | feat: enforce 25-shipment limit for VizionAPI registration (#9057) | 2025-02-03 14:47:43 -0500  |  1 file changed, 6 insertions(+)
 f3bdc6133171f967714bd7ad3ba7dc8725b78262 | fix: use new LBCT portal URL (#322) | 2025-01-31 14:04:32 -0500  |  1 file changed, 2 insertions(+), 2 deletions(-)
 7ec683d227add820990896547ebd8aaf15be719d | fix: use new LBCT portal URL (#3776) (#3777) | 2025-01-31 13:58:10 -0500
 80244f9ce0f68a2d16fbdf15fcec5df93bbb9f7c | fix: use new LBCT portal URL (#3776) | 2025-01-31 13:42:06 -0500  |  2 files changed, 4 insertions(+), 4 deletions(-)
