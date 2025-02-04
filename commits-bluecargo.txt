@@ -1,3 +1,4 @@
+bc38086248191841da5fe1fe25be8554516f9212 | fix: increase scac field length to 50 for consistency SAI-3425 (#9066) | 2025-02-04 15:15:18 -0500  |  2 files changed, 19 insertions(+), 1 deletion(-)
 4e5b92b919f299db2bd7cea740f85cea830cc5a7 | hotfix: enforce 25-shipment limit for VizionAPI registration (#9058) | 2025-02-03 15:06:18 -0500  |  1 file changed, 6 insertions(+)
 fa8dda4527948d364ab6bb9932075cc8fea44cc7 | feat: enforce 25-shipment limit for VizionAPI registration (#9057) | 2025-02-03 14:47:43 -0500  |  1 file changed, 6 insertions(+)
 f3bdc6133171f967714bd7ad3ba7dc8725b78262 | fix: use new LBCT portal URL (#322) | 2025-01-31 14:04:32 -0500  |  1 file changed, 2 insertions(+), 2 deletions(-)
