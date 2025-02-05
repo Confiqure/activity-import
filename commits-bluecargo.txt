@@ -1,3 +1,4 @@
+6388a3ab179febc730e1b87311dc66b33f019b68 | chore(deps): bump vitest to 2.1.9 to fix CSWSH RCE vulnerability (#3786) | 2025-02-05 10:14:34 -0500  |  2 files changed, 108 insertions(+), 91 deletions(-)
 bc38086248191841da5fe1fe25be8554516f9212 | fix: increase scac field length to 50 for consistency SAI-3425 (#9066) | 2025-02-04 15:15:18 -0500  |  2 files changed, 19 insertions(+), 1 deletion(-)
 4e5b92b919f299db2bd7cea740f85cea830cc5a7 | hotfix: enforce 25-shipment limit for VizionAPI registration (#9058) | 2025-02-03 15:06:18 -0500  |  1 file changed, 6 insertions(+)
 fa8dda4527948d364ab6bb9932075cc8fea44cc7 | feat: enforce 25-shipment limit for VizionAPI registration (#9057) | 2025-02-03 14:47:43 -0500  |  1 file changed, 6 insertions(+)
