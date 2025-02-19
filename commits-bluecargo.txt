@@ -1,3 +1,4 @@
+fa337273c557ea52c3aa450a3c131a39ff861876 | fix: prevent infinite render loop in invoice reject action ENG-166 (#3821) | 2025-02-19 11:13:37 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 22a515caa41d4fc15bbeee9376d966069f0d2e32 | fix: handle JSONDecodeError in VoyagecontrolAuthentication (#9079) | 2025-02-05 11:49:42 -0500  |  1 file changed, 12 insertions(+), 1 deletion(-)
 f142783d481ccea293c3721773a036475bf3b2bc | fix: handle NoneType in days_until_lfd comparison (#9077) | 2025-02-05 11:04:54 -0500  |  1 file changed, 5 insertions(+), 2 deletions(-)
 6388a3ab179febc730e1b87311dc66b33f019b68 | chore(deps): bump vitest to 2.1.9 to fix CSWSH RCE vulnerability (#3786) | 2025-02-05 10:14:34 -0500  |  2 files changed, 108 insertions(+), 91 deletions(-)
