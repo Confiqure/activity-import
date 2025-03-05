@@ -1,3 +1,4 @@
+820ff233d43fa1ae70600c02cae3afb55d61ed96 | fix: use port of loading departure as our departed event SAI-3604 (#9307) | 2025-03-05 16:41:08 -0500  |  2 files changed, 55 insertions(+), 2 deletions(-)
 9016a86831e6fa61472983b031cb7c5c359d6946 | fix: use port of loading departure as our departed event SAI-3604 (#9307) | 2025-03-05 16:41:08 -0500  |  2 files changed, 55 insertions(+), 2 deletions(-)
 2e1e2e67fecdf6724524b0d6795f698ca111af3b | fix: prevent NoneType errors in HubSpot resync, laden event parsing, and smart demurrage (#9301) | 2025-03-05 14:37:43 -0500  |  3 files changed, 4 insertions(+), 4 deletions(-)
 d371d0317a75cee71106959410c44bec8d5d52f3 | fix: prevent NoneType errors in HubSpot resync, laden event parsing, and smart demurrage (#9301) | 2025-03-05 14:37:43 -0500  |  3 files changed, 4 insertions(+), 4 deletions(-)
