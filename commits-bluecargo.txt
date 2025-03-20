@@ -1,3 +1,4 @@
+3a9bc551ab75a4a93617f61c6a9d2dc26e468402 | feat(de): generate synthetic rail arrival events from unloaded events SAI-3633 (#9468) | 2025-03-20 11:26:33 -0400  |  3 files changed, 142 insertions(+), 3 deletions(-)
 5c12f41071e5ab8b28ab73c99315f019d50ef4e4 | hotfix: enforce 6-hour max refresh for Loaded event after 10 days SAI-3618 (#9376) | 2025-03-12 16:33:56 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 d966867e723243eb54e74ed3acacf30176bd5045 | feat: enforce 6-hour max refresh for Loaded event after 10 days SAI-3618 (#9375) | 2025-03-12 16:23:55 -0400  |  1 file changed, 2 insertions(+), 1 deletion(-)
 923ec550190cfaaa1d319a699c0aa1ce01b62fed | hotfix: invoice issue date validation + airflow trigger bug (#9370) | 2025-03-12 14:40:42 -0400  |  7 files changed, 189 insertions(+), 16 deletions(-)
