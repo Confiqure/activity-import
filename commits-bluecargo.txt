@@ -1,3 +1,4 @@
+2b6ace8f67c7af3721fb0d3aabcecb5c1583542e | chore: upgrade gunicorn to 23.0.0 to fix HTTP request smuggling vulnerability (#9509) | 2025-03-24 12:23:38 -0400  |  2 files changed, 127 insertions(+), 127 deletions(-)
 0fdb3e4e6163e5844df21c00b58defe40c1c5e03 | hotfix: synthetic rail arrival + vessel departed events to improve tracking (#9487) | 2025-03-20 12:32:58 -0400  |  5 files changed, 490 insertions(+), 29 deletions(-)
 d4ff47349319f2332fa7c3ceeac620aa556bd80d | feat(egl): add synthetic departed event for POL loaded containers SAI-3657 (#9471) | 2025-03-20 11:55:24 -0400  |  2 files changed, 348 insertions(+), 26 deletions(-)
 3a9bc551ab75a4a93617f61c6a9d2dc26e468402 | feat(de): generate synthetic rail arrival events from unloaded events SAI-3633 (#9468) | 2025-03-20 11:26:33 -0400  |  3 files changed, 142 insertions(+), 3 deletions(-)
