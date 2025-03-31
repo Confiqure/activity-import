@@ -1,3 +1,4 @@
+38233483cd054a91b0078494b5a979200948bdf8 | feat: EDI 310 Onboarding / Cargosmart <> iFit SAI-3818 (#9586) | 2025-03-31 12:52:49 -0400  |  3 files changed, 72 insertions(+), 2 deletions(-)
 45bf851e8439a5a18c3493b09832d8a2f6d5cbdd | docs: improve README with replication workflows and dbt best practices SAI-3684 (#9524) | 2025-03-25 12:39:43 -0400  |  1 file changed, 268 insertions(+), 129 deletions(-)
 2b6ace8f67c7af3721fb0d3aabcecb5c1583542e | chore: upgrade gunicorn to 23.0.0 to fix HTTP request smuggling vulnerability (#9509) | 2025-03-24 12:23:38 -0400  |  2 files changed, 127 insertions(+), 127 deletions(-)
 0fdb3e4e6163e5844df21c00b58defe40c1c5e03 | hotfix: synthetic rail arrival + vessel departed events to improve tracking (#9487) | 2025-03-20 12:32:58 -0400  |  5 files changed, 490 insertions(+), 29 deletions(-)
