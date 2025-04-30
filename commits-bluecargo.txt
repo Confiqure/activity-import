@@ -1,3 +1,4 @@
+54ff2d3644ddeb7c67bf0504e6dcfe66508c491a | fix(dbt): rename audit_status to system_audit_result in mart models SAI-3962 (#9911) | 2025-04-30 18:23:25 -0400  |  3 files changed, 47 insertions(+), 5 deletions(-)
 fda37ad2ae1d4801aa818ffbaf52178e903b3376 | ci: skip Django tests for only dbt or docs changes (#9886) | 2025-04-29 12:02:03 -0400  |  1 file changed, 24 insertions(+)
 7ea8a4be3b9ba426c6edf3807d964b70fdcb5008 | hotfix(dbt): revert column rename (#9868) | 2025-04-28 16:14:19 -0400  |  3 files changed, 6 insertions(+), 6 deletions(-)
 f06b809ea0072683b3468ac9510bdbc226528806 | fix(dbt): revert column rename (#9866) | 2025-04-28 15:57:55 -0400  |  3 files changed, 6 insertions(+), 6 deletions(-)
