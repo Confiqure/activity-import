@@ -1,3 +1,4 @@
+342a31b6bc41a4d9159ffac3f2dc7008210211fa | Merge pull request #3456 from bluecargo/staging-merge-b799b7b5-from-master | 2025-05-14 10:42:48 -0400
 47aeccc275e1f0d3ab8d159d778e8e83cb535f62 | Merge pull request #3453 from bluecargo/staging-merge-b4ffd3fc-from-master | 2025-05-12 12:28:13 -0400
 9cfd50068877cd35ca0aacf535c68259964d852b | feat: add management command to pop last audit status from invoices (#10011) | 2025-05-12 11:35:46 -0400  |  1 file changed, 103 insertions(+)
 866d60f0d4be135b2676f04825cd4e8dcbb8993d | docs: add Model Context Protocol setup guide (#9939) | 2025-05-08 21:33:03 -0400  |  1 file changed, 93 insertions(+)
