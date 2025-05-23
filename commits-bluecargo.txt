@@ -1,3 +1,4 @@
+ee7ea2e4be3008657df6afcf5dc3ff9a0c7ccc55 | fix(dbt): revert total_sent_for_payment (#10143) | 2025-05-23 14:52:20 -0400  |  10 files changed, 28 insertions(+), 32 deletions(-)
 be9a646697a03e86c7bc04f5fc0bff30edf6847f | feat(dbt): standardize more model field names SAI-3931 (#10130) | 2025-05-23 11:44:24 -0400  |  8 files changed, 172 insertions(+), 94 deletions(-)
 32dfd65e58e06d8b6593876ae217c2b1adf27cb6 | Merge pull request #3488 from bluecargo/staging-merge-f0df9223-from-master | 2025-05-23 10:17:00 -0400
 1c14393f2b997061d1c0756157b238f0758a2cb0 | chore(deps): upgrade setuptools to >=78.1.1 to fix CVE-2025-47273 (#10134) | 2025-05-22 19:07:04 -0400  |  2 files changed, 271 insertions(+), 260 deletions(-)
