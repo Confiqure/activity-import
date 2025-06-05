@@ -1,3 +1,4 @@
+03d0e0c4e4d3677f0c310756ffb9c2a43d5f17bf | fix(dbt): snowflake woes (#10243) | 2025-06-05 11:44:22 -0400  |  1 file changed, 2 insertions(+), 2 deletions(-)
 f74d18e48c1ce545d3136eeb813b7aec50d873f5 | feat(dbt): add circular loop detection for line item revision chains (#10239) | 2025-06-05 11:37:54 -0400  |  5 files changed, 783 insertions(+), 37 deletions(-)
 4c66778e96d6bad4a6ba45eb2e52eb911545f3e3 | feat(dbt): use payment approval sent_for_payment_at field (#10233) | 2025-06-05 09:30:06 -0400  |  9 files changed, 60 insertions(+), 62 deletions(-)
 ccfd63b676888758049315562312aa8d24015320 | chore: patch tar-fs to >=3.0.9 to address CVE-2025-48387 (#3504) | 2025-06-04 12:35:21 -0400  |  2 files changed, 40 insertions(+), 92 deletions(-)
