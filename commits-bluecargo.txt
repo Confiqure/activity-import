@@ -1,3 +1,4 @@
+4c66778e96d6bad4a6ba45eb2e52eb911545f3e3 | feat(dbt): use payment approval sent_for_payment_at field (#10233) | 2025-06-05 09:30:06 -0400  |  9 files changed, 60 insertions(+), 62 deletions(-)
 ccfd63b676888758049315562312aa8d24015320 | chore: patch tar-fs to >=3.0.9 to address CVE-2025-48387 (#3504) | 2025-06-04 12:35:21 -0400  |  2 files changed, 40 insertions(+), 92 deletions(-)
 a23b73899bcbfe078c8c57aefc68b04925baf590 | Merge pull request #3492 from bluecargo/staging-merge-0809c445-from-master | 2025-05-29 12:03:58 -0400
 8661798801dff70164a9fed523bab47c33dc177e | feat(dbt): add waived amount calc reason code + update tests (#10157) | 2025-05-27 13:46:02 -0400  |  3 files changed, 43 insertions(+), 28 deletions(-)
