@@ -1,3 +1,4 @@
+06f5db6ee276b32dabaf7a9eb218d516fc77a9af | feat(dbt): iron out remaining sent for payment issues (#10257) | 2025-06-06 10:33:08 -0400  |  7 files changed, 131 insertions(+), 47 deletions(-)
 11ee621a06823f5c1c8cadc4e10371ea9f49e2c3 | hotfix(dbt): payment approval sent_for_payment_at field + circular loop detection/prevention (#10245) | 2025-06-05 14:26:31 -0400  |  21 files changed, 883 insertions(+), 139 deletions(-)
 70f6bcbcca273f31dcf0a8510b4691949ddbe9ed | chore(dbt): turn on sqlfluff rules to help keep diffs clean (#10249) | 2025-06-05 13:05:10 -0400  |  9 files changed, 43 insertions(+), 43 deletions(-)
 95592996d0de0cd80067f14c6a49f7f141a6ab22 | fix(dbt): column order mismatch (#10246) | 2025-06-05 12:28:19 -0400  |  1 file changed, 5 insertions(+), 5 deletions(-)
