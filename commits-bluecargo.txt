@@ -1,3 +1,4 @@
+50f700e1bdc65d78db503d645e22681f61799b5a | fix(dbt): ignore direction:receivable invoices in payables analytics (#10285) | 2025-06-09 14:10:38 -0400  |  3 files changed, 16 insertions(+), 6 deletions(-)
 d01ad0a50d4f20cc10d4bc2b714b876e9f97ae13 | fix(dbt): line item sent for payment amount (#10282) | 2025-06-09 12:41:12 -0400  |  2 files changed, 14 insertions(+), 18 deletions(-)
 bbd639d4c42227d2743ab31859142de0961c9ad4 | fix(dbt): optimize for faster runtime (#10283) | 2025-06-09 11:42:44 -0400  |  3 files changed, 31 insertions(+), 31 deletions(-)
 0bd6e28547073fa27b0c5c221559b209b3375f0c | Merge pull request #3507 from bluecargo/staging-merge-5cc93183-from-master | 2025-06-09 10:49:05 -0400
