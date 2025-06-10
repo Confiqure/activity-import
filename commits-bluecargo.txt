@@ -1,3 +1,4 @@
+c4291dbdc0b89da38de5499377b941d72b4f4a9f | fix: squash vendor_soa_reconciliation testing bugs (#10303) | 2025-06-10 17:26:01 -0400  |  3 files changed, 87 insertions(+), 16 deletions(-)
 2803ec466d61c61c339f2aa77202a4a4e199f930 | feat(dbt): add vendor soa reconciliation models + tests (#10301) | 2025-06-10 13:53:15 -0400  |  7 files changed, 432 insertions(+), 5 deletions(-)
 412c0a5b0b8cfe7639153e0fd57a0d7da6964c4f | feat: add new vendor soa reconciliation service (#10173) | 2025-06-10 11:45:47 -0400  |  19 files changed, 1836 insertions(+), 25 deletions(-)
 0aaf8503620a9be379942774206984ef58a82f63 | test(dbt): add column existence tests for accruals_accrual model (#10297) | 2025-06-10 09:14:05 -0400  |  1 file changed, 41 insertions(+)
