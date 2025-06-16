@@ -1,3 +1,4 @@
+58cfa88412e5ef356760fbd1532995de9ba86f24 | feat(dbt): optimize audit_line_items + audit_invoices (#10368) | 2025-06-16 12:42:05 -0400  |  4 files changed, 138 insertions(+), 66 deletions(-)
 b941fcd3c8bd43ef80edc80c9a6f78e34abec520 | fix(dbt): include invoice aggregation fields (#10359) | 2025-06-13 17:09:05 -0400  |  5 files changed, 50 insertions(+), 23 deletions(-)
 3f670455c653907c60586d2abd627d1a650764fe | fix: vendor soa reconciliation adjustments (#10337) | 2025-06-12 13:51:57 -0400  |  4 files changed, 24 insertions(+), 26 deletions(-)
 2c804f77f876a18e08de6e24cd9cbc114f9a1290 | hotfix: feat: vendor soa reconciliation enhancements (#10323) (#10329) | 2025-06-11 17:22:10 -0400  |  7 files changed, 219 insertions(+), 78 deletions(-)
