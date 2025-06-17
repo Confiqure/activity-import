@@ -1,3 +1,4 @@
+3e452b1efa7b4336d52729ea0fcb9b55c0776889 | feat: vendor soa reconciliation dashboard improvements SAI-4273 SAI-4274 (#10391) | 2025-06-17 16:34:11 -0400  |  10 files changed, 187 insertions(+), 4 deletions(-)
 cd35ca2108dcd2656bc0f1ae81434638eeb3634d | Merge pull request #4009 from bluecargo/staging-merge-e8dc83eb-from-master | 2025-06-16 20:43:59 -0400
 58cfa88412e5ef356760fbd1532995de9ba86f24 | feat(dbt): optimize audit_line_items + audit_invoices (#10368) | 2025-06-16 12:42:05 -0400  |  4 files changed, 138 insertions(+), 66 deletions(-)
 b941fcd3c8bd43ef80edc80c9a6f78e34abec520 | fix(dbt): include invoice aggregation fields (#10359) | 2025-06-13 17:09:05 -0400  |  5 files changed, 50 insertions(+), 23 deletions(-)
