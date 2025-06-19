@@ -1,3 +1,4 @@
+ffcd5d4f3c4ae73db5ae5e38debb41d6ee6b666d | Merge pull request #10426 from bluecargo/staging-merge-2150b0695-from-master | 2025-06-19 15:03:05 -0400
 2150b0695b4d9399df6bdf0bc0372c4b92c29ffe | hotfix(soa): add new invoice amount and unpaid amount fields SAI-4317 SAI-4318 (#10425) | 2025-06-19 14:55:26 -0400  |  11 files changed, 595 insertions(+), 185 deletions(-)
 2a67d6836fed486552480de3e4868ff048706158 | feat(soa): add new invoice amount and unpaid amount fields SAI-4317 SAI-4318 (#10422) | 2025-06-19 14:53:43 -0400  |  11 files changed, 595 insertions(+), 185 deletions(-)
 53bc753ed90967571a9387fc3096bc1befe78ee2 | hotfix: add remap unmatched records task (#10419) | 2025-06-19 11:58:29 -0400  |  6 files changed, 301 insertions(+), 17 deletions(-)
