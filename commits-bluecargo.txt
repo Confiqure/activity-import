@@ -1,3 +1,4 @@
+8a6ce127e40f68f1e7b348852cc9426aaac5836c | docs: add system diagram for data architecture (#10429) | 2025-06-26 13:24:10 -0400  |  1 file changed, 80 insertions(+), 37 deletions(-)
 037c685a272f061d06fcb7a8c2949e9f01e3a931 | hotfix(soa): use ingestion file for spreadsheet parsing (#10527) | 2025-06-26 10:42:13 -0400  |  3 files changed, 40 insertions(+), 33 deletions(-)
 dc02fe5f17b296f2cd5fc0cb4e473db07fe7ac0e | fix(soa): use ingestion file for spreadsheet parsing (#10525) | 2025-06-26 10:22:34 -0400  |  3 files changed, 40 insertions(+), 33 deletions(-)
 a9fe9ef17af821907d0591afc7325850e533a508 | Merge pull request #3539 from bluecargo/staging-merge-c3f163c4-from-master | 2025-06-24 14:31:19 -0400
