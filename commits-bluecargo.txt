@@ -1,3 +1,4 @@
+dc02fe5f17b296f2cd5fc0cb4e473db07fe7ac0e | fix(soa): use ingestion file for spreadsheet parsing (#10525) | 2025-06-26 10:22:34 -0400  |  3 files changed, 40 insertions(+), 33 deletions(-)
 a9fe9ef17af821907d0591afc7325850e533a508 | Merge pull request #3539 from bluecargo/staging-merge-c3f163c4-from-master | 2025-06-24 14:31:19 -0400
 5db5bfcab4fa019469bd95106d04ff8385d74d7b | perf(dbt): optimize disputable moments query to reduce table scan (#10376) | 2025-06-24 14:26:29 -0400  |  3 files changed, 87 insertions(+), 21 deletions(-)
 8ae91d6d7ce73277ece7c67d15a05edfeaf5c8a2 | feat(soa): store processing error tracebacks (#10444) | 2025-06-20 12:40:22 -0400  |  5 files changed, 51 insertions(+), 11 deletions(-)
