@@ -1,3 +1,4 @@
+914c00d17e577f126c29ac8a711480877197dca3 | fix: error when opening invoices with no shipments (#4021) | 2025-07-01 17:11:00 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 aff0fe3edd464a2c0c3ac85e4731d95629cdc3ab | hotfix(soa): use excel splitter architecture to handle complex spreadsheets (#10564) | 2025-06-30 14:42:35 -0400  |  1 file changed, 222 insertions(+), 40 deletions(-)
 e191d99627897e6549d4ead2e9df6663f0373e99 | fix(soa): use excel splitter architecture to handle complex spreadsheets (#10559) | 2025-06-30 14:33:28 -0400  |  1 file changed, 222 insertions(+), 40 deletions(-)
 2bbe11b00f81efc6646b4df9b3b65986e0deec1f | hotfix(soa): update task to refresh all current records + fix historical handling (#10537) | 2025-06-27 12:08:31 -0400  |  9 files changed, 280 insertions(+), 90 deletions(-)
