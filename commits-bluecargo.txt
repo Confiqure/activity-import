@@ -1,3 +1,4 @@
+383cbbeb8bfee783b0c32ad03a050cd484faa407 | Automated Merge of Master into Staging (#10612) | 2025-07-03 11:32:05 -0400
 f1c15288aaf383f06c42849866863faa4cb4c9a7 | hotfix: finish soa service relationship refactor (#10611) | 2025-07-03 10:15:09 -0400  |  4 files changed, 87 insertions(+), 46 deletions(-)
 abc2ca32ca41bfe74d63e0f2456daf8d0ec83907 | fix: finish soa service relationship refactor (#10607) | 2025-07-03 09:47:17 -0400  |  4 files changed, 87 insertions(+), 46 deletions(-)
 b066fefeba58ffe1e7584790a5bf34e8b0ddca97 | hotfix: error when opening invoices with no shipments (#4022) | 2025-07-01 17:14:37 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
