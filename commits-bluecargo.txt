@@ -1,3 +1,4 @@
+10f949e22ab163cd7cbc771dd63f0ac29ee3edf2 | feat(dbt): add SOA vendor information to file history model SAI-4357 (#10613) | 2025-07-07 12:24:27 -0400  |  3 files changed, 7 insertions(+), 1 deletion(-)
 383cbbeb8bfee783b0c32ad03a050cd484faa407 | Automated Merge of Master into Staging (#10612) | 2025-07-03 11:32:05 -0400
 f1c15288aaf383f06c42849866863faa4cb4c9a7 | hotfix: finish soa service relationship refactor (#10611) | 2025-07-03 10:15:09 -0400  |  4 files changed, 87 insertions(+), 46 deletions(-)
 abc2ca32ca41bfe74d63e0f2456daf8d0ec83907 | fix: finish soa service relationship refactor (#10607) | 2025-07-03 09:47:17 -0400  |  4 files changed, 87 insertions(+), 46 deletions(-)
