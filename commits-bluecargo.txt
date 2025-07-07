@@ -1,3 +1,4 @@
+16695c45b9c48793e2679a3093c2310a1ea192f3 | feat(dbt): add service relationships models (#10617) | 2025-07-07 15:42:57 -0400  |  4 files changed, 289 insertions(+), 7 deletions(-)
 ffdc7a57b85c22f55bedc3db0bca8c57820d011c | ci: improve ci/cd pipeline for dbt deployments and tagged releases (#10614) | 2025-07-07 12:35:40 -0400  |  1 file changed, 190 insertions(+), 51 deletions(-)
 10f949e22ab163cd7cbc771dd63f0ac29ee3edf2 | feat(dbt): add SOA vendor information to file history model SAI-4357 (#10613) | 2025-07-07 12:24:27 -0400  |  3 files changed, 7 insertions(+), 1 deletion(-)
 383cbbeb8bfee783b0c32ad03a050cd484faa407 | Automated Merge of Master into Staging (#10612) | 2025-07-03 11:32:05 -0400
