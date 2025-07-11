@@ -1,3 +1,4 @@
+c33327b85174b894c5e6c95c24133caec98ad368 | fix(ci): handle merge commits and remove dbt syntax check step (#10707) | 2025-07-11 14:45:19 -0400  |  1 file changed, 15 insertions(+), 13 deletions(-)
 99b3c790f82f2b88e9106ae2140b4fd69c4c4c3b | hotfix: cleanup auditruleresult query + enhance git diff handling for merge branches (#10704) | 2025-07-11 14:20:17 -0400  |  2 files changed, 11 insertions(+), 34 deletions(-)
 c29db83127193efc8ca371959e82ef067aa9f656 | fix(ci): enhance git diff handling for merge branches (#10703) | 2025-07-11 14:17:13 -0400  |  1 file changed, 10 insertions(+), 2 deletions(-)
 201d8e5d0a570570e14c4d6c280777b9269e4d72 | hotfix(dbt): add reference types to invoice + line item audit models SAI-4417 (#10701) | 2025-07-11 14:02:22 -0400  |  15 files changed, 326 insertions(+), 18 deletions(-)
