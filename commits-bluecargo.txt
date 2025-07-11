@@ -1,3 +1,4 @@
+c29db83127193efc8ca371959e82ef067aa9f656 | fix(ci): enhance git diff handling for merge branches (#10703) | 2025-07-11 14:17:13 -0400  |  1 file changed, 10 insertions(+), 2 deletions(-)
 201d8e5d0a570570e14c4d6c280777b9269e4d72 | hotfix(dbt): add reference types to invoice + line item audit models SAI-4417 (#10701) | 2025-07-11 14:02:22 -0400  |  15 files changed, 326 insertions(+), 18 deletions(-)
 71613480e1670efc0683fbb67f63da614e5026a3 | feat(dbt): add reference types to invoice + line item audit models SAI-4417 (#10696) | 2025-07-11 13:51:29 -0400  |  15 files changed, 322 insertions(+), 14 deletions(-)
 9a03a557e0a90066d7a1a9aa2d081da5f678c191 | fix(dbt): sqlfluff cleanup (#10667) | 2025-07-09 11:31:34 -0400  |  6 files changed, 43 insertions(+), 33 deletions(-)
