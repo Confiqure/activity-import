@@ -1,3 +1,4 @@
+2d2b6b6c6a6590d679e20fb0ca1fe7702983444e | feat: add SOA invoice issue date as mappable field SAI-4346 (#10747) | 2025-07-17 13:53:19 -0400  |  7 files changed, 167 insertions(+), 8 deletions(-)
 404354193aea689654e9e1bdbc238333def72c8a | feat(dbt): add custom spreadsheet mapping onboarding analytics (#10676) | 2025-07-16 17:25:54 -0400  |  6 files changed, 331 insertions(+), 4 deletions(-)
 a8e6ea2e75dac1ee3054dd84407226b1fdaf4686 | hotfix(ci): handle merge commits and remove dbt syntax check step (#10708) | 2025-07-11 14:49:06 -0400  |  1 file changed, 15 insertions(+), 13 deletions(-)
 c33327b85174b894c5e6c95c24133caec98ad368 | fix(ci): handle merge commits and remove dbt syntax check step (#10707) | 2025-07-11 14:45:19 -0400  |  1 file changed, 15 insertions(+), 13 deletions(-)
