@@ -1,3 +1,4 @@
+890beb83980d0a5bd29e4bb505f04c0d0e187609 | perf: skip redundant status queries when filters applied (#4052) | 2025-07-18 13:40:07 -0400  |  3 files changed, 111 insertions(+), 25 deletions(-)
 a0f02003ed53ac887dc0fa525c7674e57afbc544 | docs: update dbt readme for clarity (#10767) | 2025-07-18 13:31:57 -0400  |  1 file changed, 15 insertions(+), 18 deletions(-)
 aeaac52b5d3600ec6d8d493a3e447910d8e24e8e | fix(ci): detect_changed_files diff for merge commits (#10757) | 2025-07-17 14:38:04 -0400  |  1 file changed, 8 insertions(+), 13 deletions(-)
 2d2b6b6c6a6590d679e20fb0ca1fe7702983444e | feat: add SOA invoice issue date as mappable field SAI-4346 (#10747) | 2025-07-17 13:53:19 -0400  |  7 files changed, 167 insertions(+), 8 deletions(-)
