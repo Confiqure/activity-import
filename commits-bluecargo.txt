@@ -1,3 +1,4 @@
+b2103bc5d6dc92971a5926375b4dae5da4830eea | fix(soa): document type propagation thru audit parse job + excel splitter (#10694) | 2025-07-21 15:27:23 -0400  |  6 files changed, 208 insertions(+), 170 deletions(-)
 71c016e411e36a45b4afb309603c3437bb0a2f31 | Merge pull request #3570 from bluecargo/staging-merge-3eabe265-from-master | 2025-07-18 15:48:49 -0400
 890beb83980d0a5bd29e4bb505f04c0d0e187609 | perf: skip redundant status queries when filters applied (#4052) | 2025-07-18 13:40:07 -0400  |  3 files changed, 111 insertions(+), 25 deletions(-)
 a0f02003ed53ac887dc0fa525c7674e57afbc544 | docs: update dbt readme for clarity (#10767) | 2025-07-18 13:31:57 -0400  |  1 file changed, 15 insertions(+), 18 deletions(-)
