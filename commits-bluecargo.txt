@@ -1,3 +1,4 @@
+8d1612cd22dcb48ce899eb30dab9276f7d1226b7 | hotfix(soa): add slack alerts for processing issues + use audit parse job flow (#10777) | 2025-07-22 11:07:00 -0400  |  18 files changed, 484 insertions(+), 277 deletions(-)
 3ba21bd88a0581e008f7fcebc86492c4f7c325a4 | feat: add slack alerts for soa file processing issues SAI-4095 (#10736) | 2025-07-22 10:38:25 -0400  |  13 files changed, 276 insertions(+), 107 deletions(-)
 b2103bc5d6dc92971a5926375b4dae5da4830eea | fix(soa): document type propagation thru audit parse job + excel splitter (#10694) | 2025-07-21 15:27:23 -0400  |  6 files changed, 208 insertions(+), 170 deletions(-)
 71c016e411e36a45b4afb309603c3437bb0a2f31 | Merge pull request #3570 from bluecargo/staging-merge-3eabe265-from-master | 2025-07-18 15:48:49 -0400
