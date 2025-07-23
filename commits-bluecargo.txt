@@ -1,3 +1,4 @@
+648ebb8022f71ae8a86fadd2b3243e184c7075ad | fix(ci): ensure detect_changed_files works with shallow clones (#10799) | 2025-07-23 15:07:16 -0400  |  1 file changed, 5 insertions(+), 1 deletion(-)
 dbe7efb2efb72f31bb83895cde051823b17ca684 | hotfix(soa): misc improvements + admin timeout (#10789) | 2025-07-23 10:59:56 -0400  |  12 files changed, 156 insertions(+), 83 deletions(-)
 bd665a578add7aa6facdf21600c5619579f9c43f | fix(soa): misc improvements + admin timeout (#10782) | 2025-07-23 10:58:01 -0400  |  12 files changed, 156 insertions(+), 83 deletions(-)
 8d1612cd22dcb48ce899eb30dab9276f7d1226b7 | hotfix(soa): add slack alerts for processing issues + use audit parse job flow (#10777) | 2025-07-22 11:07:00 -0400  |  18 files changed, 484 insertions(+), 277 deletions(-)
