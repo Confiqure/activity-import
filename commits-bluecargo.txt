@@ -1,3 +1,4 @@
+3641286f661b1eaa259683975f0bfe1b4ab3b246 | feat: automatic verification for vendor SOA files SAI-4542 (#10815) | 2025-07-24 10:55:30 -0400  |  5 files changed, 207 insertions(+), 38 deletions(-)
 9d8b7a2ffedd9f2edcad20762eca20ee0a460f17 | hotfix(ci): file detection with improved history handling (#10803) | 2025-07-23 16:00:14 -0400  |  1 file changed, 13 insertions(+), 7 deletions(-)
 d7ef437fa5f6dd45e90b5e8bd83887245f1cff05 | fix(ci): file detection with improved history handling (#10802) | 2025-07-23 15:56:18 -0400  |  1 file changed, 13 insertions(+), 7 deletions(-)
 071ca31ac083bf5ecfa70338d4f43ed883bff7f2 | hotfix(ci): ensure detect_changed_files works with shallow clones (#10800) | 2025-07-23 15:10:03 -0400  |  1 file changed, 5 insertions(+), 1 deletion(-)
