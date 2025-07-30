@@ -1,3 +1,4 @@
+8a0f0b5cdd0c622bbe322e697972253c31c66116 | feat(accruals): add forecasted/invoiced duration hours + use container milestones (#10880) | 2025-07-30 11:45:17 -0400  |  5 files changed, 118 insertions(+), 4 deletions(-)
 d6241690b669256840c3edbba4d7af9aaae8aea6 | feat(soa): handle excel integer format with parse_datetime + admin tweaks (#10839) | 2025-07-25 12:34:04 -0400  |  2 files changed, 49 insertions(+), 24 deletions(-)
 174ae1d796cd9b55172a1973989001ac130ac7b9 | hotfix: automatic verification for vendor SOA files SAI-4542 (#10816) | 2025-07-24 11:10:54 -0400  |  5 files changed, 207 insertions(+), 38 deletions(-)
 3641286f661b1eaa259683975f0bfe1b4ab3b246 | feat: automatic verification for vendor SOA files SAI-4542 (#10815) | 2025-07-24 10:55:30 -0400  |  5 files changed, 207 insertions(+), 38 deletions(-)
