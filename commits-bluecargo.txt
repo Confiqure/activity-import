@@ -1,3 +1,4 @@
+bc7fb4e25c29e0cf0057a5b8c7f4d479264403b5 | fix(soa): prevent duplicate rows in onboarding report SAI-4635 (#10881) | 2025-07-31 12:06:28 -0400  |  2 files changed, 3 insertions(+)
 0454997c71122fcb9d8e909c61c0743b8e7f4e5e | fix(soa): resolve pandas string accessor error in excel processing SAI-4642 (#10891) | 2025-07-31 09:44:34 -0400  |  2 files changed, 84 insertions(+), 29 deletions(-)
 8a0f0b5cdd0c622bbe322e697972253c31c66116 | feat(accruals): add forecasted/invoiced duration hours + use container milestones (#10880) | 2025-07-30 11:45:17 -0400  |  5 files changed, 118 insertions(+), 4 deletions(-)
 d6241690b669256840c3edbba4d7af9aaae8aea6 | feat(soa): handle excel integer format with parse_datetime + admin tweaks (#10839) | 2025-07-25 12:34:04 -0400  |  2 files changed, 49 insertions(+), 24 deletions(-)
