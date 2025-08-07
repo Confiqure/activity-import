@@ -1,3 +1,4 @@
+839c948f08345822e574c9a7be060b857743279b | hotfix(dbt): add new fields to custom user base table + update time_to_reject (#10989) | 2025-08-07 15:37:27 -0400  |  2 files changed, 10 insertions(+), 4 deletions(-)
 966e005cb85c1075291d3ca6cce919385839ad8b | feat(dbt): add new fields to custom user base table (#10988) | 2025-08-07 15:33:20 -0400  |  1 file changed, 7 insertions(+), 1 deletion(-)
 3f0a8ee5ec1f3153454c5e3303809ad7ecc8967d | fix(dbt): update `time_to_reject` field to use new audit status timestamps (#10969) | 2025-08-07 15:05:24 -0400  |  1 file changed, 3 insertions(+), 3 deletions(-)
 72475ba8aee9b7acf92fe71ce519381813b21df3 | Automated Merge of Master into Staging (#10983) | 2025-08-07 13:04:51 -0400
