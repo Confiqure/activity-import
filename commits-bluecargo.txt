@@ -1,3 +1,4 @@
+8a3e564b7bd502488ffb45a26dc49877788a793d | fix(dbt): misc accruals model improvements SAI-4703 (#10992) | 2025-08-07 16:03:35 -0400  |  1 file changed, 11 insertions(+), 11 deletions(-)
 1e1e0a33cf654f50a8946dd8f90edbbb0828632d | Automated Merge of Master into Staging (#10990) | 2025-08-07 15:40:03 -0400
 839c948f08345822e574c9a7be060b857743279b | hotfix(dbt): add new fields to custom user base table + update time_to_reject (#10989) | 2025-08-07 15:37:27 -0400  |  2 files changed, 10 insertions(+), 4 deletions(-)
 966e005cb85c1075291d3ca6cce919385839ad8b | feat(dbt): add new fields to custom user base table (#10988) | 2025-08-07 15:33:20 -0400  |  1 file changed, 7 insertions(+), 1 deletion(-)
