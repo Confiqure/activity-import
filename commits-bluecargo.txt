@@ -1,3 +1,4 @@
+72475ba8aee9b7acf92fe71ce519381813b21df3 | Automated Merge of Master into Staging (#10983) | 2025-08-07 13:04:51 -0400
 9c409ad33187b5fb400c7f17bb796472ba1969b2 | hotfix(dbt): add base table for invoice_manager_invoiceactivityevent (#10981) | 2025-08-07 12:54:31 -0400  |  2 files changed, 19 insertions(+), 3 deletions(-)
 3eafe4c1bda513841b4aaa25030ac368feca27f7 | feat(dbt): add base table for invoice_manager_invoiceactivityevent SAI-4709 (#10976) | 2025-08-07 10:39:33 -0400  |  2 files changed, 18 insertions(+)
 bff5681a0dbce2104022fc6955fbce5b0e26e52d | chore(dbt): align source config with the set of tables replicated in snowflake (#10965) | 2025-08-06 11:18:31 -0400  |  1 file changed, 1 insertion(+), 3 deletions(-)
