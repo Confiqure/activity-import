@@ -1,3 +1,4 @@
+e884c1ec98482d86b54cfe885278ee1691c2437b | hotfix(dbt): aggregate line item rates for days_charged + accruals model improvements (#10993) | 2025-08-07 16:11:26 -0400  |  5 files changed, 58 insertions(+), 11 deletions(-)
 8a3e564b7bd502488ffb45a26dc49877788a793d | fix(dbt): misc accruals model improvements SAI-4703 (#10992) | 2025-08-07 16:03:35 -0400  |  1 file changed, 11 insertions(+), 11 deletions(-)
 1e1e0a33cf654f50a8946dd8f90edbbb0828632d | Automated Merge of Master into Staging (#10990) | 2025-08-07 15:40:03 -0400
 839c948f08345822e574c9a7be060b857743279b | hotfix(dbt): add new fields to custom user base table + update time_to_reject (#10989) | 2025-08-07 15:37:27 -0400  |  2 files changed, 10 insertions(+), 4 deletions(-)
