@@ -1,3 +1,4 @@
+966e005cb85c1075291d3ca6cce919385839ad8b | feat(dbt): add new fields to custom user base table (#10988) | 2025-08-07 15:33:20 -0400  |  1 file changed, 7 insertions(+), 1 deletion(-)
 3f0a8ee5ec1f3153454c5e3303809ad7ecc8967d | fix(dbt): update `time_to_reject` field to use new audit status timestamps (#10969) | 2025-08-07 15:05:24 -0400  |  1 file changed, 3 insertions(+), 3 deletions(-)
 72475ba8aee9b7acf92fe71ce519381813b21df3 | Automated Merge of Master into Staging (#10983) | 2025-08-07 13:04:51 -0400
 9c409ad33187b5fb400c7f17bb796472ba1969b2 | hotfix(dbt): add base table for invoice_manager_invoiceactivityevent (#10981) | 2025-08-07 12:54:31 -0400  |  2 files changed, 19 insertions(+), 3 deletions(-)
