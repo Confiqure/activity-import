@@ -1,3 +1,4 @@
+9bee484d1a307bb584cb9302cd6325f7113241e2 | feat: scope freight allocation cleanup by ingestion file (#11295) | 2025-09-12 15:13:51 -0400  |  7 files changed, 298 insertions(+), 22 deletions(-)
 69e6779d8c72879e6d71e55d61eacdfcf4c24ade | chore: replace deprecated MUI spacing usage and fix local Drift errors (#4120) | 2025-09-10 10:40:57 -0400  |  21 files changed, 110 insertions(+), 109 deletions(-)
 627bc843b947e1de1cd797a6302addfa2d0bc2ec | Merge pull request #3673 from bluecargo/staging-merge-5f5392b0-from-master | 2025-09-09 15:36:10 -0400
 5769c67e0495279f8f5b427ce737f2778c06e35b | refactor(dbt): break apart mart model tests (#11259) | 2025-09-09 15:08:49 -0400  |  27 files changed, 2263 insertions(+), 2210 deletions(-)
