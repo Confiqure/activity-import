@@ -1,3 +1,4 @@
+0770501529d33fe1b6a4cc6a1ede8224663441d7 | perf(soa): reduce reconciliation queries via batched exact lookups + single-query fuzzy search (#11288) | 2025-09-15 11:56:05 -0400  |  3 files changed, 201 insertions(+), 59 deletions(-)
 8e2e08c9adcc054ff3e43a0ec5c73956cb1ae066 | fix(soa): excel file parsing + admin improvements (#11281) | 2025-09-15 11:55:09 -0400  |  5 files changed, 106 insertions(+), 22 deletions(-)
 9bee484d1a307bb584cb9302cd6325f7113241e2 | feat: scope freight allocation cleanup by ingestion file (#11295) | 2025-09-12 15:13:51 -0400  |  7 files changed, 298 insertions(+), 22 deletions(-)
 69e6779d8c72879e6d71e55d61eacdfcf4c24ade | chore: replace deprecated MUI spacing usage and fix local Drift errors (#4120) | 2025-09-10 10:40:57 -0400  |  21 files changed, 110 insertions(+), 109 deletions(-)
