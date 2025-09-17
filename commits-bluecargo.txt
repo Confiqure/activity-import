@@ -1,3 +1,4 @@
+29d14a94f6f3ac4ccd967ed63601a166a4fcba65 | feat: add c+d cost allocation service + results SAI-5043 SAI-5044 SAI-5047 (#11332) | 2025-09-17 15:33:56 -0400  |  10 files changed, 1287 insertions(+), 35 deletions(-)
 76e70cfba4c728ba6f7b27b40d7e965473756ff8 | feat(soa): normalize vendor invoice numbers and skip invalid rows SAI-5077 (#11344) | 2025-09-17 10:54:35 -0400  |  2 files changed, 85 insertions(+), 27 deletions(-)
 0770501529d33fe1b6a4cc6a1ede8224663441d7 | perf(soa): reduce reconciliation queries via batched exact lookups + single-query fuzzy search (#11288) | 2025-09-15 11:56:05 -0400  |  3 files changed, 201 insertions(+), 59 deletions(-)
 8e2e08c9adcc054ff3e43a0ec5c73956cb1ae066 | fix(soa): excel file parsing + admin improvements (#11281) | 2025-09-15 11:55:09 -0400  |  5 files changed, 106 insertions(+), 22 deletions(-)
