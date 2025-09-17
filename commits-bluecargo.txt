@@ -1,3 +1,4 @@
+76e70cfba4c728ba6f7b27b40d7e965473756ff8 | feat(soa): normalize vendor invoice numbers and skip invalid rows SAI-5077 (#11344) | 2025-09-17 10:54:35 -0400  |  2 files changed, 85 insertions(+), 27 deletions(-)
 0770501529d33fe1b6a4cc6a1ede8224663441d7 | perf(soa): reduce reconciliation queries via batched exact lookups + single-query fuzzy search (#11288) | 2025-09-15 11:56:05 -0400  |  3 files changed, 201 insertions(+), 59 deletions(-)
 8e2e08c9adcc054ff3e43a0ec5c73956cb1ae066 | fix(soa): excel file parsing + admin improvements (#11281) | 2025-09-15 11:55:09 -0400  |  5 files changed, 106 insertions(+), 22 deletions(-)
 9bee484d1a307bb584cb9302cd6325f7113241e2 | feat: scope freight allocation cleanup by ingestion file (#11295) | 2025-09-12 15:13:51 -0400  |  7 files changed, 298 insertions(+), 22 deletions(-)
