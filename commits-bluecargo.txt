@@ -1,3 +1,4 @@
+c5a37253587668c8ffa443b743455790a33e5eda | feat(dbt): add C&D cost allocation result base/int/mart models + tests SAI-5048 (#11353) | 2025-09-19 09:30:24 -0400  |  7 files changed, 202 insertions(+), 11 deletions(-)
 29d14a94f6f3ac4ccd967ed63601a166a4fcba65 | feat: add c+d cost allocation service + results SAI-5043 SAI-5044 SAI-5047 (#11332) | 2025-09-17 15:33:56 -0400  |  10 files changed, 1287 insertions(+), 35 deletions(-)
 76e70cfba4c728ba6f7b27b40d7e965473756ff8 | feat(soa): normalize vendor invoice numbers and skip invalid rows SAI-5077 (#11344) | 2025-09-17 10:54:35 -0400  |  2 files changed, 85 insertions(+), 27 deletions(-)
 0770501529d33fe1b6a4cc6a1ede8224663441d7 | perf(soa): reduce reconciliation queries via batched exact lookups + single-query fuzzy search (#11288) | 2025-09-15 11:56:05 -0400  |  3 files changed, 201 insertions(+), 59 deletions(-)
