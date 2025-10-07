@@ -1,3 +1,4 @@
+237ae708265544259f04504e47858818ce905bd2 | refactor(slack): centralize notifications, remove wrappers, simplify threading and tests (#11504) | 2025-10-07 10:15:00 -0400  |  29 files changed, 409 insertions(+), 360 deletions(-)
 c2ee6e596eabb6ca18ac4d6eea8bbe9b5cee4435 | fix(dbt): update models to fix build errors (#11499) | 2025-10-03 10:47:51 -0400  |  4 files changed, 15 insertions(+), 7 deletions(-)
 370b141bc6040879b31690075973125fa5ed449b | chore(dbt): explode tests into separate files for readability (#11448) | 2025-09-30 13:19:48 -0400  |  31 files changed, 530 insertions(+), 514 deletions(-)
 30fe742b051b829f2c240e835b45c3cd89de12b0 | feat: add CD rate sheet ingestion with cross-dataset FRC Acc accrual SAI-5046 (#11402) | 2025-09-25 14:24:25 -0400  |  9 files changed, 804 insertions(+), 12 deletions(-)
