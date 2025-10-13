@@ -1,3 +1,4 @@
+6a13a7b0d9b348a0f9e7386497d9bf8d0ce3efa7 | Merge pull request #3729 from bluecargo/release/2025-10-13 | 2025-10-13 11:23:39 -0400
 21b077e0427022293f162cc28315f0f213529112 | feat(dbt): add invoicer + invoicee fields SAI-4712 (#11446) | 2025-10-07 16:29:52 -0400  |  8 files changed, 81 insertions(+), 1 deletion(-)
 ed26b5d9f851d2542ba8fc3ea4f6891ff6881231 | feat: alert + skip C&D allocation when delivery info or FRC matches are missing SAI-5227 (#11508) | 2025-10-07 10:43:30 -0400  |  2 files changed, 147 insertions(+), 1 deletion(-)
 237ae708265544259f04504e47858818ce905bd2 | refactor(slack): centralize notifications, remove wrappers, simplify threading and tests (#11504) | 2025-10-07 10:15:00 -0400  |  29 files changed, 409 insertions(+), 360 deletions(-)
