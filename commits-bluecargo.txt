@@ -1,3 +1,4 @@
+237904ed5f797b4bede59212c001fd43e80a2fa3 | feat(dbt): enrich C&D cost allocation model with additional fields SAI-5272 (#11587) | 2025-10-15 16:36:13 -0400  |  4 files changed, 44 insertions(+), 25 deletions(-)
 b88141c893c27dd995417da1d46116eb51407e6f | fix(ingestion): correct spreadsheet header auto-detection in parse_file (#11614) | 2025-10-15 13:18:11 -0400  |  3 files changed, 144 insertions(+), 5 deletions(-)
 6a13a7b0d9b348a0f9e7386497d9bf8d0ce3efa7 | Merge pull request #3729 from bluecargo/release/2025-10-13 | 2025-10-13 11:23:39 -0400
 21b077e0427022293f162cc28315f0f213529112 | feat(dbt): add invoicer + invoicee fields SAI-4712 (#11446) | 2025-10-07 16:29:52 -0400  |  8 files changed, 81 insertions(+), 1 deletion(-)
