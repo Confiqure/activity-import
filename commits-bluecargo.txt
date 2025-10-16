@@ -1,3 +1,4 @@
+d2d93e013b6ff4b73eabc1b72e23f2d7c5bf7212 | Automated Merge of Master into Staging (#11633) | 2025-10-16 10:49:59 -0400
 384aa7d9ba0f2105e8a0a2facc68bfdf56697a76 | hotfix: C&D cost allocation with new invoice-scoped flow and reference matching (#11631) | 2025-10-16 10:47:59 -0400  |  11 files changed, 809 insertions(+), 364 deletions(-)
 86f7c320483dda3da14810d422d12bd65a5ed50a | feat: C&D allocation uses invoice-scoped flow with unified reference matching SAI-5185 (#11604) | 2025-10-16 10:08:03 -0400  |  4 files changed, 621 insertions(+), 334 deletions(-)
 237904ed5f797b4bede59212c001fd43e80a2fa3 | feat(dbt): enrich C&D cost allocation model with additional fields SAI-5272 (#11587) | 2025-10-15 16:36:13 -0400  |  4 files changed, 44 insertions(+), 25 deletions(-)
