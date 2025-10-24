@@ -1,3 +1,4 @@
+d1ff4b13c0921d78139e9f42fea32524752dd93b | feat: standardized reset for rerunning tasks inheriting from AbstractJobModel (#11697) | 2025-10-24 12:17:13 -0400  |  13 files changed, 64 insertions(+), 9 deletions(-)
 d50115aeebadd21c130e4b68ee44857d68e61db1 | Merge pull request #3745 from bluecargo/staging-merge-e0417a07-from-master | 2025-10-24 11:12:56 -0400
 9c3ba2f5500534af5d7b196a1b94b1b6006bca4a | test: deflake by explicit record creation + removing local patch override (#11698) | 2025-10-24 11:01:54 -0400  |  2 files changed, 52 insertions(+), 61 deletions(-)
 ef24545d2b1a100a0455688e22ee5c3fce332710 | test: deflake by explicit record creation + removing local patch override (#11698) | 2025-10-24 11:01:54 -0400  |  2 files changed, 52 insertions(+), 61 deletions(-)
