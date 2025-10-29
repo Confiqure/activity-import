@@ -1,3 +1,4 @@
+d0d1a3c05ccb00db0301453042bb38e4c36220cb | feat(ingestion): fail fast on booking confirmation mapping + admin tweaks SAI-5374 (#11699) | 2025-10-29 13:03:41 -0400  |  4 files changed, 137 insertions(+), 1 deletion(-)
 d73f049c644e9467a28bfada24a20424824330c4 | fix: only surface company_scac to avoid confusion with identical company_id (#11702) | 2025-10-29 12:53:28 -0400  |  5 files changed, 12 insertions(+), 15 deletions(-)
 e307d649a8126d8d701274539276c5a9e934b497 | feat: standardized reset for rerunning tasks inheriting from AbstractJobModel (#11697) | 2025-10-24 12:17:13 -0400  |  13 files changed, 64 insertions(+), 9 deletions(-)
 d1ff4b13c0921d78139e9f42fea32524752dd93b | feat: standardized reset for rerunning tasks inheriting from AbstractJobModel (#11697) | 2025-10-24 12:17:13 -0400  |  13 files changed, 64 insertions(+), 9 deletions(-)
