@@ -1,3 +1,4 @@
+59103a4d4be611af8b1805e5d8a2823e9af89b75 | fix: mark migration 0085 non-atomic to avoid Postgres pending trigger events (#11742) | 2025-10-30 20:30:07 -0400  |  1 file changed, 1 insertion(+)
 e04d282a2f1add1d2223652e6fffc0858466974f | fix(dbt): enable all rules in .sqlfluff for consistent linting across envs (#11747) | 2025-10-30 15:40:32 -0400  |  17 files changed, 144 insertions(+), 133 deletions(-)
 f5899ec1e23327656fcbed6e96e990e8783f6917 | fix(dbt): add missing credit memo fields to tests (#11733) | 2025-10-30 15:35:25 -0400  |  6 files changed, 8 insertions(+), 1 deletion(-)
 d0d1a3c05ccb00db0301453042bb38e4c36220cb | feat(ingestion): fail fast on booking confirmation mapping + admin tweaks SAI-5374 (#11699) | 2025-10-29 13:03:41 -0400  |  4 files changed, 137 insertions(+), 1 deletion(-)
