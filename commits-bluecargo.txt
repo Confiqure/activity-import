@@ -1,3 +1,4 @@
+afa0e34dca9dbbebd595a0cfd738edca51adc05c | fix: safely serialize third-party response/payload to json ENG-614 (#11783) | 2025-11-04 13:25:19 -0500  |  4 files changed, 197 insertions(+), 13 deletions(-)
 58bb37e840a680bd590ffb39bfb78c415857190c | Merge pull request #3761 from bluecargo/staging-merge-568abf02-from-master | 2025-11-03 10:36:11 -0500
 59103a4d4be611af8b1805e5d8a2823e9af89b75 | fix: mark migration 0085 non-atomic to avoid Postgres pending trigger events (#11742) | 2025-10-30 20:30:07 -0400  |  1 file changed, 1 insertion(+)
 e04d282a2f1add1d2223652e6fffc0858466974f | fix(dbt): enable all rules in .sqlfluff for consistent linting across envs (#11747) | 2025-10-30 15:40:32 -0400  |  17 files changed, 144 insertions(+), 133 deletions(-)
