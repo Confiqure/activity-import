@@ -1,3 +1,4 @@
+7d2ec641c58338dd49bb1d1ffd785a047bb3cc93 | hotfix: new dbt invoice fields, freight allocation result match type + security patch (#11834) | 2025-11-06 17:33:39 -0500  |  14 files changed, 83 insertions(+), 49 deletions(-)
 8684463f898e83eb3858b16f7428b82d4f5e6d35 | feat(dbt): add freight allocation result match type + admin (#11832) | 2025-11-06 17:30:33 -0500  |  4 files changed, 8 insertions(+), 2 deletions(-)
 634e813acdbe5d37f071ba027c07e174f88bcdeb | feat(dbt): add order, booking, and po numbers to invoice mart (#11830) | 2025-11-06 14:55:15 -0500  |  7 files changed, 67 insertions(+), 41 deletions(-)
 c577c4ea62817cb8065fe320ae4703567f316b9c | chore(deps): bump Django from 5.1.13 to 5.1.14 to patch SQL injection via _connector (#11828) | 2025-11-06 12:47:39 -0500  |  3 files changed, 8 insertions(+), 6 deletions(-)
