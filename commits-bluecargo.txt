@@ -1,3 +1,4 @@
+a29248bd9a160778b96733be2c6c3516de2a348a | feat: store model tracking fields in ThirdPartyResponse ENG-580 (#11804) | 2025-11-12 10:59:35 -0500  |  8 files changed, 220 insertions(+), 22 deletions(-)
 eb3e219fc027c6e8cddb8a61682f0d421b1c0747 | Merge pull request #3770 from bluecargo/staging-merge-cfa462d1-from-master | 2025-11-10 10:47:33 -0500
 7d2ec641c58338dd49bb1d1ffd785a047bb3cc93 | hotfix: new dbt invoice fields, freight allocation result match type + security patch (#11834) | 2025-11-06 17:33:39 -0500  |  14 files changed, 83 insertions(+), 49 deletions(-)
 8684463f898e83eb3858b16f7428b82d4f5e6d35 | feat(dbt): add freight allocation result match type + admin (#11832) | 2025-11-06 17:30:33 -0500  |  4 files changed, 8 insertions(+), 2 deletions(-)
