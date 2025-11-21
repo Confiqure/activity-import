@@ -1,3 +1,4 @@
+f3104eceabe1ee9744d93e7a9125ded3bfa22f0e | feat: improved soa file ingestion logging + error reporting ENG-969 (#11985) | 2025-11-21 12:17:09 -0500  |  2 files changed, 64 insertions(+), 24 deletions(-)
 0441de7bd2639f51839e6f041d85a3f25049d82f | fix: persist RawLocation objects when saving LLM-parsed invoices (#11936) | 2025-11-14 15:52:13 -0500  |  4 files changed, 296 insertions(+), 59 deletions(-)
 0cb4a4cac84861825fab8faa517c85177ebdac6f | hotfix: prevent line item dispute comments propagation + strip invoice number letter suffix (#11929) | 2025-11-14 10:36:31 -0500  |  7 files changed, 148 insertions(+), 61 deletions(-)
 e00a3d4ef09dfb0e3816ee261805f7cc7d41eda5 | fix(soa): strip trailing letter suffixes from invoice numbers during reconciliation ENG-433 (#11927) | 2025-11-14 10:25:03 -0500  |  2 files changed, 30 insertions(+), 1 deletion(-)
