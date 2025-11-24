@@ -1,3 +1,4 @@
+42f27836a1fedb7004d8478066432d1f57afbb38 | fix(tests): deflake invoice hydration, ssl scraping, and shipment route tasks (#12015) | 2025-11-24 16:22:28 -0500  |  5 files changed, 14 insertions(+), 7 deletions(-)
 6eb79c458dcde7d9b80f83f64f5a70065b36e568 | fix: handle missing container type in THT pickup connector (#3783) | 2025-11-24 12:11:00 -0500  |  1 file changed, 9 insertions(+), 2 deletions(-)
 4e5f26ab21024a5a6e5acc58550cae4a65e57432 | fix(dbt): add rules_engine_results to ignore list (#12026) | 2025-11-24 12:10:56 -0500  |  1 file changed, 2 insertions(+), 2 deletions(-)
 0dfc83cd3872727d1e4515562e737b2c182f2c6c | test: fix flakes with invoice record mock override (#11932) | 2025-11-21 14:08:36 -0500  |  11 files changed, 60 insertions(+), 45 deletions(-)
