@@ -1,3 +1,4 @@
+3f60906c9f45bfe862bbce9a832e92ca0e9a883e | fix(tests): flaky pdf parser + idempotency scraping tests (#12094) | 2025-12-02 11:33:52 -0500  |  2 files changed, 7 insertions(+), 3 deletions(-)
 4d6a26de4575e6515e0871bfefda2d4fed2441e5 | feat(cd): improve rate selection + enhance warning auditability ENG-981 (#12016) | 2025-11-25 16:11:34 -0500  |  2 files changed, 139 insertions(+), 33 deletions(-)
 bdafdc773fcd7ee9f97e262a798eb0e4b6285f16 | feat(cd): handle new rate sheet export format with backwards compatibility ENG-897 (#11990) | 2025-11-25 16:11:11 -0500  |  2 files changed, 332 insertions(+), 42 deletions(-)
 42f27836a1fedb7004d8478066432d1f57afbb38 | fix(tests): deflake invoice hydration, ssl scraping, and shipment route tasks (#12015) | 2025-11-24 16:22:28 -0500  |  5 files changed, 14 insertions(+), 7 deletions(-)
