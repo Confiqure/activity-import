@@ -1,3 +1,4 @@
+a80c6d7f02d243d9e5619da71baef7fd6749bc04 | feat(insights): improve C&D allocation to use delivery-only matching + support multiple references ENG-1068 ENG-1108 (#12179) | 2025-12-11 13:37:47 -0500  |  11 files changed, 674 insertions(+), 697 deletions(-)
 b11bdf91b37aa60bb0a0a686ee8d2e1e98978dc0 | fix(tests): fix flaky test_company_scrapes_shippers by scoping assertion (#12132) | 2025-12-04 12:12:33 -0500  |  1 file changed, 2 insertions(+), 1 deletion(-)
 827257fde3c0b0e643a4410c0f568c95ac2c649a | feat: US Bank client implementation (#11684) | 2025-12-04 11:50:08 -0500  |  42 files changed, 6483 insertions(+), 6 deletions(-)
 3f60906c9f45bfe862bbce9a832e92ca0e9a883e | fix(tests): flaky pdf parser + idempotency scraping tests (#12094) | 2025-12-02 11:33:52 -0500  |  2 files changed, 7 insertions(+), 3 deletions(-)
