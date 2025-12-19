@@ -1,3 +1,4 @@
+3172cd087162e935fcc2bdd23719c3aa3bed9569 | feat(dbt): rill migration: add base tables + tests (#12308) | 2025-12-19 16:13:37 -0500  |  18 files changed, 290 insertions(+), 5 deletions(-)
 32850c445b1c2c1c1886811a07718700c2e4ae28 | refactor: dispatch correct export task based on usbank config (#12304) | 2025-12-17 13:01:35 -0500  |  2 files changed, 18 insertions(+), 14 deletions(-)
 156cf25d23fb51f22a1d5148fdcc9dbc631db011 | hotfix(usbank): attach invoice pdf to order, send equipment type/volume + improved configs, service charge, and unit price handling (#12209) | 2025-12-12 11:55:19 -0500  |  21 files changed, 772 insertions(+), 70 deletions(-)
 530da14b36f979c3dd4bad54842bd87f4026954b | feat(usbank): attach invoice pdf to order, send equipment type/volume + improved configs, service charge, and unit price handling (#12203) | 2025-12-12 11:48:42 -0500  |  21 files changed, 772 insertions(+), 70 deletions(-)
