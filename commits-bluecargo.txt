@@ -1,3 +1,4 @@
+a58be96d45844250cf96b641578885ab6c587480 | feat(dbt): rill migration: add mart + int models with tests (#12355) | 2026-01-07 14:10:55 -0500  |  46 files changed, 2254 insertions(+), 9 deletions(-)
 d4d23787bc78f9105d36ed8063dfa0b61b3ae237 | test(temporal): fix flake in default worker test by mocking OPENAI_API_KEY (#12376) | 2025-12-23 09:34:09 -0500  |  1 file changed, 2 insertions(+)
 2b04a0f6384897910bbc5b1b652b4fedb07c5736 | refactor(dbt): consolidate dispute comments + fix line-item attribution ENG-1208 (#12373) | 2025-12-22 20:01:24 -0500  |  9 files changed, 48 insertions(+), 52 deletions(-)
 3172cd087162e935fcc2bdd23719c3aa3bed9569 | feat(dbt): rill migration: add base tables + tests (#12308) | 2025-12-19 16:13:37 -0500  |  18 files changed, 290 insertions(+), 5 deletions(-)
