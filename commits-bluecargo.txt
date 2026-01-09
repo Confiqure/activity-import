@@ -1,3 +1,4 @@
+30365029ba4aa28060ef9ba2e8c9e8c328a0fdcf | perf(dbt): rill migration: misc performance cleanup + add missing metric (#12475) | 2026-01-09 09:40:44 -0500  |  13 files changed, 350 insertions(+), 403 deletions(-)
 ca4ea25f779c0e281dee48f0cf98fa9bfb21d78f | feat(usbank): misc improvements for order data richness (#12448) | 2026-01-08 10:03:48 -0500  |  13 files changed, 521 insertions(+), 250 deletions(-)
 a58be96d45844250cf96b641578885ab6c587480 | feat(dbt): rill migration: add mart + int models with tests (#12355) | 2026-01-07 14:10:55 -0500  |  46 files changed, 2254 insertions(+), 9 deletions(-)
 d4d23787bc78f9105d36ed8063dfa0b61b3ae237 | test(temporal): fix flake in default worker test by mocking OPENAI_API_KEY (#12376) | 2025-12-23 09:34:09 -0500  |  1 file changed, 2 insertions(+)
