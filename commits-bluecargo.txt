@@ -1,3 +1,4 @@
+08ad7661f9c7cfb365de53cd1bd4ca33c7eb7267 | fix: flatten hubspot company search filter groups to prevent 400 error (#12508) | 2026-01-12 14:09:41 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 ac28e807e7a3bea5e8c6180c618e2869659f078f | fix(parser): add missing LOAD_OUT mapping for ZIM truck departure ENG-1348 (#12498) | 2026-01-12 10:31:08 -0500  |  2 files changed, 13 insertions(+), 12 deletions(-)
 145dc326069f2af9ea85f32405513814b1d34e73 | fix: freight allocation optional total_charge_cents TypeError (#12489) | 2026-01-09 15:29:17 -0500  |  3 files changed, 2 insertions(+), 2 deletions(-)
 30365029ba4aa28060ef9ba2e8c9e8c328a0fdcf | perf(dbt): rill migration: misc performance cleanup + add missing metric (#12475) | 2026-01-09 09:40:44 -0500  |  13 files changed, 350 insertions(+), 403 deletions(-)
