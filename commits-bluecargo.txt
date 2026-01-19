@@ -1,3 +1,4 @@
+e794e81181bcd15636f7fdebba5e695715c2777a | fix(pdf): fix wkhtmltopdf protocol error and centralize generation logic (#12600) | 2026-01-19 14:06:35 -0500  |  3 files changed, 40 insertions(+), 41 deletions(-)
 5d15b4495839085fc97ed299626e1b881610d710 | fix: handle null container event types and misc scraping errors ENG-1427 (#12597) | 2026-01-19 11:35:31 -0500  |  5 files changed, 11 insertions(+), 8 deletions(-)
 43eeafaafe61b26858aa348e4f0b472d0fb97e28 | fix: resolve d&d calc crashes, audit report SQL conflicts + type errors (#12500) | 2026-01-15 13:14:54 -0500  |  9 files changed, 100 insertions(+), 39 deletions(-)
 08ad7661f9c7cfb365de53cd1bd4ca33c7eb7267 | fix: flatten hubspot company search filter groups to prevent 400 error (#12508) | 2026-01-12 14:09:41 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
