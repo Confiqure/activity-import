@@ -1,3 +1,4 @@
+621c5ae8ae6e70097ff26a5138e0552d60fc9703 | hotfix(usbank): apply strict invoice number matching in poll task (#12656) | 2026-01-23 12:38:49 -0500  |  2 files changed, 84 insertions(+), 51 deletions(-)
 0350f271e2779b1910aba6c1080b94e9fbc3531c | fix(usbank): apply strict invoice number matching in poll task (#12654) | 2026-01-23 12:33:23 -0500  |  2 files changed, 84 insertions(+), 51 deletions(-)
 832416d19c25e0726688404c2982056f03bbcc19 | test(rules_engine): fix CI flake in with setUp (#12647) | 2026-01-23 08:56:16 -0500  |  1 file changed, 11 insertions(+), 12 deletions(-)
 636a0fe4340a063724ddb10bf983074652c5c790 | feat(usbank): group invoice records by shipment, add ratingfactors, direction, service type, port selection & rail handling (#12629) | 2026-01-22 16:08:04 -0500  |  21 files changed, 1400 insertions(+), 726 deletions(-)
