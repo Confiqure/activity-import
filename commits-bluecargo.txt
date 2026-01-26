@@ -1,3 +1,4 @@
+402bc979c6ef2f4e15f514b29cfe78485a87ab1c | fix: batch hubspot searches by filter count to avoid API limit (#12678) | 2026-01-26 16:13:02 -0500  |  1 file changed, 52 insertions(+), 30 deletions(-)
 a69bfd2a5998039e97d3141d8e8ddbed1099a165 | test: fix FeeTypeRecord IntegrityError in TestAuditReportDetailsView (#12672) | 2026-01-26 11:52:38 -0500  |  1 file changed, 13 insertions(+), 14 deletions(-)
 fab84510a594776347a378fa0d6af088e605aa49 | test: fix FeeTypeRecord IntegrityError in TestAuditReportDetailsView (#12672) | 2026-01-26 11:52:38 -0500  |  1 file changed, 13 insertions(+), 14 deletions(-)
 621c5ae8ae6e70097ff26a5138e0552d60fc9703 | hotfix(usbank): apply strict invoice number matching in poll task (#12656) | 2026-01-23 12:38:49 -0500  |  2 files changed, 84 insertions(+), 51 deletions(-)
