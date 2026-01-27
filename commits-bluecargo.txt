@@ -1,3 +1,4 @@
+c4c62ae782f412c70134662e83455c37e580cf52 | Release 2026-01-27 (#12695) | 2026-01-27 14:08:05 -0500  |  52 files changed, 9099 insertions(+), 620 deletions(-)
 5e363806e597f2eb66f1efdcd48b2d2cdb62bd78 | feat(usbank): add invoice payment lifecycle + handle duplicates (#12671) | 2026-01-27 12:52:32 -0500  |  14 files changed, 4861 insertions(+), 206 deletions(-)
 402bc979c6ef2f4e15f514b29cfe78485a87ab1c | fix: batch hubspot searches by filter count to avoid API limit (#12678) | 2026-01-26 16:13:02 -0500  |  1 file changed, 52 insertions(+), 30 deletions(-)
 a69bfd2a5998039e97d3141d8e8ddbed1099a165 | test: fix FeeTypeRecord IntegrityError in TestAuditReportDetailsView (#12672) | 2026-01-26 11:52:38 -0500  |  1 file changed, 13 insertions(+), 14 deletions(-)
