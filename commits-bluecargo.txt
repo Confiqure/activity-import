@@ -1,3 +1,4 @@
+6599a587b47df975c894149560be092a08b87b03 | fix: per diem calculation crashing on missing dates + hubspot sync rate limits (#12725) | 2026-01-29 13:10:02 -0500  |  7 files changed, 70 insertions(+), 21 deletions(-)
 50b6341828c047653f5b73139925a0b11b059010 | lint: no-op change to enable ruff rules + cleanup ruff config (#12722) | 2026-01-29 10:27:24 -0500  |  5 files changed, 19 insertions(+), 17 deletions(-)
 8969aec039b75e4fd988adbfa5039c40ad44ac1c | fix: handle missing invoice records in audit report view (#12724) | 2026-01-29 10:04:06 -0500  |  2 files changed, 9 insertions(+), 3 deletions(-)
 56dc2b37cc30b302f3620636013a773849b64a09 | fix: remove files that were accidentally committed (#12719) | 2026-01-28 22:48:57 -0500  |  4 files changed, 5176 deletions(-)
