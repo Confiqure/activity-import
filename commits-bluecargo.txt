@@ -1,3 +1,4 @@
+988a34169adda1e78a220d0e5626a03393924e5f | fix: harden EncryptionManager and prevent 500 errors in models on decryption failure (#12741) | 2026-01-30 11:33:06 -0500  |  7 files changed, 47 insertions(+), 147 deletions(-)
 e30c0a207aac97736032acb21de4eaf03f936d82 | test: fix invoice forecast flakes by clearing stale ingestion caches (#12723) | 2026-01-29 13:19:36 -0500  |  4 files changed, 18 insertions(+), 7 deletions(-)
 6599a587b47df975c894149560be092a08b87b03 | fix: per diem calculation crashing on missing dates + hubspot sync rate limits (#12725) | 2026-01-29 13:10:02 -0500  |  7 files changed, 70 insertions(+), 21 deletions(-)
 50b6341828c047653f5b73139925a0b11b059010 | lint: no-op change to enable ruff rules + cleanup ruff config (#12722) | 2026-01-29 10:27:24 -0500  |  5 files changed, 19 insertions(+), 17 deletions(-)
