@@ -1,3 +1,4 @@
+5695ae6449cb6487a35c0917bdda4cff4afde2a1 | fix(dbt): sqlfluff formatting (#12739) | 2026-01-30 12:01:11 -0500  |  10 files changed, 73 insertions(+), 81 deletions(-)
 a0c94248b0ab214346ea2e36ab6b558661fe2ddd | test(dbt): add missing audit status columns to column_exists tests (#12740) | 2026-01-30 11:43:06 -0500  |  5 files changed, 10 insertions(+)
 988a34169adda1e78a220d0e5626a03393924e5f | fix: harden EncryptionManager and prevent 500 errors in models on decryption failure (#12741) | 2026-01-30 11:33:06 -0500  |  7 files changed, 47 insertions(+), 147 deletions(-)
 e30c0a207aac97736032acb21de4eaf03f936d82 | test: fix invoice forecast flakes by clearing stale ingestion caches (#12723) | 2026-01-29 13:19:36 -0500  |  4 files changed, 18 insertions(+), 7 deletions(-)
