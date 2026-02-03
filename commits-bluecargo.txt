@@ -1,3 +1,4 @@
+8cc9f4ae0436aff34664cca083c7fea226054a16 | feat: implement centralized libpostal init-containers across core services (#132) | 2026-02-03 17:56:19 -0500  |  20 files changed, 519 insertions(+), 461 deletions(-)
 4629b805f74fe6f15870924f821d7e9e0fd15092 | feat(infra): add libpostal data init (#12774) | 2026-02-03 17:55:04 -0500  |  2 files changed, 59 insertions(+)
 1639f8fa003165d5c733c92013de67a781b2d89c | test: fix flaky rule generation workflow tests with object patching (#12775) | 2026-02-03 16:26:38 -0500  |  3 files changed, 12 insertions(+), 30 deletions(-)
 283356899097aa3b8c971fe35dabbd91092934ee | fix(infra): automate libpostal data download to resolve initialization crash (#12768) | 2026-02-03 15:07:34 -0500  |  4 files changed, 56 insertions(+), 15 deletions(-)
