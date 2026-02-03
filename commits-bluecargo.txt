@@ -1,3 +1,4 @@
+4629b805f74fe6f15870924f821d7e9e0fd15092 | feat(infra): add libpostal data init (#12774) | 2026-02-03 17:55:04 -0500  |  2 files changed, 59 insertions(+)
 1639f8fa003165d5c733c92013de67a781b2d89c | test: fix flaky rule generation workflow tests with object patching (#12775) | 2026-02-03 16:26:38 -0500  |  3 files changed, 12 insertions(+), 30 deletions(-)
 283356899097aa3b8c971fe35dabbd91092934ee | fix(infra): automate libpostal data download to resolve initialization crash (#12768) | 2026-02-03 15:07:34 -0500  |  4 files changed, 56 insertions(+), 15 deletions(-)
 21ff8ead9df65e397d2c6ece82d48a477675f6eb | fix(infra): automate libpostal data download to resolve initialization crash (#12768) | 2026-02-03 15:07:34 -0500  |  4 files changed, 56 insertions(+), 15 deletions(-)
