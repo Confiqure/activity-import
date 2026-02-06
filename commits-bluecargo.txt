@@ -1,3 +1,4 @@
+6e5c90ddc87879b48984c76b7c9da3e04bed9763 | feat: add dynamic form components with RJSF ENG-1518 (#4542) | 2026-02-06 15:04:54 -0500  |  11 files changed, 586 insertions(+), 16 deletions(-)
 f78643398a6fb6dedb452c6db826d9224efb0248 | feat: add model schema API endpoint for dynamic form generation ENG-1518 (#12793) | 2026-02-06 15:04:43 -0500  |  4 files changed, 124 insertions(+)
 8cc9f4ae0436aff34664cca083c7fea226054a16 | feat: implement centralized libpostal init-containers across core services (#132) | 2026-02-03 17:56:19 -0500  |  20 files changed, 519 insertions(+), 461 deletions(-)
 4629b805f74fe6f15870924f821d7e9e0fd15092 | feat(infra): add libpostal data init (#12774) | 2026-02-03 17:55:04 -0500  |  2 files changed, 59 insertions(+)
