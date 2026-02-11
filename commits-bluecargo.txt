@@ -1,3 +1,4 @@
+e63159ea4346304ba840aa0a23221b72afaae51f | feat: implement entity mapping for shadow nodes ENG-1534 (#12878) | 2026-02-11 10:42:37 -0500  |  6 files changed, 93 insertions(+), 14 deletions(-)
 8b012c2ff97aeadb063e1a6998251ea162325eb1 | feat: add entity promotion endpoint for onboarding workflow ENG-1533 (#12876) | 2026-02-11 10:05:26 -0500  |  8 files changed, 264 insertions(+), 13 deletions(-)
 5a71bc1740d9c81895a46a7e730e38798a49087f | fix: various crashes in locations, scraping, and smart demurrage (#12875) | 2026-02-10 11:05:55 -0500  |  3 files changed, 14 insertions(+), 3 deletions(-)
 112b042d3d3f383a424a159b9a8f661682b2acb9 | feat: add entity graph endpoint with tests ENG-1528 (#12825) | 2026-02-09 16:06:45 -0500  |  6 files changed, 444 insertions(+), 5 deletions(-)
