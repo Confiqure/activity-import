@@ -1,3 +1,4 @@
+251e92ef71d2fe5625f1e4776ac126857cb4193e | feat: fetch detached entities via API in sidebar (#4591) | 2026-02-12 16:17:41 -0500  |  2 files changed, 28 insertions(+), 26 deletions(-)
 218ffc2fd18db6f66ae629c6e61603af85a3b52a | feat: implement map to existing and create new flows ENG-1536 ENG-1537 (#4587) | 2026-02-12 11:44:46 -0500  |  5 files changed, 248 insertions(+), 119 deletions(-)
 6d87667f19c04c897cfd47addd5498b59625d567 | feat: integrate libpostal for enhanced address facet extraction (#12927) | 2026-02-12 09:49:47 -0500  |  5 files changed, 178 insertions(+), 6 deletions(-)
 9e6dcb518637b84b96d5a5dcb3d53a03a2d4246b | feat: implement auto-linking service for shadow graph promotion ENG-1538 (#12903) | 2026-02-12 09:15:34 -0500  |  5 files changed, 481 insertions(+), 11 deletions(-)
