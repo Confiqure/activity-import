@@ -1,3 +1,4 @@
+357864f1eee79997e67bd72f0c06fae603f88472 | feat: implement access controls for configuration pages ENG-1463 (#4595) | 2026-02-13 11:46:11 -0500  |  8 files changed, 135 insertions(+), 94 deletions(-)
 e26ec9b05001854fe5385d46748bff91eabe517b | feat: enforce manager-only access for configuration endpoints ENG-1463 (#12955) | 2026-02-13 11:45:45 -0500  |  14 files changed, 37 insertions(+), 19 deletions(-)
 611588c73d2c31aab6227a49c1ef1797ac03b076 | refactor: migrate to generic entity resolution alias endpoints (#4593) | 2026-02-12 19:42:58 -0500  |  1 file changed, 53 insertions(+), 36 deletions(-)
 251e92ef71d2fe5625f1e4776ac126857cb4193e | feat: fetch detached entities via API in sidebar (#4591) | 2026-02-12 16:17:41 -0500  |  2 files changed, 28 insertions(+), 26 deletions(-)
