@@ -1,3 +1,4 @@
+d69bb7dcfe6bec025c2155e189e2418823568bee | feat: connect fee type aliases page to entity resolution API (#4596) | 2026-02-13 15:31:19 -0500  |  9 files changed, 171 insertions(+), 874 deletions(-)
 11ef9c5a5c0a9a600f9a1335995834f73239d53c | feat: add vendor-scoped alias validation and vendor name in responses (#12963) | 2026-02-13 15:31:00 -0500  |  2 files changed, 28 insertions(+), 8 deletions(-)
 cffa65ac8a6993bf905e4d894989d9982e8e0480 | fix(usbank): ensure submissions exist before task launch to resolve race condition (#12954) | 2026-02-13 12:35:04 -0500  |  3 files changed, 59 insertions(+), 26 deletions(-)
 357864f1eee79997e67bd72f0c06fae603f88472 | feat: implement access controls for configuration pages ENG-1463 (#4595) | 2026-02-13 11:46:11 -0500  |  8 files changed, 135 insertions(+), 94 deletions(-)
