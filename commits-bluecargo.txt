@@ -1,3 +1,4 @@
+15748758e207a28808fd830b80a0fb75d296f629 | revert: use proxied backend in prod (#4608) | 2026-02-17 15:39:54 -0500  |  1 file changed, 1 insertion(+), 1 deletion(-)
 31234ff29e0e594c6c29a9df3c7b5fa89d8626c6 | hotfix(export): add missing est_demurrage_charges column support (#13015) | 2026-02-17 14:58:00 -0500  |  2 files changed, 5 insertions(+)
 1d759ecdd3e11d1c1fe663715aaa8f673e8e322c | fix(export): add missing est_demurrage_charges column support (#13014) | 2026-02-17 14:54:06 -0500  |  2 files changed, 5 insertions(+)
 a7a4c5dd65f618e09e3f3b4561bb62fad4e15d34 | feat(dbt): add event completeness models for E1 -Event Timeliness dashboard (#12983) | 2026-02-17 14:01:49 -0500  |  2 files changed, 53 insertions(+)
