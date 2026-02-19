@@ -1,3 +1,4 @@
+bf50f722483cfd1dce95c0d24391f662e7d9b127 | feat(configurator): add manual vendor/location setup flow and network page polish (#4615) | 2026-02-19 12:48:53 -0500  |  23 files changed, 1564 insertions(+), 256 deletions(-)
 89750f3ebe2bb5e95b36149ef0edd9bb3c827619 | fix: network API serializers and auto-linking for configurator (#13040) | 2026-02-19 12:47:02 -0500  |  15 files changed, 235 insertions(+), 95 deletions(-)
 dcb923ff09784ccaf02c46b9b7480879597f9831 | fix(ci): run tests on staging-merge-* branches (#13061) | 2026-02-19 11:25:05 -0500  |  2 files changed, 2 deletions(-)
 2be082f50c9718e30ea6ed3893cbf84eacc38371 | Release: 2026-02-19 (#4617) | 2026-02-19 10:52:12 -0500
