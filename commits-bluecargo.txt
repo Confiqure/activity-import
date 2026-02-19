@@ -1,3 +1,4 @@
+84d64679da2ea4f11edbd387ac4ec251c63582a1 | fix(usbank): remove server certificate pinning, use system trust store ENG-1738 (#13052) | 2026-02-19 09:37:19 -0500  |  2 files changed, 1 insertion(+), 10 deletions(-)
 1c73f9b083f88caf854f03deb53c38b3f88debf3 | hotfix(rate_manager): resolve LocationGroups with empty-string location_usage ENG-1729 (#13046) | 2026-02-18 19:23:38 -0500  |  3 files changed, 79 insertions(+), 13 deletions(-)
 75fa5562fc056f30031a9eaf302966e50096f3a0 | fix(rate_manager): resolve LocationGroups with empty-string location_usage ENG-1729 (#13045) | 2026-02-18 19:19:19 -0500  |  3 files changed, 79 insertions(+), 13 deletions(-)
 534db7ae72e84cd9218e4ea86470184e282cb23d | feat: enhance celery stats page with summary banner, data presentation, and refresh (#13038) | 2026-02-18 15:36:39 -0500  |  2 files changed, 187 insertions(+), 73 deletions(-)
