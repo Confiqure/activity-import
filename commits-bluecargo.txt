@@ -1,3 +1,4 @@
+32809ae828b98503eb8069e54201820298e46fe3 | fix: render backend display_error in rate upload ingestion tile (#4622) | 2026-02-19 18:21:19 -0500  |  2 files changed, 4 insertions(+), 3 deletions(-)
 a1c0365a336ac12e6523217e33ecda85dc7410a8 | fix: resolve 500s on entity promotion and rate import workflow failures (#13072) | 2026-02-19 18:20:53 -0500  |  8 files changed, 119 insertions(+), 20 deletions(-)
 695af8e33b87b26aea56cdfb2b803394c94fa45a | Release: 2026-02-19 (#4623) | 2026-02-19 18:18:55 -0500
 83c5b6570ed1522e1fd29efd8765a4ba4858f921 | Automated Merge of Master into Staging (#13076) | 2026-02-19 18:16:51 -0500
