@@ -1,3 +1,4 @@
+9065da94e26140f7087e1c84ecf832a8179c4a56 | fix(configurator): remove duplicate sidebar navigation (#4627) | 2026-02-20 12:05:10 -0500  |  4 files changed, 2 insertions(+), 59 deletions(-)
 4015523b7506f83321e1ea0a94037d1e1974b347 | docs(dbt): clarify step order for adding tables to the replication (#13088) | 2026-02-20 11:18:31 -0500  |  1 file changed, 35 insertions(+), 15 deletions(-)
 b7f45c0e111db4887b6e74e7d195cd8f3fda6d01 | revert: resolution requirements task actioned mart model + auto-refresh fix (#13080) | 2026-02-19 21:53:04 -0500  |  1 file changed, 2 insertions(+)
 3baef0865edd1d5f2ad04769dd48bec81a30c455 | Automated Merge of Master into Staging (#13079) | 2026-02-19 21:33:57 -0500
