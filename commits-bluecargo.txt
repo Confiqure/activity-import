@@ -1,3 +1,4 @@
+9511978e835e42274cf9c212533e4bfa52010c46 | feat(configurator): add Location Group mapping option to EntityAssociationRow (#4631) | 2026-02-20 16:52:05 -0500  |  2 files changed, 55 insertions(+), 15 deletions(-)
 b88f6cfaddc2e2b08929d682f7535c4cdece56b1 | Automated Merge of Master into Staging (#13099) | 2026-02-20 16:16:08 -0500
 09286da955aa06e9c5e39c14718c0461f08ee72e | Automated Merge of Master into Staging (#4632) | 2026-02-20 16:11:35 -0500
 c48873b3b0c50f2905e19be60a7be42b710229dd | Release: 2026-02-20 (#4630) | 2026-02-20 16:07:30 -0500  |  15 files changed, 158 insertions(+), 72 deletions(-)
