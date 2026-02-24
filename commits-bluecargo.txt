@@ -1,3 +1,4 @@
+70999fb7645a21a86260fe0d311a42db1b91981d | feat(dbt): add shipment_covered_in_epoch to int_shipment__vizion_usage ENG-1275 (#13120) | 2026-02-24 09:40:47 -0500  |  2 files changed, 5 insertions(+)
 19c5284276628a1e8c65931a1df273589b92b5e7 | fix(dbt): resolve dynamic table dependencies + update tests (#13116) | 2026-02-23 17:47:45 -0500  |  10 files changed, 105 insertions(+), 51 deletions(-)
 b2cee322be13d0fcf86731f25b90d46ffa020442 | Automated Merge of Master into Staging | 2026-02-23 10:46:51 -0500
 6a1b37ac71c586711e26079b6bf818480f47ebed | Release: 2026-02-23 | 2026-02-23 10:24:35 -0500
