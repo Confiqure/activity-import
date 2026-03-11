@@ -1,3 +1,4 @@
+12c98476ded203b221a1691b92f19139205e2fbe | feat(dbt): apply state-aware selection to dbt seed in deploy job (#13382) | 2026-03-11 11:09:08 -0400  |  2 files changed, 22 insertions(+), 4 deletions(-)
 ef399cb5674b7be772c335524cb41a93f51bf8c4 | fix(dbt): pin dbt_utils to 1.3.3 and add requests>=2.32.0 to silence CI warnings (#13380) | 2026-03-11 11:08:28 -0400  |  2 files changed, 2 insertions(+), 1 deletion(-)
 31e356bb1fde2da5ec08a2e484798b5bd41856c5 | hotfix: set end_time when marking stalled audit sessions failed ENG-1936 (#13378) | 2026-03-11 10:33:22 -0400  |  2 files changed, 29 insertions(+), 9 deletions(-)
 2c1a3a4e9648081f22d00b72e2edd0c6e7193e5b | fix: set end_time when marking stalled audit sessions failed ENG-1936 (#13377) | 2026-03-11 10:22:48 -0400  |  2 files changed, 29 insertions(+), 9 deletions(-)
