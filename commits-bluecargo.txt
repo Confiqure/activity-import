@@ -1,3 +1,4 @@
+5b09f397a434424b47cedb664218eb1bff0d8df6 | fix(dbt): dynamic_table view chain error (#13420) | 2026-03-16 12:20:54 -0400  |  1 file changed, 2 insertions(+)
 7f81caecc4d7e1031e2be238b3c969b336fc97e5 | feat(dbt): staging schema + code quality cleanup (#13399) | 2026-03-16 10:12:19 -0400  |  65 files changed, 1362 insertions(+), 1257 deletions(-)
 fd61b3c510ae94e14eba9c9fe93b7184ab02d45d | hotfix(dbt): releasing ci improvements (#13391) | 2026-03-12 11:26:20 -0400  |  28 files changed, 255 insertions(+), 307 deletions(-)
 cd448e12db8c17260cf8e01f9b22e9acfa674cb2 | fix | 2026-03-11 16:41:27 -0400  |  2 files changed, 1 insertion(+), 7 deletions(-)
