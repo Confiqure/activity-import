@@ -1,3 +1,4 @@
+bb9a6b7d3eee6721170c25d87e11e3bf30a1680b | fix(ingestion): use empty filename_regex mapping as catch-all fallback in manual upload (#13422) | 2026-03-16 13:59:18 -0400  |  2 files changed, 84 insertions(+)
 f6acc6212a7da5c71cdf8b06b3b882f49b1e4f88 | chore(ci): add automated weekly release PR workflow (#146) | 2026-03-16 13:56:06 -0400  |  1 file changed, 48 insertions(+)
 f820b981b157cc48ea7e747869ff8b35999c384d | chore(ci): update weekly release schedule to tue/thu at 12pm PT (#13423) | 2026-03-16 12:57:49 -0400  |  1 file changed, 3 insertions(+), 3 deletions(-)
 c4f3a18e3e2461fdf26d88b793b9ff9f215dcb5a | Merge pull request #3919 from bluecargo/chore/update-release-schedule | 2026-03-16 12:57:14 -0400  |  1 file changed, 3 insertions(+), 3 deletions(-)
