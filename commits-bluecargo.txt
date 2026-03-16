@@ -1,3 +1,4 @@
+7f81caecc4d7e1031e2be238b3c969b336fc97e5 | feat(dbt): staging schema + code quality cleanup (#13399) | 2026-03-16 10:12:19 -0400  |  65 files changed, 1362 insertions(+), 1257 deletions(-)
 fd61b3c510ae94e14eba9c9fe93b7184ab02d45d | hotfix(dbt): releasing ci improvements (#13391) | 2026-03-12 11:26:20 -0400  |  28 files changed, 255 insertions(+), 307 deletions(-)
 cd448e12db8c17260cf8e01f9b22e9acfa674cb2 | fix | 2026-03-11 16:41:27 -0400  |  2 files changed, 1 insertion(+), 7 deletions(-)
 fb704a4692fc0f6e15bcfc0ffb8235e36287e8f8 | feat(dbt): remove legacy staging connector, make Fivetran default for all envs (#13385) | 2026-03-11 13:05:20 -0400  |  23 files changed, 110 insertions(+), 295 deletions(-)
