@@ -1,3 +1,4 @@
+a6cd4a72ca134ee669d148658c55327d9c16d09f | feat(invoice-manager): poll payment job status and display US Bank validation errors to user (#4731) | 2026-03-17 11:15:23 -0400  |  3 files changed, 68 insertions(+), 26 deletions(-)
 795d7676c446d87c6c15b57298c97deaf4b9ad2b | fix(usbank): add Snowflake commodity lookup to placeholder freight charge for Michelin ENG-1998 (#13408) | 2026-03-17 11:10:50 -0400  |  4 files changed, 267 insertions(+), 1 deletion(-)
 bb9a6b7d3eee6721170c25d87e11e3bf30a1680b | fix(ingestion): use empty filename_regex mapping as catch-all fallback in manual upload (#13422) | 2026-03-16 13:59:18 -0400  |  2 files changed, 84 insertions(+)
 f6acc6212a7da5c71cdf8b06b3b882f49b1e4f88 | chore(ci): add automated weekly release PR workflow (#146) | 2026-03-16 13:56:06 -0400  |  1 file changed, 48 insertions(+)
