@@ -1,3 +1,4 @@
+3336d4cf6a741bfc8b25a11bae22425ecee49214 | fix(slack): surface channel config errors instead of silently dropping (#13439) | 2026-03-17 13:47:26 -0400  |  2 files changed, 76 insertions(+), 1 deletion(-)
 1d2afc6102b622ed30f28dc9a25f9007fd24599e | fix(usbank): surface API validation errors to users instead of Slack or BugSnag (#13437) | 2026-03-17 11:42:46 -0400  |  2 files changed, 77 insertions(+), 41 deletions(-)
 a6cd4a72ca134ee669d148658c55327d9c16d09f | feat(invoice-manager): poll payment job status and display US Bank validation errors to user (#4731) | 2026-03-17 11:15:23 -0400  |  3 files changed, 68 insertions(+), 26 deletions(-)
 795d7676c446d87c6c15b57298c97deaf4b9ad2b | fix(usbank): add Snowflake commodity lookup to placeholder freight charge for Michelin ENG-1998 (#13408) | 2026-03-17 11:10:50 -0400  |  4 files changed, 267 insertions(+), 1 deletion(-)
