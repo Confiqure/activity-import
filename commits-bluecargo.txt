@@ -1,3 +1,4 @@
+daa252779d130621d66761ae0a19fb61d9857cf4 | fix: dispatch WVR sync as background tasks in create_shipment_watches ENG-1884 (#13441) | 2026-03-18 11:21:44 -0400  |  1 file changed, 6 insertions(+), 5 deletions(-)
 3336d4cf6a741bfc8b25a11bae22425ecee49214 | fix(slack): surface channel config errors instead of silently dropping (#13439) | 2026-03-17 13:47:26 -0400  |  2 files changed, 76 insertions(+), 1 deletion(-)
 1d2afc6102b622ed30f28dc9a25f9007fd24599e | fix(usbank): surface API validation errors to users instead of Slack or BugSnag (#13437) | 2026-03-17 11:42:46 -0400  |  2 files changed, 77 insertions(+), 41 deletions(-)
 a6cd4a72ca134ee669d148658c55327d9c16d09f | feat(invoice-manager): poll payment job status and display US Bank validation errors to user (#4731) | 2026-03-17 11:15:23 -0400  |  3 files changed, 68 insertions(+), 26 deletions(-)
