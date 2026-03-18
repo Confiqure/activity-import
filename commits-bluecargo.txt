@@ -1,3 +1,4 @@
+a90f6001301c7aa4e8bf480ee7a33bee77c5200f | hotfix(shipment): add rate_limit to create_or_update_shipment_forecast task (#13477) | 2026-03-18 14:20:58 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 1c82e81c2baa65d099d7f17b023ada3a36fc4e15 | fix(shipment): add rate_limit to create_or_update_shipment_forecast task (#13476) | 2026-03-18 14:19:36 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 daa252779d130621d66761ae0a19fb61d9857cf4 | fix: dispatch WVR sync as background tasks in create_shipment_watches ENG-1884 (#13441) | 2026-03-18 11:21:44 -0400  |  1 file changed, 6 insertions(+), 5 deletions(-)
 3336d4cf6a741bfc8b25a11bae22425ecee49214 | fix(slack): surface channel config errors instead of silently dropping (#13439) | 2026-03-17 13:47:26 -0400  |  2 files changed, 76 insertions(+), 1 deletion(-)
