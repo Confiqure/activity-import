@@ -1,3 +1,4 @@
+cb68f392b9c046f02d99fb4938f2432bd2908f20 | fix: dependency group classification + normalize uv sync flags (#13467) | 2026-03-19 10:51:51 -0400  |  6 files changed, 43 insertions(+), 56 deletions(-)
 b0ccaa15473db453ea1c771734f9d9f2ca741337 | fix(celery): defer Django imports in encoder and add queue task breakdown to stats page (#13486) | 2026-03-19 10:31:27 -0400  |  3 files changed, 64 insertions(+), 12 deletions(-)
 a90f6001301c7aa4e8bf480ee7a33bee77c5200f | hotfix(shipment): add rate_limit to create_or_update_shipment_forecast task (#13477) | 2026-03-18 14:20:58 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 1c82e81c2baa65d099d7f17b023ada3a36fc4e15 | fix(shipment): add rate_limit to create_or_update_shipment_forecast task (#13476) | 2026-03-18 14:19:36 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
