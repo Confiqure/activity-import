@@ -1,3 +1,4 @@
+86607cf1c830e0a8295ee989c79cab043b737f6a | fix(deps): move watchdog to prod deps so docker-compose workers can hot-reload (#13495) | 2026-03-19 13:55:20 -0400  |  2 files changed, 3 insertions(+), 3 deletions(-)
 d57b785866a932f01e7e5615b3a716042a9f1b17 | fix: bump create_or_update_shipment_forecast rate_limit from 10 to 100/m (#13487) | 2026-03-19 12:13:00 -0400  |  1 file changed, 1 insertion(+), 1 deletion(-)
 cb68f392b9c046f02d99fb4938f2432bd2908f20 | fix: dependency group classification + normalize uv sync flags (#13467) | 2026-03-19 10:51:51 -0400  |  6 files changed, 43 insertions(+), 56 deletions(-)
 b0ccaa15473db453ea1c771734f9d9f2ca741337 | fix(celery): defer Django imports in encoder and add queue task breakdown to stats page (#13486) | 2026-03-19 10:31:27 -0400  |  3 files changed, 64 insertions(+), 12 deletions(-)
