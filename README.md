@@ -1,89 +1,67 @@
-# Activity Importer: Recreate Commit History with Shortstat Data
+# Activity Importer — Preserve Commit History Without the Code
 
-This repository recreates my commit history from inactive accounts to preserve my contribution record. This includes commit messages, timestamps, and shortstat data (number of files changed, insertions, deletions), without transferring any actual code from the original repository. This process is ideal for situations where the commit history needs to be preserved or documented without transferring proprietary or sensitive code between repositories.
+This repository recreates my commit history from accounts and repos I've lost (or will lose) access
+to, so my GitHub contribution graph survives. It records only commit **metadata** — message,
+timestamp, and shortstat (files changed, insertions, deletions) — by appending one line per commit to
+a `commits-<project>.txt` log and replaying it as a real commit dated to the original. **No source
+code is ever transferred**, which keeps the process safe for proprietary / NDA codebases.
 
-## Methodology
+## Conventions
 
-### 1. Extract Commit History from the Old Repository
+Refined over several imports. Follow these for every new project so the record stays consistent and
+honest:
 
-To begin, extract the commit history from the original repository using the following command:
+1. **Scope = default branch only.** Capture each repo's default/integration branch
+   (`git symbolic-ref --short refs/remotes/origin/HEAD` → e.g. `main` / `master` / `staging` / `dmz`)
+   — the work that actually merged and shipped, and what the contribution graph counted. Do **not**
+   capture all branches: in a squash-merge workflow that double-counts (the squash commit *and* its
+   pre-squash originals) and adds WIP/merge noise, overstating the real graph.
+2. **All of your identities.** First enumerate authors
+   (`git log --all --format='%ae|%an' | sort -u`) and select every email/name that was you — personal
+   email, work email (even if revoked: match by the *historical* address, since it can no longer
+   authenticate), and any `…@users.noreply.github.com` aliases.
+3. **Every repo.** An employer/org usually spans many repos. Capture across all of them and dedupe by
+   commit SHA so a commit reachable from more than one repo/branch is counted once.
+4. **Drop stash artifacts.** Exclude commits whose subject starts with `WIP on`, `index on`, or
+   `untracked files on` — transient `git stash` snapshots that never counted toward anything.
+5. **Re-attribute on replay.** Author *and* committer = your current identity, so the replayed commits
+   count toward *your* graph; preserve the original author/committer **dates** so they land on the
+   right days.
+6. **Mind stale sources.** Before trusting a clone, compare its newest commit date to your actual
+   tenure end — a clone last pulled mid-tenure silently under-captures. If remote access is gone, work
+   from a clean offline **archive** of the repos; the archive then *is* the source of truth.
+7. **Metadata only.** Each replayed commit changes *only* the `commits-<project>.txt` log — never a
+   source file. Verify with `git show --stat`.
 
-```bash
-cd path/to/old-repo
-
-# Extract commit hash, message, date, and shortstat data
-git log --author="your-email@example.com" --pretty=format:"%H|%s|%ad" --date=iso --shortstat > commits_shortstat.txt
-```
-
-This command generates a `commits_shortstat.txt` file containing each commit's hash, message, date, and associated shortstat data (files changed, insertions, and deletions).
-
-### 2. Format the Shortstat Data
-
-Next, use a Python script to parse and format the commit data from `commits_shortstat.txt` into a more usable format, which includes the shortstat information:
-
-```python
-import re
-
-with open('commits_shortstat.txt', 'r') as infile, open('commits_to_replay.txt', 'w') as outfile:
-    current_commit = ""
-    for line in infile:
-        if '|' in line:
-            if current_commit:
-                outfile.write(current_commit + "\n")
-            current_commit = line.strip()
-        elif "file changed" in line or "files changed" in line:
-            # Extract the shortstat data
-            shortstat = re.sub(r'\s+', ' ', line.strip())
-            current_commit += f" | {shortstat}"
-    if current_commit:
-        outfile.write(current_commit + "\n")
-```
-
-This script reads through `commits_shortstat.txt`, extracts relevant data, and writes it to `commits_to_replay.txt`.
-
-### 3. Replay Commits in the New Repository
-
-With the formatted commit data ready, proceed to recreate the commits in the new repository, appending the shortstat data to each commit message:
+## Mechanics
 
 ```bash
-cd path/to/new-repo
+# 1. Extract — per repo, default branch, your identities, with shortstat:
+git -C <repo> log <default-branch> -E -i \
+  --author='you@personal|you@work|your-alias' \
+  --pretty=format:'%H | %s | %ad' --date=iso --shortstat
+#    → collapse each commit's shortstat onto its line; drop WIP/index/untracked subjects;
+#      merge all repos; dedupe by SHA; sort oldest→newest.
 
-# Initialize a new file to track replayed commits
-touch commits-yourproject.txt
-git add commits-yourproject.txt
-git commit -m "Initialize commits-yourproject.txt for recording replayed commits"
+# 2. Replay — one commit per line, original dates, current identity:
+GIT_AUTHOR_DATE="$d" GIT_COMMITTER_DATE="$d" \
+  git commit --date "$d" --author "Your Name <you@personal>" \
+    -m "$subject -  $shortstat"
+#    (prepend each line to commits-<project>.txt before committing.)
 
-# Replay each commit in chronological order
-while IFS='|' read -r commit_hash commit_message commit_date shortstat; do
-    # Prepend commit details including shortstat to the commits-yourproject.txt file
-    echo "$commit_hash | $commit_message | $commit_date | $shortstat" | cat - commits-yourproject.txt > temp_file && mv temp_file commits-yourproject.txt
-
-    # Stage the changes including the updated commits-yourproject.txt
-    git add commits-yourproject.txt
-
-    # Commit with the original message and date
-    GIT_COMMITTER_DATE="$commit_date" git commit -m "$commit_message - $shortstat" --date "$commit_date"
-
-done < <(sort -t'|' -k3 commits_to_replay.txt)
-
-# Push to the new repository
+# 3. Push.
 git push origin main
 ```
 
-### 4. Push to the New Repository
+For multi-repo / multi-identity / stash handling, script steps 1–2 in Python rather than a shell
+loop — it's far more robust than the original `while`-loop approach.
 
-Finally, push the recreated commit history to the new repository:
+## Captured projects
 
-```bash
-git push origin main
-```
+| Project | Span | Source |
+|---|---|---|
+| EcoText | 2020–2022 | offline code archive (GitLab/Bitbucket; access lost) |
+| EXO Freight | 2022–2024 | local repo clone |
+| BlueCargo | 2024–2026 | offline clean archive (org access revoked) |
 
-## Result
-
-The commit history, including shortstat data, is now recreated in the new repository. All commits are documented in the `commits-yourproject.txt` file, with the shortstat data appended to each commit message for documentation purposes.
-
-## Notes
-
-- **Preservation of Commit History:** The original commit dates, messages, and shortstat data are preserved without transferring the actual code.
-- **Chronological Order:** Commits are replayed in chronological order to maintain accurate history.
-- **Documentation:** The `commits-*.txt` files in the repository serve as a log of all replayed commits.
+Each lives in its own `commits-<project>.txt`.
